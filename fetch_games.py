@@ -101,8 +101,8 @@ def main():
     print(f"\nFetching completed games ({OPENING_DAY} → {TODAY})...")
     completed, _ = fetch_schedule(OPENING_DAY, TODAY)
 
-    print(f"\nFetching remaining schedule ({TODAY + timedelta(days=1)} → {SEASON_END})...")
-    _, remaining = fetch_schedule(TODAY + timedelta(days=1), SEASON_END)
+    print(f"\nFetching remaining schedule ({TODAY} → {SEASON_END})...")
+    _, remaining = fetch_schedule(TODAY, SEASON_END)
 
     # Annotate games with team abbreviations for readability
     for g in completed + remaining:
