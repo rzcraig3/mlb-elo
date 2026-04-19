@@ -167,13 +167,13 @@ def circle_svg(abbr, size=36, back=False):
         f'style="background:{color};width:{size}px;height:{size}px;'
         f'font-size:{fs}px;border-radius:50%;display:inline-flex;'
         f'align-items:center;justify-content:center;font-weight:800;'
-        f'color:#fff;flex-shrink:0;letter-spacing:-.5px"'
+        f'color:transparent;flex-shrink:0;letter-spacing:-.5px"'
     )
     return (
         f'<span class="team-logo" {fallback}>'
         f'<img src="{logo_dir}/{abbr}.svg" width="{size}" height="{size}" '
         f'alt="{abbr}" style="display:block" '
-        f'onerror="this.style.display=\'none\'">'
+        f'onerror="this.style.display=\'none\';this.parentElement.style.color=\'#fff\'">'
         f'{lbl}</span>'
     )
 
@@ -381,7 +381,7 @@ td.prob .prob-inner{
 .games-table td:nth-child(2){text-align:left}
 .games-table td:nth-child(3){text-align:left}
 .pitcher-name{font-size:12px;font-weight:600;color:#444}
-.pitcher-tbd{font-size:12px;color:#bbb}
+.pitcher-tbd{font-size:12px;color:#999;font-style:italic}
 .ha-badge{display:inline-block;padding:1px 7px;border-radius:10px;
   font-size:10px;font-weight:700;letter-spacing:.05em}
 .ha-home{background:#e8f3ff;color:#1a5fa8}
