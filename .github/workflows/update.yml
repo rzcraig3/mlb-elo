@@ -1,0 +1,72 @@
+name: Update MLB Elo Forecast
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 10:00 UTC = 6:00 AM ET, after west coast games finish
+  workflow_dispatch:        # manual trigger from Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch game data
+        run: python3 fetch_games.py
+
+      - name: Calculate Elo ratings
+        run: python3 elo_engine.py
+
+      - name: Run Monte Carlo simulation
+        run: python3 simulate.py
+
+      - name: Fetch pitcher data
+        run: python3 fetch_pitchers.py
+
+      - name: Download team logos
+        run: python3 fetch_logos.py
+
+      - name: Build static site
+        run: python3 build_site.py
+
+      - name: Commit updated data files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: data update ${{ env.TODAY }}"
+          file_pattern: data/*.json
+        env:
+          TODAY: ${{ steps.date.outputs.date }}
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

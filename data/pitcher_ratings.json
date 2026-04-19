@@ -1,0 +1,297 @@
+{
+  "pitchers": {
+    "500779": {
+      "name": "Jose Quintana",
+      "rgs": 41.9,
+      "starts": 2
+    },
+    "543243": {
+      "name": "Sonny Gray",
+      "rgs": 47.6,
+      "starts": 4
+    },
+    "547179": {
+      "name": "Michael Lorenzen",
+      "rgs": 35.7,
+      "starts": 4
+    },
+    "571945": {
+      "name": "Miles Mikolas",
+      "rgs": 26.9,
+      "starts": 3
+    },
+    "592332": {
+      "name": "Kevin Gausman",
+      "rgs": 60.8,
+      "starts": 4
+    },
+    "592662": {
+      "name": "Robbie Ray",
+      "rgs": 58.4,
+      "starts": 4
+    },
+    "605488": {
+      "name": "Jeffrey Springs",
+      "rgs": 69.0,
+      "starts": 4
+    },
+    "621111": {
+      "name": "Walker Buehler",
+      "rgs": 55.3,
+      "starts": 4
+    },
+    "641927": {
+      "name": "Bailey Ober",
+      "rgs": 50.2,
+      "starts": 4
+    },
+    "650633": {
+      "name": "Michael King",
+      "rgs": 59.0,
+      "starts": 4
+    },
+    "656427": {
+      "name": "Jack Flaherty",
+      "rgs": 55.6,
+      "starts": 4
+    },
+    "656550": {
+      "name": "Grant Holmes",
+      "rgs": 55.7,
+      "starts": 4
+    },
+    "656605": {
+      "name": "Mitch Keller",
+      "rgs": 52.8,
+      "starts": 4
+    },
+    "663556": {
+      "name": "Shane McClanahan",
+      "rgs": 53.9,
+      "starts": 3
+    },
+    "663903": {
+      "name": "Brady Singer",
+      "rgs": 44.9,
+      "starts": 4
+    },
+    "663978": {
+      "name": "Chris Paddack",
+      "rgs": 44.8,
+      "starts": 3
+    },
+    "664285": {
+      "name": "Framber Valdez",
+      "rgs": 54.0,
+      "starts": 4
+    },
+    "665871": {
+      "name": "Javier Assad",
+      "rgs": 36.0,
+      "starts": 2
+    },
+    "666142": {
+      "name": "Cole Ragans",
+      "rgs": 52.6,
+      "starts": 4
+    },
+    "668964": {
+      "name": "Tobias Myers",
+      "rgs": null,
+      "starts": 0
+    },
+    "669022": {
+      "name": "MacKenzie Gore",
+      "rgs": 59.1,
+      "starts": 4
+    },
+    "669160": {
+      "name": "Dustin May",
+      "rgs": 48.2,
+      "starts": 4
+    },
+    "669194": {
+      "name": "Ryne Nelson",
+      "rgs": 56.9,
+      "starts": 4
+    },
+    "669432": {
+      "name": "Trevor Rogers",
+      "rgs": 54.5,
+      "starts": 4
+    },
+    "669461": {
+      "name": "Matthew Liberatore",
+      "rgs": 43.5,
+      "starts": 4
+    },
+    "672282": {
+      "name": "Reid Detmers",
+      "rgs": 60.7,
+      "starts": 4
+    },
+    "676083": {
+      "name": "Janson Junk",
+      "rgs": 50.4,
+      "starts": 4
+    },
+    "676282": {
+      "name": "Joey Cantillo",
+      "rgs": 57.8,
+      "starts": 4
+    },
+    "676440": {
+      "name": "Tanner Bibee",
+      "rgs": 48.7,
+      "starts": 5
+    },
+    "676974": {
+      "name": "Max Meyer",
+      "rgs": 53.0,
+      "starts": 4
+    },
+    "676979": {
+      "name": "Garrett Crochet",
+      "rgs": 37.8,
+      "starts": 4
+    },
+    "677944": {
+      "name": "Slade Cecconi",
+      "rgs": 49.6,
+      "starts": 4
+    },
+    "677960": {
+      "name": "Ryan Weathers",
+      "rgs": 50.8,
+      "starts": 4
+    },
+    "680736": {
+      "name": "Justin Wrobleski",
+      "rgs": 70.5,
+      "starts": 2
+    },
+    "681190": {
+      "name": "Randy V\u00e1squez",
+      "rgs": 55.9,
+      "starts": 4
+    },
+    "681347": {
+      "name": "Mike Burrows",
+      "rgs": 38.6,
+      "starts": 4
+    },
+    "681517": {
+      "name": "Kyle Leahy",
+      "rgs": 45.7,
+      "starts": 4
+    },
+    "682227": {
+      "name": "Brandon Williamson",
+      "rgs": 50.6,
+      "starts": 4
+    },
+    "687075": {
+      "name": "Brandon Sproat",
+      "rgs": 44.0,
+      "starts": 2
+    },
+    "690986": {
+      "name": "Kyle Harrison",
+      "rgs": 55.2,
+      "starts": 3
+    },
+    "690997": {
+      "name": "Nolan McLean",
+      "rgs": 68.2,
+      "starts": 4
+    },
+    "691587": {
+      "name": "Eury P\u00e9rez",
+      "rgs": 45.4,
+      "starts": 4
+    },
+    "691725": {
+      "name": "Andrew Painter",
+      "rgs": 48.6,
+      "starts": 2
+    },
+    "693433": {
+      "name": "Bryan Woo",
+      "rgs": 62.7,
+      "starts": 4
+    },
+    "694477": {
+      "name": "Chad Patrick",
+      "rgs": 60.1,
+      "starts": 3
+    },
+    "694819": {
+      "name": "Jacob Misiorowski",
+      "rgs": 58.1,
+      "starts": 4
+    },
+    "695076": {
+      "name": "Rhett Lowder",
+      "rgs": 56.0,
+      "starts": 4
+    },
+    "695505": {
+      "name": "Chase Burns",
+      "rgs": 58.1,
+      "starts": 4
+    },
+    "700241": {
+      "name": "Michael McGreevy",
+      "rgs": 56.6,
+      "starts": 4
+    },
+    "702273": {
+      "name": "Noah Schultz",
+      "rgs": 47.9,
+      "starts": 1
+    },
+    "800048": {
+      "name": "Parker Messick",
+      "rgs": 70.4,
+      "starts": 4
+    },
+    "808963": {
+      "name": "Roki Sasaki",
+      "rgs": 42.0,
+      "starts": 3
+    }
+  },
+  "team_avg_rgs": {
+    "LAA": 59.3,
+    "ATL": 59.6,
+    "KC": 63.9,
+    "CLE": 59.4,
+    "ATH": 55.0,
+    "PHI": 54.0,
+    "MIN": 61.9,
+    "TOR": 63.5,
+    "NYY": 60.9,
+    "NYM": 59.8,
+    "AZ": 55.6,
+    "DET": 59.7,
+    "LAD": 57.9,
+    "CWS": 61.3,
+    "SEA": 60.7,
+    "PIT": 58.7,
+    "CHC": 57.7,
+    "SF": 54.3,
+    "CIN": 52.3,
+    "TB": 55.8,
+    "STL": 51.0,
+    "SD": 58.6,
+    "TEX": 53.1,
+    "BAL": 53.0,
+    "MIA": 55.3,
+    "BOS": 52.9,
+    "MIL": 58.7,
+    "HOU": 39.7,
+    "COL": 56.9,
+    "WSH": 56.9
+  },
+  "updated": "2026-04-19"
+}

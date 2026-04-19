@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+site/
+*.pdf
+mlb-elo-dashboard.jsx
+"MLB Elo Forecast - Claude Code Build Guide.md"
