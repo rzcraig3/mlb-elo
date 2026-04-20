@@ -8,6 +8,12 @@ HFA        = 24
 PITCH_MULT = 4.7   # FiveThirtyEight pitcher adjustment multiplier
 TBD_OFFSET = -4.5  # TBD starters assumed this far below team average
 
+HEADSHOT_URL = (
+    "https://img.mlbstatic.com/mlb-photos/image/upload/"
+    "d_people:generic:headshot:67:current.png/"
+    "w_80,q_auto:best/v1/people/{pid}/headshot/67/current"
+)
+
 # Stadium lat/lng for travel distance calculation
 STADIUMS = {
     "LAD": (34.0739, -118.2400), "NYY": (40.8296, -73.9262),
@@ -142,6 +148,27 @@ def pitcher_adj(abbr, pitcher_id, pitcher_ratings):
         return 0.0, round(team_avg, 1), round(team_avg, 1)
     adj = round(PITCH_MULT * (p_rgs - team_avg), 1)
     return adj, round(p_rgs, 1), round(team_avg, 1)
+
+
+def short_name(n):
+    """'Grant Holmes' → 'G. Holmes'"""
+    if not n:
+        return None
+    p = n.strip().split()
+    return f"{p[0][0]}. {' '.join(p[1:])}" if len(p) >= 2 else n
+
+
+def pitcher_cell_html(pitcher_id, pitcher_name):
+    """Headshot circle + name for the games table."""
+    if pitcher_id:
+        url  = HEADSHOT_URL.format(pid=pitcher_id)
+        photo = (f'<img src="{url}" width="36" height="36" '
+                 f'class="pitcher-headshot" alt="">')
+        name  = f'<span class="pitcher-name">{short_name(pitcher_name) or ""}</span>'
+    else:
+        photo = '<div class="pitcher-headshot pitcher-headshot-tbd"></div>'
+        name  = '<span class="pitcher-tbd">TBD</span>'
+    return f'<div class="pitcher-cell">{photo}{name}</div>'
 
 
 def pct_fmt(p):
@@ -378,26 +405,41 @@ td.prob .prob-inner{
   border-bottom:1px solid #e8e8e8}
 
 /* ── upcoming games ── */
+.games-table td{vertical-align:middle}
 .games-table td:nth-child(2){text-align:left}
 .games-table td:nth-child(3){text-align:left}
+.game-date{text-align:left;width:44px;vertical-align:middle!important;
+  padding-right:8px;white-space:nowrap}
+.game-month{display:block;font-size:9px;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;color:#bbb;line-height:1.3}
+.game-day{display:block;font-size:17px;font-weight:800;color:#333;line-height:1.1}
+.game-team-cell{display:flex;align-items:center;gap:6px;min-width:168px}
+.team-name-sm{font-size:13px;font-weight:700}
+.game-row-top td{border-bottom:none!important}
+.game-row-bot td{border-bottom:1px solid #ebebeb!important}
+.game-sep td{height:7px;background:#f4f4f5;padding:0;border:none!important}
+.pitcher-cell{display:flex;align-items:center;gap:8px;min-width:148px}
+.pitcher-headshot{width:36px;height:36px;border-radius:50%;
+  object-fit:cover;object-position:top center;
+  background:#f0f0f0;flex-shrink:0}
+.pitcher-headshot-tbd{width:36px;height:36px;border-radius:50%;
+  background:#e4e4e7;flex-shrink:0}
 .pitcher-name{font-size:12px;font-weight:600;color:#444}
 .pitcher-tbd{font-size:12px;color:#999;font-style:italic}
-.ha-badge{display:inline-block;padding:1px 7px;border-radius:10px;
-  font-size:10px;font-weight:700;letter-spacing:.05em}
+.ha-badge{display:inline-block;padding:1px 6px;border-radius:10px;
+  font-size:9px;font-weight:700;letter-spacing:.04em;flex-shrink:0}
 .ha-home{background:#e8f3ff;color:#1a5fa8}
-.ha-away{background:#f5f5f5;color:#666}
+.ha-away{background:#f5f5f5;color:#777}
 .pwin{font-weight:700;text-align:right}
 .pwin.fav{color:#1a7f1a}
 .pwin.dog{color:#c0392b}
 .pwin.even{color:#888}
 
 /* ── adjustment cells ── */
-.num-col{font-size:12px;font-variant-numeric:tabular-nums}
-.adj-col{color:#888}
-.pre-col{color:#111}
-.date-col{color:#bbb;font-size:12px;text-align:left;width:58px;white-space:nowrap}
-.opp-col{text-align:left;min-width:180px}
-.pit-col{text-align:left;min-width:110px}
+.num-col{font-size:12px;font-variant-numeric:tabular-nums;text-align:right}
+.pre-col{color:#111;font-weight:700}
+.pit-col{text-align:left;min-width:148px}
+.team-col{text-align:left}
 .adj-pos{color:#1a7f1a;font-weight:700}
 .adj-neg{color:#c0392b;font-weight:700}
 .adj-zero{color:#bbb}
@@ -579,74 +621,99 @@ def upcoming_games_section(abbr, schedule, teams, completed_games, pitchers, pit
     if not games:
         return ""
 
-    def short(n):
-        if not n: return None
-        p = n.strip().split()
-        return f"{p[0][0]}. {' '.join(p[1:])}" if len(p) >= 2 else n
-
     def adj_cell(val):
         if val == 0:
-            return f'<span class="adj-zero">0</span>'
+            return '<span class="adj-zero">—</span>'
         cls = "adj-pos" if val > 0 else "adj-neg"
         return f'<span class="{cls}">{val:+.0f}</span>'
 
     rows = []
-    prev_date = None
     for g in games:
         is_home  = g["home"] == abbr
         opp      = g["away"] if is_home else g["home"]
         opp_data = teams.get(opp, {})
-        base_elo = teams.get(abbr, {}).get("elo", 1500)
+        our_elo  = teams.get(abbr, {}).get("elo", 1500)
         opp_elo  = opp_data.get("elo", 1500)
 
+        # Pitcher lookup
         pk       = f"{g['date']}|{g['home']}|{g['away']}"
         pit_data = pitchers.get(pk, {})
         our_pid  = pit_data.get("home_pitcher_id" if is_home else "away_pitcher_id")
         opp_pid  = pit_data.get("away_pitcher_id" if is_home else "home_pitcher_id")
-        our_name = pit_data.get("home_pitcher" if is_home else "away_pitcher")
-        opp_name = pit_data.get("away_pitcher" if is_home else "home_pitcher")
+        our_name = pit_data.get("home_pitcher"    if is_home else "away_pitcher")
+        opp_name = pit_data.get("away_pitcher"    if is_home else "home_pitcher")
 
-        our_pit_adj, our_rgs, our_team_avg = pitcher_adj(abbr, our_pid, pitcher_ratings)
-        opp_pit_adj, opp_rgs, opp_team_avg = pitcher_adj(opp,  opp_pid, pitcher_ratings)
+        # Pitcher adjustments
+        our_pit_adj, _, _ = pitcher_adj(abbr, our_pid, pitcher_ratings)
+        opp_pit_adj, _, _ = pitcher_adj(opp,  opp_pid, pitcher_ratings)
 
-        t_adj, r_adj, rest_d = travel_rest_adj(abbr, g, completed_games)
-        tr_adj = round(t_adj + r_adj, 1)
+        # Travel / rest (computed for both teams)
+        our_t, our_r, _ = travel_rest_adj(abbr, g, completed_games)
+        opp_t, opp_r, _ = travel_rest_adj(opp,  g, completed_games)
+        our_tr = round(our_t + our_r, 1)
+        opp_tr = round(opp_t + opp_r, 1)
 
-        hfa_adj = HFA if is_home else 0
+        # HFA bundled into travel/rest column (Boxscorus style)
+        our_hfa = HFA if is_home else 0
+        opp_hfa = 0   if is_home else HFA
+        our_tr_disp = round(our_tr + our_hfa, 1)
+        opp_tr_disp = round(opp_tr + opp_hfa, 1)
 
-        pre_elo     = base_elo + our_pit_adj + tr_adj + hfa_adj
-        opp_pre_elo = opp_elo  + opp_pit_adj + (HFA if not is_home else 0)
+        # Pre-game ratings
+        our_pre = our_elo + our_pit_adj + our_tr + our_hfa
+        opp_pre = opp_elo + opp_pit_adj + opp_tr + opp_hfa
 
-        p_win    = expected(pre_elo, opp_pre_elo)
-        pwin_pct = p_win * 100
-        pwin_cls = "fav" if pwin_pct > 52 else ("dog" if pwin_pct < 48 else "even")
+        # Win probability
+        p_win   = expected(our_pre, opp_pre)
+        our_pct = p_win * 100
+        opp_pct = (1 - p_win) * 100
+        our_cls = "fav" if our_pct > 52 else ("dog" if our_pct < 48 else "even")
+        opp_cls = "fav" if opp_pct > 52 else ("dog" if opp_pct < 48 else "even")
 
-        ha_badge  = ('<span class="ha-badge ha-home">HOME</span>' if is_home
-                     else '<span class="ha-badge ha-away">AWAY</span>')
-        our_pit_html = (f'<span class="pitcher-name">{short(our_name)}</span>'
-                        if our_name else '<span class="pitcher-tbd">TBD</span>')
+        # Badges
+        our_ha_cls = "ha-home" if is_home else "ha-away"
+        opp_ha_cls = "ha-away" if is_home else "ha-home"
+        our_ha_lbl = "HOME"    if is_home else "AWAY"
+        opp_ha_lbl = "AWAY"    if is_home else "HOME"
 
-        date_cell = ""
-        if g["date"] != prev_date:
-            mo, dy = int(g["date"][5:7]), int(g["date"][8:10])
-            date_cell = f"{MONTH_NAMES[mo]} {dy}"
-            prev_date = g["date"]
+        # Date label
+        mo, dy    = int(g["date"][5:7]), int(g["date"][8:10])
+        date_html = (f'<span class="game-month">{MONTH_NAMES[mo]}</span>'
+                     f'<span class="game-day">{dy}</span>')
 
-        rows.append(f"""  <tr>
-    <td class="date-col">{date_cell}</td>
-    <td class="opp-col">
-      {ha_badge}&nbsp;
-      <a href="{opp}.html" style="display:inline-flex;align-items:center;gap:8px">
-        {circle_svg(opp, 28, back=True)}
-        <strong>{opp_data.get('name', opp)}</strong>
-      </a>
+        if rows:
+            rows.append('<tr class="game-sep"><td colspan="8"></td></tr>')
+
+        rows.append(f"""  <tr class="game-row-top">
+    <td rowspan="2" class="game-date">{date_html}</td>
+    <td class="team-col">
+      <div class="game-team-cell">
+        <span class="ha-badge {our_ha_cls}">{our_ha_lbl}</span>
+        {circle_svg(abbr, 28, back=True)}
+        <span class="team-name-sm">{teams.get(abbr, {}).get('name', abbr)}</span>
+      </div>
     </td>
-    <td class="pit-col">{our_pit_html}</td>
-    <td class="num-col" title="Base Elo">{base_elo:.0f}</td>
-    <td class="num-col adj-col">{adj_cell(our_pit_adj)}</td>
-    <td class="num-col adj-col">{adj_cell(tr_adj)}</td>
-    <td class="num-col pre-col"><strong>{pre_elo:.0f}</strong></td>
-    <td class="pwin {pwin_cls}">{pwin_pct:.0f}%</td>
+    <td class="pit-col">{pitcher_cell_html(our_pid, our_name)}</td>
+    <td class="num-col">{our_elo:.0f}</td>
+    <td class="num-col">{adj_cell(our_pit_adj)}</td>
+    <td class="num-col">{adj_cell(our_tr_disp)}</td>
+    <td class="num-col pre-col">{our_pre:.0f}</td>
+    <td class="pwin {our_cls}">{our_pct:.0f}%</td>
+  </tr>
+  <tr class="game-row-bot">
+    <td class="team-col">
+      <div class="game-team-cell">
+        <span class="ha-badge {opp_ha_cls}">{opp_ha_lbl}</span>
+        {circle_svg(opp, 28, back=True)}
+        <span class="team-name-sm">{opp_data.get('name', opp)}</span>
+      </div>
+    </td>
+    <td class="pit-col">{pitcher_cell_html(opp_pid, opp_name)}</td>
+    <td class="num-col">{opp_elo:.0f}</td>
+    <td class="num-col">{adj_cell(opp_pit_adj)}</td>
+    <td class="num-col">{adj_cell(opp_tr_disp)}</td>
+    <td class="num-col pre-col">{opp_pre:.0f}</td>
+    <td class="pwin {opp_cls}">{opp_pct:.0f}%</td>
   </tr>""")
 
     return f"""<div class="section-title">Upcoming Games</div>
@@ -655,17 +722,14 @@ def upcoming_games_section(abbr, schedule, teams, completed_games, pitchers, pit
 <table class="games-table">
   <thead>
     <tr>
-      <th class="date-col" style="text-align:left" rowspan="2">Date</th>
-      <th class="opp-col"  style="text-align:left" rowspan="2">Opponent</th>
-      <th class="pit-col"  style="text-align:left" rowspan="2">Starter</th>
-      <th colspan="4" class="span-header">Pre-Game Rating</th>
-      <th rowspan="2">P(win)</th>
-    </tr>
-    <tr>
-      <th class="num-col">Base</th>
-      <th class="num-col adj-col">Pitcher</th>
-      <th class="num-col adj-col">Travel/Rest</th>
-      <th class="num-col pre-col">Total</th>
+      <th style="text-align:left">Date</th>
+      <th style="text-align:left">Team</th>
+      <th style="text-align:left">Starting Pitcher</th>
+      <th class="num-col">Rating</th>
+      <th class="num-col">Pitcher</th>
+      <th class="num-col">Travel/Rest</th>
+      <th class="num-col pre-col">Pre-Game</th>
+      <th>P(win)</th>
     </tr>
   </thead>
   <tbody>{"".join(rows)}</tbody>
