@@ -1,20 +1,49 @@
 import json
 import math
+import os
 from datetime import date, timedelta
 
-PRESEASON = {
-    "LAD": 1560, "NYY": 1540, "ATL": 1535, "PHI": 1530,
-    "NYM": 1520, "HOU": 1520, "SD":  1520, "BAL": 1515,
-    "AZ":  1515, "CLE": 1515, "MIL": 1515, "MIN": 1510,
-    "DET": 1510, "BOS": 1510, "CHC": 1510, "TB":  1505,
-    "STL": 1500, "CIN": 1500, "TEX": 1500, "KC":  1500,
-    "TOR": 1495, "SEA": 1495, "SF":  1495, "PIT": 1490,
-    "WSH": 1485, "LAA": 1485, "ATH": 1480, "MIA": 1465,
-    "COL": 1452, "CWS": 1428,
-}
-
-K = 4
+K   = 4
 HFA = 24
+
+
+def wins_to_elo(wins, games=162):
+    """Scale projected wins to Elo (FiveThirtyEight methodology)."""
+    rate = max(0.001, min(0.999, wins / games))
+    return 1500 + 400 * math.log10(rate / (1 - rate))
+
+
+def build_preseason_elos():
+    """
+    FiveThirtyEight preseason methodology:
+      - 67% from win projections (FanGraphs depth charts), scaled to Elo
+      - 33% from previous season's final Elo, reverted 1/3 toward 1500
+
+    First season of this system: 100% win projections (no prior available).
+    Subsequent seasons: blend automatically once prev_season_elo.json exists.
+    """
+    with open("data/preseason_projections.json") as f:
+        proj = json.load(f)
+    proj_wins = proj["projections"]
+
+    prev_elo = {}
+    if os.path.exists("data/prev_season_elo.json"):
+        with open("data/prev_season_elo.json") as f:
+            prev_elo = json.load(f)
+        print(f"  Blending with previous season Elo (67/33 split)")
+    else:
+        print(f"  No previous season Elo found — using 100% win projections")
+
+    preseason = {}
+    for abbr, wins in proj_wins.items():
+        p_elo = wins_to_elo(wins)
+        if abbr in prev_elo:
+            reverted = prev_elo[abbr] * (2 / 3) + 1500 * (1 / 3)
+            preseason[abbr] = 0.67 * p_elo + 0.33 * reverted
+        else:
+            preseason[abbr] = p_elo
+
+    return preseason
 
 
 def expected(a, b):
@@ -40,8 +69,11 @@ def load():
 def run():
     teams, games = load()
 
-    # initialise ratings and record trackers
-    elo = {abbr: float(PRESEASON.get(abbr, 1500)) for abbr in teams}
+    print("Building preseason Elo ratings...")
+    preseason = build_preseason_elos()
+
+    # Initialise ratings — fall back to 1500 for any team missing from projections
+    elo = {abbr: float(preseason.get(abbr, 1500)) for abbr in teams}
     wins = {abbr: 0 for abbr in teams}
     losses = {abbr: 0 for abbr in teams}
     history = []
@@ -112,6 +144,15 @@ def run():
 
     with open("data/current_ratings.json", "w") as f:
         json.dump(output, f, indent=2)
+
+    # Save end-of-season Elo for next year's 33% blend
+    # (only after the final regular-season game in October)
+    season_end = date(date.today().year, 10, 5)
+    if date.today() >= season_end:
+        prev = {abbr: round(elo[abbr], 1) for abbr in elo}
+        with open("data/prev_season_elo.json", "w") as f:
+            json.dump(prev, f, indent=2)
+        print("Saved data/prev_season_elo.json for next season's preseason blend")
 
     # print table
     ranked = sorted(ratings.items(), key=lambda x: -x[1]["elo"])
