@@ -3,9 +3,10 @@ import math
 import multiprocessing as mp
 from datetime import date
 
-NS = 10_000
-K = 4
-HFA = 24
+NS    = 10_000
+K     = 4
+K_SIM = K * 0.75   # 538: ratings change at 3/4 speed inside simulations
+HFA   = 24
 
 WIN_BASE = 40   # lowest win total tracked
 WIN_BINS = 85   # covers 40–124 wins
@@ -84,7 +85,7 @@ def run_batch(args):
             p = expected(elo[home] + HFA, elo[away])
             home_wins = rng() < p
             winner, loser = (home, away) if home_wins else (away, home)
-            delta = K * ((1.0 if home_wins else 0.0) - p)
+            delta = K_SIM * ((1.0 if home_wins else 0.0) - p)
             elo[home] += delta
             elo[away] -= delta
             rc[winner]["w"] += 1
