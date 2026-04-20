@@ -8,6 +8,12 @@ HFA        = 24
 PITCH_MULT = 4.7   # FiveThirtyEight pitcher adjustment multiplier
 TBD_OFFSET = -4.5  # TBD starters assumed this far below team average
 
+# Fixed chart axes — same for every team
+CHART_ELO_LO    = 1350
+CHART_ELO_HI    = 1600
+CHART_DATE_START = "2026-03-26"   # Opening Day
+CHART_DATE_END   = "2026-10-04"   # Last regular season game
+
 HEADSHOT_URL = (
     "https://img.mlbstatic.com/mlb-photos/image/upload/"
     "d_people:generic:headshot:67:current.png/"
@@ -233,7 +239,7 @@ def win_dist_svg(win_dist, proj_w):
     )
 
 
-def elo_history_svg(history, abbr, color, w=840, h=160):
+def elo_history_svg(history, abbr, color, w=840, h=180):
     pts = []
     for g in history:
         if g["home"] == abbr:
@@ -244,56 +250,67 @@ def elo_history_svg(history, abbr, color, w=840, h=160):
     if len(pts) < 2:
         return "<p class='chart-empty'>Not enough games yet</p>"
 
-    elos  = [p[1] for p in pts]
-    dates = [p[0] for p in pts]
+    # Fixed axes — identical scale for every team
+    lo, hi = CHART_ELO_LO, CHART_ELO_HI
+    d0 = date.fromisoformat(CHART_DATE_START)
+    d1 = date.fromisoformat(CHART_DATE_END)
+    total_days = (d1 - d0).days
+
     pl, pr, pt_pad, pb = 46, 12, 14, 28
     cw = w - pl - pr
     ch = h - pt_pad - pb
 
-    lo = min(min(elos) - 12, 1488)
-    hi = max(max(elos) + 12, 1512)
+    def sx(date_str):
+        frac = (date.fromisoformat(date_str) - d0).days / total_days
+        return pl + max(0.0, min(1.0, frac)) * cw
 
-    def sx(i): return pl + (i / (len(pts) - 1)) * cw
-    def sy(e): return pt_pad + ch - (e - lo) / (hi - lo) * ch
+    def sy(e):
+        return pt_pad + ch - (e - lo) / (hi - lo) * ch
 
-    coords = [(sx(i), sy(e)) for i, e in enumerate(elos)]
+    coords = [(sx(d), sy(e)) for d, e in pts]
     line   = "M " + " L ".join(f"{x:.1f},{y:.1f}" for x, y in coords)
     area   = (line + f" L {coords[-1][0]:.1f},{pt_pad + ch:.1f} "
               f"L {coords[0][0]:.1f},{pt_pad + ch:.1f} Z")
 
-    # y ticks
-    rng  = hi - lo
-    step = 25 if rng < 120 else 50
-    v    = math.ceil(lo / step) * step
-    y_ticks = []
-    while v <= hi:
-        y_ticks.append((v, sy(v)))
-        v += step
+    # Fixed y ticks every 50 points: 1350, 1400, 1450, 1500, 1550, 1600
+    y_ticks = [(v, sy(v)) for v in range(lo, hi + 1, 50)]
 
-    # month markers
+    # Fixed month labels: Apr–Oct at the 1st of each month
     month_marks = []
-    seen = set()
-    for i, d in enumerate(dates):
-        m = d[:7]
-        if m not in seen:
-            seen.add(m)
-            month_marks.append((sx(i), MONTH_NAMES[int(d[5:7])]))
+    for mo in range(4, 11):
+        first = date(d0.year, mo, 1)
+        if d0 <= first <= d1:
+            month_marks.append((sx(first.isoformat()), MONTH_NAMES[mo]))
 
     y1500 = sy(1500)
 
     out = [f'<svg class="elo-chart" viewBox="0 0 {w} {h}" xmlns="http://www.w3.org/2000/svg">']
+    # Horizontal grid lines
     for _, yp in y_ticks:
-        out.append(f'<line x1="{pl}" y1="{yp:.1f}" x2="{pl+cw}" y2="{yp:.1f}" stroke="#f0f0f0" stroke-width="1"/>')
+        out.append(f'<line x1="{pl}" y1="{yp:.1f}" x2="{pl+cw}" y2="{yp:.1f}" '
+                   f'stroke="#f0f0f0" stroke-width="1"/>')
+    # Vertical month lines
+    for xp, _ in month_marks:
+        out.append(f'<line x1="{xp:.1f}" y1="{pt_pad}" x2="{xp:.1f}" y2="{pt_pad+ch:.1f}" '
+                   f'stroke="#f0f0f0" stroke-width="1"/>')
+    # Area fill under line
     out.append(f'<path d="{area}" fill="{color}" opacity="0.10"/>')
+    # 1500 reference line
     out.append(
         f'<line x1="{pl}" y1="{y1500:.1f}" x2="{pl+cw}" y2="{y1500:.1f}" '
         f'stroke="#ED453E" stroke-width="1.5" stroke-dasharray="5,4" opacity="0.55"/>'
     )
-    out.append(f'<path d="{line}" fill="none" stroke="{color}" stroke-width="2.5" stroke-linejoin="round"/>')
+    # Rating line
+    out.append(f'<path d="{line}" fill="none" stroke="{color}" '
+               f'stroke-width="2.5" stroke-linejoin="round"/>')
+    # Y-axis labels
     for val, yp in y_ticks:
-        out.append(f'<text x="{pl-6}" y="{yp+4:.1f}" text-anchor="end" font-family="system-ui,sans-serif" font-size="10" fill="#bbb">{val:.0f}</text>')
+        out.append(f'<text x="{pl-6}" y="{yp+4:.1f}" text-anchor="end" '
+                   f'font-family="system-ui,sans-serif" font-size="10" fill="#bbb">{val}</text>')
+    # Month labels
     for xp, mn in month_marks:
-        out.append(f'<text x="{xp:.1f}" y="{h-5}" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#bbb">{mn}</text>')
+        out.append(f'<text x="{xp:.1f}" y="{h-5}" text-anchor="middle" '
+                   f'font-family="system-ui,sans-serif" font-size="11" fill="#bbb">{mn}</text>')
     out.append('</svg>')
     return "".join(out)
 
