@@ -3,14 +3,14 @@ import math
 from datetime import date, timedelta
 
 PRESEASON = {
-    "LAD": 1590, "NYY": 1560, "ATL": 1550, "PHI": 1540,
-    "NYM": 1530, "HOU": 1530, "SD": 1530, "BAL": 1520,
-    "AZ": 1520, "CLE": 1520, "MIL": 1520, "MIN": 1510,
+    "LAD": 1560, "NYY": 1540, "ATL": 1535, "PHI": 1530,
+    "NYM": 1520, "HOU": 1520, "SD":  1520, "BAL": 1515,
+    "AZ":  1515, "CLE": 1515, "MIL": 1515, "MIN": 1510,
     "DET": 1510, "BOS": 1510, "CHC": 1510, "TB":  1505,
     "STL": 1500, "CIN": 1500, "TEX": 1500, "KC":  1500,
-    "TOR": 1490, "SEA": 1490, "SF":  1490, "PIT": 1480,
-    "WSH": 1470, "LAA": 1470, "ATH": 1460, "MIA": 1440,
-    "COL": 1420, "CWS": 1380,
+    "TOR": 1495, "SEA": 1495, "SF":  1495, "PIT": 1490,
+    "WSH": 1485, "LAA": 1485, "ATH": 1480, "MIA": 1465,
+    "COL": 1452, "CWS": 1428,
 }
 
 K = 4
