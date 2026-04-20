@@ -17,7 +17,8 @@ from datetime import date, timedelta
 import requests
 
 BASE = "https://statsapi.mlb.com/api/v1"
-DECAY = 0.8   # weight decay per start going backward in time
+DECAY        = 0.8   # weight decay per start going backward in time
+SEASONS      = [2026, 2025, 2024]   # seasons to include in rolling rGS
 
 
 def get(url, params=None):
@@ -132,22 +133,38 @@ def main():
           f"max {max(team_avg_rgs.values()):.1f}, "
           f"league {league_avg:.1f}")
 
-    # ── 3. Individual pitcher weighted rGS from game logs ─────────────────
-    print(f"Fetching game logs for {len(pitcher_ids)} pitchers...")
+    # ── 3. Individual pitcher weighted rGS from multi-season game logs ───────
+    # Fetch 2024-2026 so established pitchers aren't misrepresented by a small
+    # early-season sample. Decay factor 0.8/start means recent starts still
+    # dominate; older seasons just prevent wild swings from 3-4 bad outings.
+    print(f"Fetching game logs for {len(pitcher_ids)} pitchers "
+          f"({', '.join(str(s) for s in SEASONS)})...")
     pitcher_ratings = {}
 
     for pid in sorted(pitcher_ids):
         try:
-            log = get(f"{BASE}/people/{pid}/stats", params={
-                "stats":    "gameLog", "group": "pitching",
-                "season":   2026,      "gameType": "R",
-            })
-            splits = log.get("stats", [{}])[0].get("splits", [])
-            starts = [s for s in splits if s.get("stat", {}).get("gamesStarted", 0) > 0]
-            starts.sort(key=lambda x: x.get("date", ""), reverse=True)
+            # Collect starts across all seasons, most-recent-first
+            all_starts = []
+            name = None
+            for season in SEASONS:
+                log = get(f"{BASE}/people/{pid}/stats", params={
+                    "stats":    "gameLog", "group": "pitching",
+                    "season":   season,    "gameType": "R",
+                })
+                splits = log.get("stats", [{}])[0].get("splits", [])
+                if not name and splits:
+                    name = splits[0].get("player", {}).get("fullName")
+                season_starts = [
+                    s for s in splits
+                    if s.get("stat", {}).get("gamesStarted", 0) > 0
+                ]
+                season_starts.sort(key=lambda x: x.get("date", ""), reverse=True)
+                all_starts.extend(season_starts)
+
+            name = name or str(pid)
 
             rgs_list = []
-            for s in starts:
+            for s in all_starts:
                 st = s.get("stat", {})
                 rgs_list.append(game_score(
                     ip_to_outs(st.get("inningsPitched", "0.0")),
@@ -158,8 +175,7 @@ def main():
                     st.get("homeRuns",    0),
                 ))
 
-            name = (splits[0].get("player", {}).get("fullName") if splits else None) or str(pid)
-            rgs  = weighted_rgs(rgs_list)
+            rgs = weighted_rgs(rgs_list)
 
             pitcher_ratings[str(pid)] = {
                 "name":   name,
@@ -167,7 +183,8 @@ def main():
                 "starts": len(rgs_list),
             }
             status = f"rGS={rgs:.1f}" if rgs is not None else "no starts"
-            print(f"  {name}: {status} ({len(rgs_list)} starts)")
+            print(f"  {name}: {status} ({len(rgs_list)} starts across "
+                  f"{len(SEASONS)} seasons)")
 
         except Exception as e:
             print(f"  ✗ pitcher {pid}: {e}")
