@@ -1,10 +1,10 @@
 {
   "ratings": {
     "ATH": {
-      "elo": 1448.3,
-      "w": 11,
+      "elo": 1451.0,
+      "w": 12,
       "l": 11,
-      "elo_7d_change": -7.1,
+      "elo_7d_change": -4.4,
       "name": "Athletics",
       "division": "American League West",
       "league": "American League"
@@ -28,10 +28,10 @@
       "league": "National League"
     },
     "SEA": {
-      "elo": 1493.3,
+      "elo": 1490.6,
       "w": 10,
-      "l": 13,
-      "elo_7d_change": -3.3,
+      "l": 14,
+      "elo_7d_change": -6.0,
       "name": "Seattle Mariners",
       "division": "American League West",
       "league": "American League"
@@ -73,10 +73,10 @@
       "league": "American League"
     },
     "TOR": {
-      "elo": 1468.6,
-      "w": 8,
+      "elo": 1471.6,
+      "w": 9,
       "l": 13,
-      "elo_7d_change": 0.9,
+      "elo_7d_change": 3.9,
       "name": "Toronto Blue Jays",
       "division": "American League East",
       "league": "American League"
@@ -145,10 +145,10 @@
       "league": "National League"
     },
     "LAA": {
-      "elo": 1468.8,
+      "elo": 1465.8,
       "w": 11,
-      "l": 12,
-      "elo_7d_change": 11.4,
+      "l": 13,
+      "elo_7d_change": 8.4,
       "name": "Los Angeles Angels",
       "division": "American League West",
       "league": "American League"
@@ -3956,6 +3956,28 @@
       "away_elo_pre": 1585.6,
       "home_elo_post": 1430.5,
       "away_elo_post": 1588.4
+    },
+    {
+      "date": "2026-04-20",
+      "home": "LAA",
+      "away": "TOR",
+      "home_score": 2,
+      "away_score": 5,
+      "home_elo_pre": 1468.8,
+      "away_elo_pre": 1468.6,
+      "home_elo_post": 1465.8,
+      "away_elo_post": 1471.6
+    },
+    {
+      "date": "2026-04-20",
+      "home": "SEA",
+      "away": "ATH",
+      "home_score": 4,
+      "away_score": 6,
+      "home_elo_pre": 1493.3,
+      "away_elo_pre": 1448.3,
+      "home_elo_post": 1490.6,
+      "away_elo_post": 1451.0
     }
   ],
   "updated": "2026-04-21"
