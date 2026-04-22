@@ -1,10 +1,5 @@
 {
   "pitchers": {
-    "518876": {
-      "name": "Merrill Kelly",
-      "rgs": 48.8,
-      "starts": 46
-    },
     "519242": {
       "name": "Chris Sale",
       "rgs": 60.2,
@@ -20,20 +15,15 @@
       "rgs": 52.1,
       "starts": 41
     },
-    "571578": {
-      "name": "Patrick Corbin",
-      "rgs": 51.0,
-      "starts": 64
-    },
-    "571927": {
-      "name": "Steven Matz",
-      "rgs": 55.0,
-      "starts": 13
-    },
     "593958": {
       "name": "Eduardo Rodriguez",
       "rgs": 52.7,
       "starts": 43
+    },
+    "594798": {
+      "name": "Jacob deGrom",
+      "rgs": 57.9,
+      "starts": 37
     },
     "605135": {
       "name": "Chris Bassitt",
@@ -44,6 +34,11 @@
       "name": "Clay Holmes",
       "rgs": 56.2,
       "starts": 35
+    },
+    "605400": {
+      "name": "Aaron Nola",
+      "rgs": 49.0,
+      "starts": 55
     },
     "607192": {
       "name": "Tyler Glasnow",
@@ -70,20 +65,10 @@
       "rgs": 53.4,
       "starts": 44
     },
-    "622491": {
-      "name": "Luis Castillo",
-      "rgs": 51.2,
-      "starts": 66
-    },
     "624133": {
       "name": "Ranger Suarez",
       "rgs": 56.3,
       "starts": 57
-    },
-    "625643": {
-      "name": "Reynaldo L\u00f3pez",
-      "rgs": 56.5,
-      "starts": 30
     },
     "641793": {
       "name": "Zack Littell",
@@ -94,6 +79,11 @@
       "name": "Tyler Mahle",
       "rgs": 43.3,
       "starts": 23
+    },
+    "642547": {
+      "name": "Freddy Peralta",
+      "rgs": 56.2,
+      "starts": 70
     },
     "647336": {
       "name": "Michael Soroka",
@@ -120,11 +110,6 @@
       "rgs": 58.3,
       "starts": 58
     },
-    "661563": {
-      "name": "Luis Gil",
-      "rgs": 47.5,
-      "starts": 42
-    },
     "663362": {
       "name": "Matt Waldron",
       "rgs": 36.2,
@@ -135,60 +120,60 @@
       "rgs": 57.9,
       "starts": 39
     },
-    "663460": {
-      "name": "Kris Bubic",
-      "rgs": 55.4,
-      "starts": 24
-    },
     "663554": {
       "name": "Casey Mize",
       "rgs": 57.7,
       "starts": 52
     },
-    "663978": {
-      "name": "Chris Paddack",
-      "rgs": 43.2,
-      "starts": 48
+    "663903": {
+      "name": "Brady Singer",
+      "rgs": 48.8,
+      "starts": 69
     },
     "665795": {
       "name": "Edward Cabrera",
       "rgs": 54.6,
       "starts": 50
     },
-    "666200": {
-      "name": "Jes\u00fas Luzardo",
-      "rgs": 51.8,
-      "starts": 48
-    },
     "667755": {
       "name": "Jos\u00e9 Soriano",
       "rgs": 64.9,
       "starts": 56
+    },
+    "668909": {
+      "name": "Gavin Williams",
+      "rgs": 62.6,
+      "starts": 52
     },
     "669302": {
       "name": "Logan Gilbert",
       "rgs": 57.0,
       "starts": 63
     },
-    "669358": {
-      "name": "Shane Baz",
-      "rgs": 50.3,
-      "starts": 49
-    },
     "669373": {
       "name": "Tarik Skubal",
       "rgs": 64.0,
       "starts": 67
+    },
+    "669461": {
+      "name": "Matthew Liberatore",
+      "rgs": 50.1,
+      "starts": 40
+    },
+    "669467": {
+      "name": "Andre Pallante",
+      "rgs": 47.3,
+      "starts": 55
     },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 45.5,
       "starts": 59
     },
-    "672456": {
-      "name": "Keider Montero",
-      "rgs": 56.6,
-      "starts": 31
+    "673540": {
+      "name": "Kodai Senga",
+      "rgs": 39.2,
+      "starts": 27
     },
     "676083": {
       "name": "Janson Junk",
@@ -200,93 +185,58 @@
       "rgs": 52.4,
       "starts": 67
     },
+    "676974": {
+      "name": "Max Meyer",
+      "rgs": 51.9,
+      "starts": 28
+    },
     "678394": {
       "name": "Brayan Bello",
       "rgs": 45.9,
       "starts": 62
-    },
-    "680573": {
-      "name": "Simeon Woods Richardson",
-      "rgs": 47.6,
-      "starts": 54
-    },
-    "680732": {
-      "name": "Sean Burke",
-      "rgs": 45.5,
-      "starts": 28
-    },
-    "681190": {
-      "name": "Randy V\u00e1squez",
-      "rgs": 55.6,
-      "starts": 50
     },
     "681517": {
       "name": "Kyle Leahy",
       "rgs": 47.5,
       "starts": 5
     },
-    "682052": {
-      "name": "Jacob Lopez",
-      "rgs": 45.8,
-      "starts": 22
-    },
-    "684007": {
-      "name": "Shota Imanaga",
-      "rgs": 58.8,
-      "starts": 58
-    },
-    "686799": {
-      "name": "Jack Kochanowicz",
-      "rgs": 45.6,
-      "starts": 38
-    },
-    "690986": {
-      "name": "Kyle Harrison",
-      "rgs": 51.6,
-      "starts": 33
-    },
-    "694738": {
-      "name": "Landen Roupp",
-      "rgs": 57.0,
-      "starts": 30
-    },
-    "808967": {
-      "name": "Yoshinobu Yamamoto",
-      "rgs": 66.2,
-      "starts": 52
+    "683004": {
+      "name": "Jack Leiter",
+      "rgs": 51.2,
+      "starts": 39
     }
   },
   "team_avg_rgs": {
-    "LAA": 59.5,
-    "KC": 67.9,
-    "CLE": 55.3,
+    "LAA": 62.4,
+    "KC": 63.6,
     "ATL": 59.2,
-    "PHI": 52.5,
-    "MIN": 59.2,
-    "LAD": 64.6,
+    "PHI": 52.4,
+    "MIN": 55.1,
+    "CLE": 61.2,
+    "LAD": 64.3,
+    "SD": 61.2,
     "NYY": 61.7,
-    "NYM": 57.0,
-    "AZ": 54.8,
-    "DET": 57.8,
+    "NYM": 57.5,
+    "AZ": 52.9,
+    "DET": 60.6,
     "TOR": 62.6,
-    "CWS": 61.3,
+    "CWS": 57.7,
+    "CHC": 66.5,
     "SEA": 60.0,
-    "SD": 60.1,
-    "PIT": 59.4,
-    "CHC": 59.5,
-    "SF": 56.6,
-    "TB": 54.7,
+    "SF": 57.0,
+    "CIN": 53.3,
+    "PIT": 57.9,
+    "BOS": 49.2,
     "MIL": 59.0,
-    "MIA": 55.1,
-    "CIN": 48.9,
-    "BOS": 49.1,
-    "STL": 52.5,
+    "MIA": 52.8,
+    "STL": 50.4,
     "ATH": 51.5,
-    "BAL": 51.2,
+    "WSH": 50.9,
+    "BAL": 50.4,
     "TEX": 51.0,
-    "WSH": 48.8,
+    "TB": 50.5,
     "HOU": 42.4,
-    "COL": 56.3
+    "COL": 56.4
   },
-  "updated": "2026-04-21"
+  "updated": "2026-04-22"
 }
