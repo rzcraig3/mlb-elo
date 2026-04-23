@@ -167,9 +167,9 @@
       "projected_wins": 91.0,
       "make_playoffs_pct": 80.7,
       "win_division_pct": 13.2,
-      "make_lcs_pct": 24.6,
+      "make_lcs_pct": 24.5,
       "win_pennant_pct": 11.9,
-      "win_ws_pct": 5.2,
+      "win_ws_pct": 5.3,
       "win_dist": {
         "lo": 62,
         "bins": [
@@ -245,7 +245,7 @@
       "make_playoffs_pct": 34.7,
       "win_division_pct": 18.4,
       "make_lcs_pct": 8.8,
-      "win_pennant_pct": 4.5,
+      "win_pennant_pct": 4.4,
       "win_ws_pct": 2.5,
       "win_dist": {
         "lo": 51,
@@ -401,7 +401,7 @@
       "win_division_pct": 11.8,
       "make_lcs_pct": 7.2,
       "win_pennant_pct": 3.5,
-      "win_ws_pct": 1.4,
+      "win_ws_pct": 1.5,
       "win_dist": {
         "lo": 55,
         "bins": [
@@ -471,10 +471,10 @@
       "division": "American League East",
       "league": "American League",
       "projected_wins": 82.5,
-      "make_playoffs_pct": 49.7,
-      "win_division_pct": 9.8,
+      "make_playoffs_pct": 49.6,
+      "win_division_pct": 9.7,
       "make_lcs_pct": 14.1,
-      "win_pennant_pct": 7.2,
+      "win_pennant_pct": 7.1,
       "win_ws_pct": 3.9,
       "win_dist": {
         "lo": 53,
@@ -557,7 +557,7 @@
       "projected_wins": 84.5,
       "make_playoffs_pct": 62.4,
       "win_division_pct": 46.2,
-      "make_lcs_pct": 19.6,
+      "make_lcs_pct": 19.5,
       "win_pennant_pct": 9.4,
       "win_ws_pct": 5.2,
       "win_dist": {
@@ -638,7 +638,7 @@
       "league": "American League",
       "projected_wins": 74.1,
       "make_playoffs_pct": 13.7,
-      "win_division_pct": 1.4,
+      "win_division_pct": 1.5,
       "make_lcs_pct": 3.2,
       "win_pennant_pct": 1.6,
       "win_ws_pct": 0.9,
@@ -713,11 +713,11 @@
       "division": "American League Central",
       "league": "American League",
       "projected_wins": 85.0,
-      "make_playoffs_pct": 61.9,
-      "win_division_pct": 26.1,
-      "make_lcs_pct": 20.2,
-      "win_pennant_pct": 9.8,
-      "win_ws_pct": 5.5,
+      "make_playoffs_pct": 61.8,
+      "win_division_pct": 26.0,
+      "make_lcs_pct": 20.4,
+      "win_pennant_pct": 10.1,
+      "win_ws_pct": 5.6,
       "win_dist": {
         "lo": 57,
         "bins": [
@@ -867,9 +867,9 @@
       "projected_wins": 98.9,
       "make_playoffs_pct": 97.7,
       "win_division_pct": 95.1,
-      "make_lcs_pct": 45.5,
+      "make_lcs_pct": 45.6,
       "win_pennant_pct": 22.8,
-      "win_ws_pct": 9.9,
+      "win_ws_pct": 10.0,
       "win_dist": {
         "lo": 70,
         "bins": [
@@ -1097,10 +1097,10 @@
       "league": "American League",
       "projected_wins": 94.4,
       "make_playoffs_pct": 93.4,
-      "win_division_pct": 71.7,
-      "make_lcs_pct": 45.2,
-      "win_pennant_pct": 24.1,
-      "win_ws_pct": 13.5,
+      "win_division_pct": 71.8,
+      "make_lcs_pct": 44.9,
+      "win_pennant_pct": 23.5,
+      "win_ws_pct": 13.2,
       "win_dist": {
         "lo": 62,
         "bins": [
@@ -1179,7 +1179,7 @@
       "make_playoffs_pct": 49.8,
       "win_division_pct": 22.1,
       "make_lcs_pct": 12.4,
-      "win_pennant_pct": 6.1,
+      "win_pennant_pct": 6.0,
       "win_ws_pct": 2.6,
       "win_dist": {
         "lo": 56,
@@ -1256,7 +1256,7 @@
       "make_playoffs_pct": 20.2,
       "win_division_pct": 10.5,
       "make_lcs_pct": 4.5,
-      "win_pennant_pct": 2.3,
+      "win_pennant_pct": 2.4,
       "win_ws_pct": 1.3,
       "win_dist": {
         "lo": 49,
@@ -1408,11 +1408,11 @@
       "division": "American League East",
       "league": "American League",
       "projected_wins": 83.8,
-      "make_playoffs_pct": 54.7,
+      "make_playoffs_pct": 54.8,
       "win_division_pct": 13.9,
-      "make_lcs_pct": 17.2,
-      "win_pennant_pct": 8.5,
-      "win_ws_pct": 4.9,
+      "make_lcs_pct": 17.1,
+      "win_pennant_pct": 8.3,
+      "win_ws_pct": 4.8,
       "win_dist": {
         "lo": 54,
         "bins": [
@@ -1491,7 +1491,7 @@
       "make_playoffs_pct": 20.4,
       "win_division_pct": 3.2,
       "make_lcs_pct": 5.1,
-      "win_pennant_pct": 2.5,
+      "win_pennant_pct": 2.6,
       "win_ws_pct": 1.4,
       "win_dist": {
         "lo": 44,
@@ -1571,9 +1571,9 @@
       "division": "National League Central",
       "league": "National League",
       "projected_wins": 90.1,
-      "make_playoffs_pct": 73.9,
+      "make_playoffs_pct": 73.8,
       "win_division_pct": 48.4,
-      "make_lcs_pct": 21.1,
+      "make_lcs_pct": 21.2,
       "win_pennant_pct": 10.1,
       "win_ws_pct": 4.3,
       "win_dist": {
@@ -1647,7 +1647,7 @@
       "projected_wins": 81.1,
       "make_playoffs_pct": 29.1,
       "win_division_pct": 10.6,
-      "make_lcs_pct": 6.2,
+      "make_lcs_pct": 6.3,
       "win_pennant_pct": 2.9,
       "win_ws_pct": 1.2,
       "win_dist": {
@@ -1723,10 +1723,10 @@
       "league": "American League",
       "projected_wins": 88.4,
       "make_playoffs_pct": 75.7,
-      "win_division_pct": 44.7,
-      "make_lcs_pct": 29.0,
-      "win_pennant_pct": 14.4,
-      "win_ws_pct": 8.2,
+      "win_division_pct": 44.6,
+      "make_lcs_pct": 29.1,
+      "win_pennant_pct": 14.7,
+      "win_ws_pct": 8.5,
       "win_dist": {
         "lo": 58,
         "bins": [
@@ -1875,11 +1875,11 @@
       "division": "American League Central",
       "league": "American League",
       "projected_wins": 85.6,
-      "make_playoffs_pct": 62.8,
-      "win_division_pct": 28.3,
-      "make_lcs_pct": 20.6,
-      "win_pennant_pct": 9.8,
-      "win_ws_pct": 5.5,
+      "make_playoffs_pct": 62.9,
+      "win_division_pct": 28.5,
+      "make_lcs_pct": 20.9,
+      "win_pennant_pct": 10.0,
+      "win_ws_pct": 5.6,
       "win_dist": {
         "lo": 55,
         "bins": [
@@ -1954,7 +1954,7 @@
       "projected_wins": 78.6,
       "make_playoffs_pct": 29.1,
       "win_division_pct": 17.0,
-      "make_lcs_pct": 7.6,
+      "make_lcs_pct": 7.7,
       "win_pennant_pct": 3.6,
       "win_ws_pct": 1.9,
       "win_dist": {
@@ -2033,7 +2033,7 @@
       "league": "American League",
       "projected_wins": 69.9,
       "make_playoffs_pct": 4.3,
-      "win_division_pct": 0.8,
+      "win_division_pct": 0.9,
       "make_lcs_pct": 0.9,
       "win_pennant_pct": 0.4,
       "win_ws_pct": 0.3,
@@ -2115,8 +2115,8 @@
       "make_playoffs_pct": 98.4,
       "win_division_pct": 79.4,
       "make_lcs_pct": 51.7,
-      "win_pennant_pct": 27.4,
-      "win_ws_pct": 12.7,
+      "win_pennant_pct": 27.3,
+      "win_ws_pct": 12.6,
       "win_dist": {
         "lo": 74,
         "bins": [
