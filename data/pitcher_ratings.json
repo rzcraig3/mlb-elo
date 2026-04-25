@@ -1,10 +1,5 @@
 {
   "pitchers": {
-    "453286": {
-      "name": "Max Scherzer",
-      "rgs": 42.5,
-      "starts": 30
-    },
     "500779": {
       "name": "Jose Quintana",
       "rgs": 43.7,
@@ -14,26 +9,6 @@
       "name": "Chris Sale",
       "rgs": 60.2,
       "starts": 54
-    },
-    "543135": {
-      "name": "Nathan Eovaldi",
-      "rgs": 54.8,
-      "starts": 56
-    },
-    "547179": {
-      "name": "Michael Lorenzen",
-      "rgs": 42.7,
-      "starts": 55
-    },
-    "571945": {
-      "name": "Miles Mikolas",
-      "rgs": 37.4,
-      "starts": 66
-    },
-    "579328": {
-      "name": "Yusei Kikuchi",
-      "rgs": 49.8,
-      "starts": 70
     },
     "592332": {
       "name": "Kevin Gausman",
@@ -45,20 +20,10 @@
       "rgs": 52.9,
       "starts": 44
     },
-    "592791": {
-      "name": "Jameson Taillon",
-      "rgs": 53.6,
-      "starts": 55
-    },
     "605280": {
       "name": "Clay Holmes",
       "rgs": 57.0,
       "starts": 36
-    },
-    "605288": {
-      "name": "Adrian Houser",
-      "rgs": 47.2,
-      "starts": 32
     },
     "605400": {
       "name": "Aaron Nola",
@@ -85,20 +50,10 @@
       "rgs": 44.7,
       "starts": 31
     },
-    "622663": {
-      "name": "Luis Severino",
-      "rgs": 47.2,
-      "starts": 65
-    },
     "641927": {
       "name": "Bailey Ober",
       "rgs": 55.2,
       "starts": 63
-    },
-    "642547": {
-      "name": "Freddy Peralta",
-      "rgs": 56.2,
-      "starts": 70
     },
     "650633": {
       "name": "Michael King",
@@ -115,30 +70,15 @@
       "rgs": 53.2,
       "starts": 64
     },
-    "656550": {
-      "name": "Grant Holmes",
-      "rgs": 52.6,
-      "starts": 33
-    },
     "656605": {
       "name": "Mitch Keller",
       "rgs": 54.9,
       "starts": 68
     },
-    "656876": {
-      "name": "Drew Rasmussen",
-      "rgs": 56.0,
-      "starts": 39
-    },
     "661563": {
       "name": "Luis Gil",
       "rgs": 51.6,
       "starts": 43
-    },
-    "663542": {
-      "name": "Bryan Hudson",
-      "rgs": null,
-      "starts": 0
     },
     "663623": {
       "name": "Jake Irvin",
@@ -155,11 +95,6 @@
       "rgs": 42.2,
       "starts": 49
     },
-    "664285": {
-      "name": "Framber Valdez",
-      "rgs": 54.3,
-      "starts": 64
-    },
     "666142": {
       "name": "Cole Ragans",
       "rgs": 46.5,
@@ -169,11 +104,6 @@
       "name": "Zac Gallen",
       "rgs": 51.5,
       "starts": 66
-    },
-    "668909": {
-      "name": "Gavin Williams",
-      "rgs": 62.6,
-      "starts": 52
     },
     "669022": {
       "name": "MacKenzie Gore",
@@ -205,26 +135,6 @@
       "rgs": 50.1,
       "starts": 40
     },
-    "669467": {
-      "name": "Andre Pallante",
-      "rgs": 47.3,
-      "starts": 55
-    },
-    "669923": {
-      "name": "George Kirby",
-      "rgs": 58.0,
-      "starts": 61
-    },
-    "671096": {
-      "name": "Andrew Abbott",
-      "rgs": 45.5,
-      "starts": 59
-    },
-    "671737": {
-      "name": "Taj Bradley",
-      "rgs": 57.5,
-      "starts": 57
-    },
     "672282": {
       "name": "Reid Detmers",
       "rgs": 50.9,
@@ -250,6 +160,11 @@
       "rgs": 56.0,
       "starts": 26
     },
+    "676440": {
+      "name": "Tanner Bibee",
+      "rgs": 52.6,
+      "starts": 68
+    },
     "676974": {
       "name": "Max Meyer",
       "rgs": 51.9,
@@ -274,11 +189,6 @@
       "name": "Ryan Weathers",
       "rgs": 55.2,
       "starts": 29
-    },
-    "678394": {
-      "name": "Brayan Bello",
-      "rgs": 45.9,
-      "starts": 62
     },
     "680573": {
       "name": "Simeon Woods Richardson",
@@ -310,6 +220,11 @@
       "rgs": 47.2,
       "starts": 24
     },
+    "681517": {
+      "name": "Kyle Leahy",
+      "rgs": 44.9,
+      "starts": 6
+    },
     "684007": {
       "name": "Shota Imanaga",
       "rgs": 60.0,
@@ -335,53 +250,43 @@
       "rgs": 58.0,
       "starts": 31
     },
-    "694973": {
-      "name": "Paul Skenes",
-      "rgs": 61.6,
-      "starts": 60
-    },
     "700241": {
       "name": "Michael McGreevy",
       "rgs": 51.6,
       "starts": 24
-    },
-    "701542": {
-      "name": "Will Warren",
-      "rgs": 56.6,
-      "starts": 43
     }
   },
   "team_avg_rgs": {
-    "LAA": 62.3,
-    "KC": 61.8,
-    "ATL": 59.2,
-    "MIN": 54.3,
-    "CLE": 58.5,
-    "NYY": 63.1,
+    "LAA": 58.2,
+    "KC": 58.0,
+    "ATL": 58.1,
+    "CLE": 57.0,
+    "NYY": 62.9,
     "SD": 61.2,
-    "CWS": 58.6,
-    "NYM": 57.6,
-    "TB": 54.5,
+    "CWS": 58.5,
+    "NYM": 57.5,
+    "TB": 59.2,
     "TOR": 62.6,
-    "TEX": 53.0,
-    "CHC": 61.2,
-    "SEA": 59.2,
-    "SF": 54.4,
-    "PIT": 60.6,
-    "LAD": 65.7,
-    "DET": 60.0,
-    "CIN": 53.7,
+    "CHC": 57.1,
+    "SEA": 59.1,
+    "SF": 57.2,
+    "PIT": 61.1,
+    "LAD": 61.1,
+    "DET": 59.0,
+    "CIN": 51.9,
     "AZ": 54.4,
-    "MIA": 55.2,
-    "BOS": 54.3,
+    "MIN": 55.9,
     "PHI": 50.4,
-    "MIL": 59.6,
-    "STL": 48.8,
-    "ATH": 55.1,
-    "WSH": 53.0,
-    "COL": 52.9,
-    "BAL": 50.4,
-    "HOU": 42.4
+    "MIL": 57.7,
+    "MIA": 54.9,
+    "STL": 51.7,
+    "ATH": 52.7,
+    "BOS": 53.5,
+    "BAL": 50.7,
+    "TEX": 49.0,
+    "COL": 42.2,
+    "HOU": 56.2,
+    "WSH": 56.2
   },
-  "updated": "2026-04-24"
+  "updated": "2026-04-25"
 }
