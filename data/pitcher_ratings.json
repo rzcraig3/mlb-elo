@@ -1,5 +1,10 @@
 {
   "pitchers": {
+    "453286": {
+      "name": "Max Scherzer",
+      "rgs": 35.4,
+      "starts": 31
+    },
     "500779": {
       "name": "Jose Quintana",
       "rgs": 43.7,
@@ -10,15 +15,20 @@
       "rgs": 60.2,
       "starts": 54
     },
-    "592332": {
-      "name": "Kevin Gausman",
-      "rgs": 59.0,
-      "starts": 68
+    "571510": {
+      "name": "Matthew Boyd",
+      "rgs": 53.1,
+      "starts": 42
     },
-    "592662": {
-      "name": "Robbie Ray",
-      "rgs": 52.9,
-      "starts": 44
+    "571578": {
+      "name": "Patrick Corbin",
+      "rgs": 53.2,
+      "starts": 65
+    },
+    "592791": {
+      "name": "Jameson Taillon",
+      "rgs": 51.7,
+      "starts": 56
     },
     "605280": {
       "name": "Clay Holmes",
@@ -30,30 +40,25 @@
       "rgs": 49.0,
       "starts": 55
     },
-    "605488": {
-      "name": "Jeffrey Springs",
-      "rgs": 53.6,
-      "starts": 42
-    },
-    "607067": {
-      "name": "Colin Rea",
-      "rgs": 59.9,
-      "starts": 56
+    "607200": {
+      "name": "Erick Fedde",
+      "rgs": 45.9,
+      "starts": 58
     },
     "607625": {
       "name": "Seth Lugo",
       "rgs": 58.9,
       "starts": 64
     },
-    "608566": {
-      "name": "Germ\u00e1n M\u00e1rquez",
-      "rgs": 44.7,
-      "starts": 31
+    "621111": {
+      "name": "Walker Buehler",
+      "rgs": 48.2,
+      "starts": 45
     },
-    "641927": {
-      "name": "Bailey Ober",
-      "rgs": 55.2,
-      "starts": 63
+    "622491": {
+      "name": "Luis Castillo",
+      "rgs": 51.4,
+      "starts": 67
     },
     "650633": {
       "name": "Michael King",
@@ -65,55 +70,50 @@
       "rgs": 60.1,
       "starts": 70
     },
-    "656427": {
-      "name": "Jack Flaherty",
-      "rgs": 53.2,
-      "starts": 64
-    },
-    "656605": {
-      "name": "Mitch Keller",
-      "rgs": 54.9,
-      "starts": 68
-    },
     "661563": {
       "name": "Luis Gil",
       "rgs": 51.6,
       "starts": 43
     },
-    "663623": {
-      "name": "Jake Irvin",
-      "rgs": 47.3,
-      "starts": 71
+    "663362": {
+      "name": "Matt Waldron",
+      "rgs": 34.7,
+      "starts": 29
     },
-    "663903": {
-      "name": "Brady Singer",
-      "rgs": 48.8,
-      "starts": 69
+    "663436": {
+      "name": "Davis Martin",
+      "rgs": 59.5,
+      "starts": 40
+    },
+    "663542": {
+      "name": "Bryan Hudson",
+      "rgs": 48.9,
+      "starts": 1
     },
     "663978": {
       "name": "Chris Paddack",
       "rgs": 42.2,
       "starts": 49
     },
-    "666142": {
-      "name": "Cole Ragans",
-      "rgs": 46.5,
-      "starts": 50
+    "665795": {
+      "name": "Edward Cabrera",
+      "rgs": 54.7,
+      "starts": 51
     },
-    "668678": {
-      "name": "Zac Gallen",
-      "rgs": 51.5,
-      "starts": 66
-    },
-    "669022": {
-      "name": "MacKenzie Gore",
-      "rgs": 49.9,
-      "starts": 67
+    "668909": {
+      "name": "Gavin Williams",
+      "rgs": 57.0,
+      "starts": 53
     },
     "669194": {
       "name": "Ryne Nelson",
       "rgs": 47.0,
       "starts": 53
+    },
+    "669302": {
+      "name": "Logan Gilbert",
+      "rgs": 54.3,
+      "starts": 64
     },
     "669372": {
       "name": "J.T. Ginn",
@@ -125,15 +125,10 @@
       "rgs": 50.2,
       "starts": 20
     },
-    "669432": {
-      "name": "Trevor Rogers",
-      "rgs": 51.8,
-      "starts": 48
-    },
-    "669461": {
-      "name": "Matthew Liberatore",
-      "rgs": 50.1,
-      "starts": 40
+    "669923": {
+      "name": "George Kirby",
+      "rgs": 58.1,
+      "starts": 62
     },
     "672282": {
       "name": "Reid Detmers",
@@ -155,11 +150,6 @@
       "rgs": 53.7,
       "starts": 33
     },
-    "676282": {
-      "name": "Joey Cantillo",
-      "rgs": 56.0,
-      "starts": 26
-    },
     "676440": {
       "name": "Tanner Bibee",
       "rgs": 52.6,
@@ -169,11 +159,6 @@
       "name": "Max Meyer",
       "rgs": 51.9,
       "starts": 28
-    },
-    "676979": {
-      "name": "Garrett Crochet",
-      "rgs": 45.9,
-      "starts": 69
     },
     "677944": {
       "name": "Slade Cecconi",
@@ -185,11 +170,6 @@
       "rgs": 52.3,
       "starts": 21
     },
-    "677960": {
-      "name": "Ryan Weathers",
-      "rgs": 55.2,
-      "starts": 29
-    },
     "680573": {
       "name": "Simeon Woods Richardson",
       "rgs": 47.1,
@@ -200,25 +180,20 @@
       "rgs": 53.4,
       "starts": 19
     },
-    "680732": {
-      "name": "Sean Burke",
-      "rgs": 47.5,
-      "starts": 29
-    },
     "680736": {
       "name": "Justin Wrobleski",
       "rgs": 53.0,
       "starts": 11
     },
+    "681190": {
+      "name": "Randy V\u00e1squez",
+      "rgs": 60.1,
+      "starts": 51
+    },
     "681293": {
       "name": "Spencer Arrighetti",
       "rgs": 52.9,
       "starts": 37
-    },
-    "681347": {
-      "name": "Mike Burrows",
-      "rgs": 47.2,
-      "starts": 24
     },
     "681517": {
       "name": "Kyle Leahy",
@@ -235,16 +210,6 @@
       "rgs": 50.6,
       "starts": 34
     },
-    "693433": {
-      "name": "Bryan Woo",
-      "rgs": 64.4,
-      "starts": 57
-    },
-    "693821": {
-      "name": "Bryce Elder",
-      "rgs": 60.4,
-      "starts": 43
-    },
     "694738": {
       "name": "Landen Roupp",
       "rgs": 58.0,
@@ -258,35 +223,35 @@
   },
   "team_avg_rgs": {
     "LAA": 58.2,
-    "KC": 58.0,
-    "ATL": 58.1,
-    "CLE": 57.0,
-    "NYY": 62.9,
+    "KC": 57.8,
+    "CLE": 56.2,
+    "NYY": 62.5,
     "SD": 61.2,
-    "CWS": 58.5,
+    "ATL": 58.1,
+    "CWS": 62.2,
     "NYM": 57.5,
-    "TB": 59.2,
-    "TOR": 62.6,
-    "CHC": 57.1,
-    "SEA": 59.1,
+    "TB": 58.6,
+    "CHC": 56.8,
     "SF": 57.2,
-    "PIT": 61.1,
-    "LAD": 61.1,
+    "PIT": 60.6,
+    "LAD": 65.7,
     "DET": 59.0,
-    "CIN": 51.9,
-    "AZ": 54.4,
-    "MIN": 55.9,
-    "PHI": 50.4,
-    "MIL": 57.7,
-    "MIA": 54.9,
-    "STL": 51.7,
-    "ATH": 52.7,
-    "BOS": 53.5,
-    "BAL": 50.7,
-    "TEX": 49.0,
+    "CIN": 50.1,
+    "TOR": 62.0,
+    "AZ": 53.9,
+    "SEA": 56.9,
+    "MIN": 56.0,
+    "PHI": 50.9,
+    "MIA": 54.0,
+    "STL": 49.5,
+    "MIL": 57.9,
+    "ATH": 52.4,
+    "BOS": 50.3,
+    "TEX": 49.1,
+    "BAL": 49.4,
+    "WSH": 53.0,
     "COL": 42.2,
-    "HOU": 56.2,
-    "WSH": 56.2
+    "HOU": 43.3
   },
-  "updated": "2026-04-25"
+  "updated": "2026-04-26"
 }
