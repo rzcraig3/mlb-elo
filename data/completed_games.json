@@ -3850,5 +3850,140 @@
     "away_score": 4,
     "home": "LAD",
     "away": "MIA"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 114,
+    "away_id": 139,
+    "home_score": 0,
+    "away_score": 1,
+    "home": "CLE",
+    "away": "TB"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 110,
+    "away_id": 117,
+    "home_score": 5,
+    "away_score": 3,
+    "home": "BAL",
+    "away": "HOU"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 113,
+    "away_id": 115,
+    "home_score": 7,
+    "away_score": 2,
+    "home": "CIN",
+    "away": "COL"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 134,
+    "away_id": 138,
+    "home_score": 7,
+    "away_score": 11,
+    "home": "PIT",
+    "away": "STL"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 143,
+    "away_id": 137,
+    "home_score": 7,
+    "away_score": 0,
+    "home": "PHI",
+    "away": "SF"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 141,
+    "away_id": 111,
+    "home_score": 3,
+    "away_score": 0,
+    "home": "TOR",
+    "away": "BOS"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 121,
+    "away_id": 120,
+    "home_score": 8,
+    "away_score": 0,
+    "home": "NYM",
+    "away": "WSH"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 144,
+    "away_id": 116,
+    "home_score": 5,
+    "away_score": 2,
+    "home": "ATL",
+    "away": "DET"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 142,
+    "away_id": 136,
+    "home_score": 1,
+    "away_score": 7,
+    "home": "MIN",
+    "away": "SEA"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 145,
+    "away_id": 108,
+    "home_score": 5,
+    "away_score": 2,
+    "home": "CWS",
+    "away": "LAA"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 158,
+    "away_id": 109,
+    "home_score": 13,
+    "away_score": 2,
+    "home": "MIL",
+    "away": "AZ"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 140,
+    "away_id": 147,
+    "home_score": 2,
+    "away_score": 3,
+    "home": "TEX",
+    "away": "NYY"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 133,
+    "away_id": 118,
+    "home_score": 1,
+    "away_score": 4,
+    "home": "ATH",
+    "away": "KC"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 135,
+    "away_id": 112,
+    "home_score": 3,
+    "away_score": 8,
+    "home": "SD",
+    "away": "CHC"
+  },
+  {
+    "date": "2026-04-28",
+    "home_id": 119,
+    "away_id": 146,
+    "home_score": 1,
+    "away_score": 2,
+    "home": "LAD",
+    "away": "MIA"
   }
 ]
