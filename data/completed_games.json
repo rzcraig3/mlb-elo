@@ -4606,5 +4606,113 @@
     "away_score": 1,
     "home": "DET",
     "away": "TEX"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 115,
+    "away_id": 121,
+    "home_score": 2,
+    "away_score": 4,
+    "home": "COL",
+    "away": "NYM"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 116,
+    "away_id": 111,
+    "home_score": 4,
+    "away_score": 5,
+    "home": "DET",
+    "away": "BOS"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 139,
+    "away_id": 141,
+    "home_score": 5,
+    "away_score": 1,
+    "home": "TB",
+    "away": "TOR"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 146,
+    "away_id": 143,
+    "home_score": 0,
+    "away_score": 1,
+    "home": "MIA",
+    "away": "PHI"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 147,
+    "away_id": 110,
+    "home_score": 12,
+    "away_score": 1,
+    "home": "NYY",
+    "away": "BAL"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 112,
+    "away_id": 113,
+    "home_score": 5,
+    "away_score": 4,
+    "home": "CHC",
+    "away": "CIN"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 118,
+    "away_id": 114,
+    "home_score": 6,
+    "away_score": 2,
+    "home": "KC",
+    "away": "CLE"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 138,
+    "away_id": 158,
+    "home_score": 6,
+    "away_score": 3,
+    "home": "STL",
+    "away": "MIL"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 117,
+    "away_id": 119,
+    "home_score": 3,
+    "away_score": 8,
+    "home": "HOU",
+    "away": "LAD"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 108,
+    "away_id": 145,
+    "home_score": 0,
+    "away_score": 6,
+    "home": "LAA",
+    "away": "CWS"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 136,
+    "away_id": 144,
+    "home_score": 5,
+    "away_score": 4,
+    "home": "SEA",
+    "away": "ATL"
+  },
+  {
+    "date": "2026-05-04",
+    "home_id": 137,
+    "away_id": 135,
+    "home_score": 3,
+    "away_score": 2,
+    "home": "SF",
+    "away": "SD"
   }
 ]
