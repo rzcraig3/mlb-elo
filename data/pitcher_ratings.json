@@ -1,10 +1,5 @@
 {
   "pitchers": {
-    "518876": {
-      "name": "Merrill Kelly",
-      "rgs": 36.6,
-      "starts": 49
-    },
     "592791": {
       "name": "Jameson Taillon",
       "rgs": 53.0,
@@ -25,30 +20,10 @@
       "rgs": 46.6,
       "starts": 69
     },
-    "605280": {
-      "name": "Clay Holmes",
-      "rgs": 61.3,
-      "starts": 38
-    },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 49.8,
-      "starts": 57
-    },
     "607259": {
       "name": "Nick Martinez",
       "rgs": 59.8,
       "starts": 49
-    },
-    "607536": {
-      "name": "Kyle Freeland",
-      "rgs": 48.9,
-      "starts": 57
-    },
-    "608379": {
-      "name": "Michael Wacha",
-      "rgs": 53.7,
-      "starts": 67
     },
     "621111": {
       "name": "Walker Buehler",
@@ -57,28 +32,23 @@
     },
     "622491": {
       "name": "Luis Castillo",
-      "rgs": 47.3,
-      "starts": 69
+      "rgs": 46.1,
+      "starts": 70
     },
     "622663": {
       "name": "Luis Severino",
       "rgs": 53.6,
       "starts": 68
     },
-    "641793": {
-      "name": "Zack Littell",
-      "rgs": 37.5,
-      "starts": 66
+    "623211": {
+      "name": "Huascar Brazob\u00e1n",
+      "rgs": 52.6,
+      "starts": 4
     },
     "641816": {
       "name": "Tyler Mahle",
       "rgs": 51.3,
       "starts": 26
-    },
-    "650644": {
-      "name": "Aaron Civale",
-      "rgs": 52.0,
-      "starts": 56
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -90,20 +60,10 @@
       "rgs": 55.6,
       "starts": 42
     },
-    "657746": {
-      "name": "Joe Ryan",
-      "rgs": 53.8,
-      "starts": 61
-    },
     "663436": {
       "name": "Davis Martin",
       "rgs": 63.6,
       "starts": 42
-    },
-    "665795": {
-      "name": "Edward Cabrera",
-      "rgs": 52.1,
-      "starts": 53
     },
     "667755": {
       "name": "Jos\u00e9 Soriano",
@@ -120,123 +80,98 @@
       "rgs": 50.1,
       "starts": 66
     },
-    "669358": {
-      "name": "Shane Baz",
-      "rgs": 48.7,
-      "starts": 52
+    "669724": {
+      "name": "Brenan Hanifee",
+      "rgs": 53.0,
+      "starts": 3
+    },
+    "669923": {
+      "name": "George Kirby",
+      "rgs": 58.7,
+      "starts": 64
     },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 48.2,
       "starts": 62
     },
-    "671737": {
-      "name": "Taj Bradley",
-      "rgs": 55.7,
-      "starts": 60
-    },
-    "675911": {
-      "name": "Spencer Strider",
-      "rgs": 47.7,
-      "starts": 26
-    },
-    "676083": {
-      "name": "Janson Junk",
-      "rgs": 58.6,
-      "starts": 23
+    "676106": {
+      "name": "Emerson Hancock",
+      "rgs": 54.6,
+      "starts": 36
     },
     "676282": {
       "name": "Joey Cantillo",
       "rgs": 52.3,
       "starts": 29
     },
-    "676440": {
-      "name": "Tanner Bibee",
-      "rgs": 51.0,
-      "starts": 70
+    "676974": {
+      "name": "Max Meyer",
+      "rgs": 58.6,
+      "starts": 31
     },
     "677944": {
       "name": "Slade Cecconi",
       "rgs": 44.6,
       "starts": 44
     },
+    "678906": {
+      "name": "Kai-Wei Teng",
+      "rgs": 49.1,
+      "starts": 8
+    },
     "680736": {
       "name": "Justin Wrobleski",
       "rgs": 56.5,
       "starts": 13
-    },
-    "681190": {
-      "name": "Randy V\u00e1squez",
-      "rgs": 53.6,
-      "starts": 53
-    },
-    "681293": {
-      "name": "Spencer Arrighetti",
-      "rgs": 55.5,
-      "starts": 39
     },
     "681517": {
       "name": "Kyle Leahy",
       "rgs": 47.6,
       "starts": 8
     },
-    "683004": {
-      "name": "Jack Leiter",
-      "rgs": 50.0,
-      "starts": 42
-    },
-    "686799": {
-      "name": "Jack Kochanowicz",
-      "rgs": 51.6,
-      "starts": 41
-    },
-    "690986": {
-      "name": "Kyle Harrison",
-      "rgs": 57.7,
-      "starts": 36
+    "693433": {
+      "name": "Bryan Woo",
+      "rgs": 55.2,
+      "starts": 60
     },
     "693821": {
       "name": "Bryce Elder",
       "rgs": 60.4,
       "starts": 46
-    },
-    "694738": {
-      "name": "Landen Roupp",
-      "rgs": 56.0,
-      "starts": 33
     }
   },
   "team_avg_rgs": {
-    "NYY": 61.9,
-    "CWS": 59.2,
-    "NYM": 60.5,
+    "NYY": 62.5,
+    "CWS": 61.5,
     "TB": 61.0,
-    "LAA": 57.9,
+    "LAA": 56.5,
+    "NYM": 60.4,
     "ATL": 63.1,
-    "WSH": 55.0,
-    "STL": 54.6,
-    "CIN": 53.1,
-    "CHC": 56.6,
-    "CLE": 54.7,
-    "PIT": 59.0,
-    "PHI": 55.0,
+    "CIN": 53.2,
+    "WSH": 59.8,
+    "STL": 52.9,
+    "CHC": 55.7,
+    "CLE": 53.8,
+    "PIT": 59.2,
+    "PHI": 52.8,
     "MIL": 63.9,
-    "AZ": 50.9,
+    "AZ": 50.4,
     "TOR": 60.4,
-    "DET": 57.0,
+    "ATH": 53.0,
+    "KC": 58.2,
+    "DET": 56.3,
     "LAD": 60.9,
-    "SD": 58.0,
-    "SF": 56.0,
+    "SD": 58.2,
+    "SF": 56.1,
     "BOS": 57.2,
-    "MIA": 54.2,
-    "MIN": 50.3,
+    "MIA": 54.7,
+    "MIN": 56.2,
     "SEA": 56.1,
-    "KC": 57.4,
-    "COL": 48.0,
-    "ATH": 52.5,
-    "TEX": 51.0,
-    "BAL": 48.4,
+    "COL": 82.7,
+    "TEX": 51.3,
+    "BAL": 47.8,
     "HOU": 47.9
   },
-  "updated": "2026-05-09"
+  "updated": "2026-05-10"
 }
