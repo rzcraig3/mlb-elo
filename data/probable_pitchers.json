@@ -1,94 +1,4 @@
 {
-  "2026-05-27|TOR|MIA": {
-    "home_pitcher_id": 592332,
-    "home_pitcher": "Kevin Gausman",
-    "away_pitcher_id": 691587,
-    "away_pitcher": "Eury P\u00e9rez"
-  },
-  "2026-05-27|CLE|WSH": {
-    "home_pitcher_id": 668909,
-    "home_pitcher": "Gavin Williams",
-    "away_pitcher_id": 571945,
-    "away_pitcher": "Miles Mikolas"
-  },
-  "2026-05-27|MIL|STL": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": 669160,
-    "away_pitcher": "Dustin May"
-  },
-  "2026-05-27|ATH|SEA": {
-    "home_pitcher_id": 605488,
-    "home_pitcher": "Jeffrey Springs",
-    "away_pitcher_id": 669302,
-    "away_pitcher": "Logan Gilbert"
-  },
-  "2026-05-27|SF|AZ": {
-    "home_pitcher_id": 686790,
-    "home_pitcher": "Trevor McDonald",
-    "away_pitcher_id": 647336,
-    "away_pitcher": "Michael Soroka"
-  },
-  "2026-05-27|SD|PHI": {
-    "home_pitcher_id": 621111,
-    "home_pitcher": "Walker Buehler",
-    "away_pitcher_id": 650911,
-    "away_pitcher": "Cristopher S\u00e1nchez"
-  },
-  "2026-05-27|BAL|TB": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": 571927,
-    "away_pitcher": "Steven Matz"
-  },
-  "2026-05-27|DET|LAA": {
-    "home_pitcher_id": 663554,
-    "home_pitcher": "Casey Mize",
-    "away_pitcher_id": 667755,
-    "away_pitcher": "Jos\u00e9 Soriano"
-  },
-  "2026-05-27|PIT|CHC": {
-    "home_pitcher_id": 696149,
-    "home_pitcher": "Bubba Chandler",
-    "away_pitcher_id": 592791,
-    "away_pitcher": "Jameson Taillon"
-  },
-  "2026-05-27|BOS|ATL": {
-    "home_pitcher_id": 813349,
-    "home_pitcher": "Connelly Early",
-    "away_pitcher_id": 693821,
-    "away_pitcher": "Bryce Elder"
-  },
-  "2026-05-27|NYM|CIN": {
-    "home_pitcher_id": 623211,
-    "home_pitcher": "Huascar Brazob\u00e1n",
-    "away_pitcher_id": 671096,
-    "away_pitcher": "Andrew Abbott"
-  },
-  "2026-05-27|CWS|MIN": {
-    "home_pitcher_id": 663436,
-    "home_pitcher": "Davis Martin",
-    "away_pitcher_id": 687570,
-    "away_pitcher": "Connor Prielipp"
-  },
-  "2026-05-27|KC|NYY": {
-    "home_pitcher_id": 702070,
-    "home_pitcher": "Noah Cameron",
-    "away_pitcher_id": 543037,
-    "away_pitcher": "Gerrit Cole"
-  },
-  "2026-05-27|TEX|HOU": {
-    "home_pitcher_id": 594798,
-    "home_pitcher": "Jacob deGrom",
-    "away_pitcher_id": 681347,
-    "away_pitcher": "Mike Burrows"
-  },
-  "2026-05-27|LAD|COL": {
-    "home_pitcher_id": 660271,
-    "home_pitcher": "Shohei Ohtani",
-    "away_pitcher_id": 608372,
-    "away_pitcher": "Tomoyuki Sugano"
-  },
   "2026-05-28|DET|LAA": {
     "home_pitcher_id": 656427,
     "home_pitcher": "Jack Flaherty",
@@ -96,22 +6,22 @@
     "away_pitcher": "Grayson Rodriguez"
   },
   "2026-05-28|CWS|MIN": {
-    "home_pitcher_id": 607200,
-    "home_pitcher": "Erick Fedde",
-    "away_pitcher_id": 671737,
-    "away_pitcher": "Taj Bradley"
+    "home_pitcher_id": 663436,
+    "home_pitcher": "Davis Martin",
+    "away_pitcher_id": 696070,
+    "away_pitcher": "Kendry Rojas"
   },
   "2026-05-28|BOS|ATL": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 801139,
+    "home_pitcher": "Payton Tolle",
     "away_pitcher_id": 519242,
     "away_pitcher": "Chris Sale"
   },
   "2026-05-28|BAL|TOR": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 605135,
+    "home_pitcher": "Chris Bassitt",
+    "away_pitcher_id": 571578,
+    "away_pitcher": "Patrick Corbin"
   },
   "2026-05-28|PIT|CHC": {
     "home_pitcher_id": 694973,
@@ -132,20 +42,20 @@
     "away_pitcher": null
   },
   "2026-05-29|WSH|SD": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 674841,
+    "home_pitcher": "Andrew Alvarez",
     "away_pitcher_id": 608337,
     "away_pitcher": "Lucas Giolito"
   },
   "2026-05-29|PIT|MIN": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 671737,
+    "away_pitcher": "Taj Bradley"
   },
   "2026-05-29|BAL|TOR": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 669432,
+    "home_pitcher": "Trevor Rogers",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -156,8 +66,8 @@
     "away_pitcher": null
   },
   "2026-05-29|TB|LAA": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 607259,
+    "home_pitcher": "Nick Martinez",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -168,22 +78,22 @@
     "away_pitcher": "Max Meyer"
   },
   "2026-05-29|STL|CHC": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 681517,
+    "home_pitcher": "Kyle Leahy",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-29|CWS|DET": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 607200,
+    "home_pitcher": "Erick Fedde",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-29|TEX|KC": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 663568,
+    "away_pitcher": "Stephen Kolek"
   },
   "2026-05-29|HOU|MIL": {
     "home_pitcher_id": null,
@@ -192,32 +102,32 @@
     "away_pitcher": "Coleman Crow"
   },
   "2026-05-29|COL|SF": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 547179,
+    "home_pitcher": "Michael Lorenzen",
+    "away_pitcher_id": 657277,
+    "away_pitcher": "Logan Webb"
   },
   "2026-05-29|ATH|NYY": {
     "home_pitcher_id": 622663,
     "home_pitcher": "Luis Severino",
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 607074,
+    "away_pitcher": "Carlos Rod\u00f3n"
   },
   "2026-05-29|SEA|AZ": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 669923,
+    "home_pitcher": "George Kirby",
+    "away_pitcher_id": 668678,
+    "away_pitcher": "Zac Gallen"
   },
   "2026-05-29|LAD|PHI": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 680736,
+    "home_pitcher": "Justin Wrobleski",
+    "away_pitcher_id": 554430,
+    "away_pitcher": "Zack Wheeler"
   },
   "2026-05-30|CWS|DET": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 641743,
+    "home_pitcher": "Anthony Kay",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -230,14 +140,14 @@
   "2026-05-30|TEX|KC": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 607625,
+    "away_pitcher": "Seth Lugo"
   },
   "2026-05-30|BAL|TOR": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 687064,
+    "home_pitcher": "Brandon Young",
+    "away_pitcher_id": 702056,
+    "away_pitcher": "Trey Yesavage"
   },
   "2026-05-30|PIT|MIN": {
     "home_pitcher_id": null,
@@ -252,8 +162,8 @@
     "away_pitcher": null
   },
   "2026-05-30|TB|LAA": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 656876,
+    "home_pitcher": "Drew Rasmussen",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -266,12 +176,12 @@
   "2026-05-30|HOU|MIL": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 687075,
+    "away_pitcher": "Brandon Sproat"
   },
   "2026-05-30|STL|CHC": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 669467,
+    "home_pitcher": "Andre Pallante",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -284,38 +194,38 @@
   "2026-05-30|COL|SF": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 605288,
+    "away_pitcher": "Adrian Houser"
   },
   "2026-05-30|ATH|NYY": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 669372,
+    "home_pitcher": "J.T. Ginn",
+    "away_pitcher_id": 677960,
+    "away_pitcher": "Ryan Weathers"
   },
   "2026-05-30|SEA|AZ": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 693433,
+    "home_pitcher": "Bryan Woo",
+    "away_pitcher_id": 669194,
+    "away_pitcher": "Ryne Nelson"
   },
   "2026-05-30|LAD|PHI": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 808963,
+    "home_pitcher": "Roki Sasaki",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-31|BAL|TOR": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 680694,
+    "home_pitcher": "Kyle Bradish",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-31|WSH|SD": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 656288,
+    "away_pitcher": "Griffin Canning"
   },
   "2026-05-31|PIT|MIN": {
     "home_pitcher_id": null,
@@ -330,14 +240,14 @@
     "away_pitcher": null
   },
   "2026-05-31|TB|LAA": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 663556,
+    "home_pitcher": "Shane McClanahan",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-31|CIN|ATL": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 666157,
+    "home_pitcher": "Nick Lodolo",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -348,50 +258,50 @@
     "away_pitcher": "Janson Junk"
   },
   "2026-05-31|CWS|DET": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 680732,
+    "home_pitcher": "Sean Burke",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-31|HOU|MIL": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 694819,
+    "away_pitcher": "Jacob Misiorowski"
   },
   "2026-05-31|TEX|KC": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 608379,
+    "away_pitcher": "Michael Wacha"
   },
   "2026-05-31|COL|SF": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 685299,
+    "home_pitcher": "Tanner Gordon",
+    "away_pitcher_id": 592662,
+    "away_pitcher": "Robbie Ray"
   },
   "2026-05-31|ATH|NYY": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 701542,
+    "away_pitcher": "Will Warren"
   },
   "2026-05-31|SEA|AZ": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "home_pitcher_id": 682243,
+    "home_pitcher": "Bryce Miller",
+    "away_pitcher_id": 518876,
+    "away_pitcher": "Merrill Kelly"
   },
   "2026-05-31|LAD|PHI": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 808967,
+    "home_pitcher": "Yoshinobu Yamamoto",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
   "2026-05-31|STL|CHC": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 669461,
+    "home_pitcher": "Matthew Liberatore",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -404,8 +314,8 @@
   "2026-06-01|WSH|MIA": {
     "home_pitcher_id": null,
     "home_pitcher": null,
-    "away_pitcher_id": null,
-    "away_pitcher": null
+    "away_pitcher_id": 645261,
+    "away_pitcher": "Sandy Alcantara"
   },
   "2026-06-01|CIN|KC": {
     "home_pitcher_id": null,
@@ -1176,6 +1086,54 @@
     "away_pitcher": null
   },
   "2026-06-10|LAA|HOU": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|NYM|STL": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|DET|MIN": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|MIA|AZ": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|KC|TEX": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|COL|CHC": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|PIT|LAD": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|BAL|SEA": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-11|CWS|ATL": {
     "home_pitcher_id": null,
     "home_pitcher": null,
     "away_pitcher_id": null,
