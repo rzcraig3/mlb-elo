@@ -1,47 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "home_id": 116,
-    "away_id": 108,
-    "home": "DET",
-    "away": "LAA"
-  },
-  {
-    "date": "2026-05-28",
-    "home_id": 145,
-    "away_id": 142,
-    "home": "CWS",
-    "away": "MIN"
-  },
-  {
-    "date": "2026-05-28",
-    "home_id": 111,
-    "away_id": 144,
-    "home": "BOS",
-    "away": "ATL"
-  },
-  {
-    "date": "2026-05-28",
-    "home_id": 110,
-    "away_id": 141,
-    "home": "BAL",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-05-28",
-    "home_id": 134,
-    "away_id": 112,
-    "home": "PIT",
-    "away": "CHC"
-  },
-  {
-    "date": "2026-05-28",
-    "home_id": 140,
-    "away_id": 117,
-    "home": "TEX",
-    "away": "HOU"
-  },
-  {
     "date": "2026-05-29",
     "home_id": 113,
     "away_id": 144,
