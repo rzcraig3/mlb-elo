@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-06-04",
-    "home_id": 143,
-    "away_id": 135,
-    "home": "PHI",
-    "away": "SD"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 111,
-    "away_id": 110,
-    "home": "BOS",
-    "away": "BAL"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 147,
-    "away_id": 114,
-    "home": "NYY",
-    "away": "CLE"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 158,
-    "away_id": 137,
-    "home": "MIL",
-    "away": "SF"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 144,
-    "away_id": 141,
-    "home": "ATL",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 142,
-    "away_id": 118,
-    "home": "MIN",
-    "away": "KC"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 112,
-    "away_id": 133,
-    "home": "CHC",
-    "away": "ATH"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 117,
-    "away_id": 134,
-    "home": "HOU",
-    "away": "PIT"
-  },
-  {
-    "date": "2026-06-04",
-    "home_id": 109,
-    "away_id": 119,
-    "home": "AZ",
-    "away": "LAD"
-  },
-  {
     "date": "2026-06-05",
     "home_id": 112,
     "away_id": 137,
@@ -3389,13 +3326,6 @@
   },
   {
     "date": "2026-07-10",
-    "home_id": 121,
-    "away_id": 111,
-    "home": "NYM",
-    "away": "BOS"
-  },
-  {
-    "date": "2026-07-10",
     "home_id": 139,
     "away_id": 136,
     "home": "TB",
@@ -3407,6 +3337,13 @@
     "away_id": 114,
     "home": "MIA",
     "away": "CLE"
+  },
+  {
+    "date": "2026-07-10",
+    "home_id": 121,
+    "away_id": 111,
+    "home": "NYM",
+    "away": "BOS"
   },
   {
     "date": "2026-07-10",
@@ -4355,17 +4292,17 @@
   },
   {
     "date": "2026-07-24",
-    "home_id": 143,
-    "away_id": 147,
-    "home": "PHI",
-    "away": "NYY"
-  },
-  {
-    "date": "2026-07-24",
     "home_id": 120,
     "away_id": 109,
     "home": "WSH",
     "away": "AZ"
+  },
+  {
+    "date": "2026-07-24",
+    "home_id": 143,
+    "away_id": 147,
+    "home": "PHI",
+    "away": "NYY"
   },
   {
     "date": "2026-07-24",
@@ -4390,17 +4327,17 @@
   },
   {
     "date": "2026-07-24",
-    "home_id": 111,
-    "away_id": 141,
-    "home": "BOS",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-07-24",
     "home_id": 146,
     "away_id": 135,
     "home": "MIA",
     "away": "SD"
+  },
+  {
+    "date": "2026-07-24",
+    "home_id": 111,
+    "away_id": 141,
+    "home": "BOS",
+    "away": "TOR"
   },
   {
     "date": "2026-07-24",
