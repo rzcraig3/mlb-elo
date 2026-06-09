@@ -1,52 +1,4 @@
 {
-  "2026-06-08|BAL|SEA": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
-    "away_pitcher_id": 676106,
-    "away_pitcher": "Emerson Hancock"
-  },
-  "2026-06-08|TB|BOS": {
-    "home_pitcher_id": 693855,
-    "home_pitcher": "Ian Seymour",
-    "away_pitcher_id": 813349,
-    "away_pitcher": "Connelly Early"
-  },
-  "2026-06-08|CLE|NYY": {
-    "home_pitcher_id": 668909,
-    "home_pitcher": "Gavin Williams",
-    "away_pitcher_id": 701542,
-    "away_pitcher": "Will Warren"
-  },
-  "2026-06-08|TOR|PHI": {
-    "home_pitcher_id": 571578,
-    "home_pitcher": "Patrick Corbin",
-    "away_pitcher_id": 650911,
-    "away_pitcher": "Cristopher S\u00e1nchez"
-  },
-  "2026-06-08|LAA|HOU": {
-    "home_pitcher_id": 680570,
-    "home_pitcher": "Grayson Rodriguez",
-    "away_pitcher_id": 681293,
-    "away_pitcher": "Spencer Arrighetti"
-  },
-  "2026-06-08|SD|CIN": {
-    "home_pitcher_id": 621111,
-    "home_pitcher": "Walker Buehler",
-    "away_pitcher_id": 671096,
-    "away_pitcher": "Andrew Abbott"
-  },
-  "2026-06-08|SF|WSH": {
-    "home_pitcher_id": 657277,
-    "home_pitcher": "Logan Webb",
-    "away_pitcher_id": 571945,
-    "away_pitcher": "Miles Mikolas"
-  },
-  "2026-06-08|ATH|MIL": {
-    "home_pitcher_id": 605488,
-    "home_pitcher": "Jeffrey Springs",
-    "away_pitcher_id": 690986,
-    "away_pitcher": "Kyle Harrison"
-  },
   "2026-06-09|BAL|SEA": {
     "home_pitcher_id": 669432,
     "home_pitcher": "Trevor Rogers",
@@ -84,8 +36,8 @@
     "away_pitcher": "Gerrit Cole"
   },
   "2026-06-09|TOR|PHI": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 656302,
+    "home_pitcher": "Dylan Cease",
     "away_pitcher_id": 554430,
     "away_pitcher": "Zack Wheeler"
   },
@@ -186,8 +138,8 @@
     "away_pitcher": "Ryne Nelson"
   },
   "2026-06-10|TOR|PHI": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 453286,
+    "home_pitcher": "Max Scherzer",
     "away_pitcher_id": 666200,
     "away_pitcher": "Jes\u00fas Luzardo"
   },
@@ -306,8 +258,8 @@
     "away_pitcher": null
   },
   "2026-06-12|CIN|AZ": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 666157,
+    "home_pitcher": "Nick Lodolo",
     "away_pitcher_id": null,
     "away_pitcher": null
   },
@@ -1164,6 +1116,96 @@
     "away_pitcher": null
   },
   "2026-06-22|SD|ATL": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|TOR|HOU": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|PIT|SEA": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|TB|KC": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|MIA|TEX": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|DET|NYY": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|WSH|PHI": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|NYM|CHC": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|CIN|MIL": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|MIN|LAD": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|CWS|CLE": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|STL|AZ": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|COL|BOS": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|LAA|BAL": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|SD|ATL": {
+    "home_pitcher_id": null,
+    "home_pitcher": null,
+    "away_pitcher_id": null,
+    "away_pitcher": null
+  },
+  "2026-06-23|SF|ATH": {
     "home_pitcher_id": null,
     "home_pitcher": null,
     "away_pitcher_id": null,
