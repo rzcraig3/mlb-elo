@@ -1,39 +1,44 @@
 {
   "pitchers": {
-    "527048": {
-      "name": "Mart\u00edn P\u00e9rez",
-      "rgs": 56.7,
-      "starts": 47
+    "519242": {
+      "name": "Chris Sale",
+      "rgs": 62.4,
+      "starts": 63
     },
-    "571945": {
-      "name": "Miles Mikolas",
-      "rgs": 44.9,
-      "starts": 69
+    "543135": {
+      "name": "Nathan Eovaldi",
+      "rgs": 54.6,
+      "starts": 66
     },
-    "594798": {
-      "name": "Jacob deGrom",
-      "rgs": 55.1,
-      "starts": 48
+    "543243": {
+      "name": "Sonny Gray",
+      "rgs": 57.6,
+      "starts": 74
     },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 45.6,
-      "starts": 65
+    "571510": {
+      "name": "Matthew Boyd",
+      "rgs": 51.4,
+      "starts": 44
+    },
+    "571578": {
+      "name": "Patrick Corbin",
+      "rgs": 44.1,
+      "starts": 76
+    },
+    "592332": {
+      "name": "Kevin Gausman",
+      "rgs": 48.8,
+      "starts": 79
     },
     "605488": {
       "name": "Jeffrey Springs",
       "rgs": 36.9,
       "starts": 53
     },
-    "607200": {
-      "name": "Erick Fedde",
-      "rgs": 46.2,
-      "starts": 63
-    },
-    "607536": {
-      "name": "Kyle Freeland",
-      "rgs": 44.8,
-      "starts": 65
+    "607074": {
+      "name": "Carlos Rod\u00f3n",
+      "rgs": 55.6,
+      "starts": 73
     },
     "607625": {
       "name": "Seth Lugo",
@@ -45,30 +50,15 @@
       "rgs": 56.2,
       "starts": 55
     },
-    "624133": {
-      "name": "Ranger Suarez",
-      "rgs": 60.0,
-      "starts": 67
-    },
-    "640455": {
-      "name": "Sean Manaea",
-      "rgs": 51.9,
-      "starts": 46
-    },
-    "641816": {
-      "name": "Tyler Mahle",
-      "rgs": 45.9,
-      "starts": 30
+    "625643": {
+      "name": "Reynaldo L\u00f3pez",
+      "rgs": 49.4,
+      "starts": 31
     },
     "642547": {
       "name": "Freddy Peralta",
       "rgs": 41.9,
       "starts": 81
-    },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 53.7,
-      "starts": 12
     },
     "650633": {
       "name": "Michael King",
@@ -80,30 +70,55 @@
       "rgs": 64.0,
       "starts": 79
     },
-    "657746": {
-      "name": "Joe Ryan",
-      "rgs": 60.6,
-      "starts": 69
+    "656302": {
+      "name": "Dylan Cease",
+      "rgs": 61.0,
+      "starts": 79
     },
-    "667755": {
-      "name": "Jos\u00e9 Soriano",
-      "rgs": 49.4,
-      "starts": 67
+    "663436": {
+      "name": "Davis Martin",
+      "rgs": 50.2,
+      "starts": 50
+    },
+    "663903": {
+      "name": "Brady Singer",
+      "rgs": 54.0,
+      "starts": 79
+    },
+    "664285": {
+      "name": "Framber Valdez",
+      "rgs": 54.9,
+      "starts": 75
     },
     "668678": {
       "name": "Zac Gallen",
       "rgs": 36.8,
       "starts": 77
     },
-    "669373": {
-      "name": "Tarik Skubal",
-      "rgs": 57.8,
-      "starts": 71
+    "668909": {
+      "name": "Gavin Williams",
+      "rgs": 52.6,
+      "starts": 63
     },
-    "669461": {
-      "name": "Matthew Liberatore",
-      "rgs": 42.5,
-      "starts": 50
+    "668984": {
+      "name": "Casey Legumina",
+      "rgs": 48.9,
+      "starts": 2
+    },
+    "669022": {
+      "name": "MacKenzie Gore",
+      "rgs": 55.1,
+      "starts": 78
+    },
+    "669432": {
+      "name": "Trevor Rogers",
+      "rgs": 54.5,
+      "starts": 57
+    },
+    "669456": {
+      "name": "Shane Bieber",
+      "rgs": 48.1,
+      "starts": 10
     },
     "669467": {
       "name": "Andre Pallante",
@@ -115,15 +130,25 @@
       "rgs": 52.9,
       "starts": 70
     },
+    "671737": {
+      "name": "Taj Bradley",
+      "rgs": 48.1,
+      "starts": 66
+    },
+    "672282": {
+      "name": "Reid Detmers",
+      "rgs": 60.5,
+      "starts": 33
+    },
+    "672456": {
+      "name": "Keider Montero",
+      "rgs": 56.2,
+      "starts": 42
+    },
     "676282": {
       "name": "Joey Cantillo",
       "rgs": 52.1,
       "starts": 37
-    },
-    "676440": {
-      "name": "Tanner Bibee",
-      "rgs": 56.0,
-      "starts": 78
     },
     "676974": {
       "name": "Max Meyer",
@@ -135,20 +160,20 @@
       "rgs": 53.1,
       "starts": 52
     },
-    "677960": {
-      "name": "Ryan Weathers",
-      "rgs": 51.8,
-      "starts": 38
+    "680694": {
+      "name": "Kyle Bradish",
+      "rgs": 57.3,
+      "starts": 30
     },
     "681190": {
       "name": "Randy V\u00e1squez",
       "rgs": 42.1,
       "starts": 61
     },
-    "681347": {
-      "name": "Mike Burrows",
-      "rgs": 41.7,
-      "starts": 33
+    "681293": {
+      "name": "Spencer Arrighetti",
+      "rgs": 52.4,
+      "starts": 47
     },
     "682243": {
       "name": "Bryce Miller",
@@ -160,10 +185,10 @@
       "rgs": 58.1,
       "starts": 44
     },
-    "693433": {
-      "name": "Bryan Woo",
-      "rgs": 58.5,
-      "starts": 67
+    "693821": {
+      "name": "Bryce Elder",
+      "rgs": 43.6,
+      "starts": 54
     },
     "694738": {
       "name": "Landen Roupp",
@@ -174,39 +199,49 @@
       "name": "Michael McGreevy",
       "rgs": 48.2,
       "starts": 34
+    },
+    "701542": {
+      "name": "Will Warren",
+      "rgs": 51.3,
+      "starts": 53
+    },
+    "808967": {
+      "name": "Yoshinobu Yamamoto",
+      "rgs": 66.4,
+      "starts": 62
     }
   },
   "team_avg_rgs": {
     "MIL": 71.1,
-    "NYY": 58.4,
-    "PHI": 59.5,
+    "NYY": 60.4,
+    "PHI": 55.3,
     "CIN": 55.8,
     "ATL": 58.6,
-    "AZ": 51.9,
+    "AZ": 54.8,
     "TB": 59.0,
     "LAD": 61.4,
-    "CLE": 54.0,
+    "CLE": 55.0,
     "MIA": 56.2,
-    "PIT": 56.9,
-    "MIN": 59.8,
-    "LAA": 57.5,
+    "BOS": 56.0,
+    "PIT": 57.2,
     "WSH": 56.5,
     "ATH": 51.0,
+    "MIN": 59.2,
     "CWS": 57.4,
-    "SEA": 56.6,
+    "SEA": 56.3,
     "SD": 55.9,
     "STL": 54.2,
     "SF": 55.4,
+    "LAA": 56.5,
     "KC": 54.7,
-    "TEX": 53.2,
-    "BOS": 53.0,
+    "TEX": 53.4,
     "BAL": 52.3,
-    "NYM": 53.9,
     "DET": 54.3,
+    "NYM": 53.4,
     "TOR": 55.1,
-    "CHC": 51.6,
-    "COL": 56.3,
-    "HOU": 56.3
+    "CHC": 53.2,
+    "HOU": 45.1,
+    "COL": 56.0
   },
-  "updated": "2026-06-24"
+  "updated": "2026-06-25"
 }
