@@ -15,20 +15,10 @@
       "rgs": 49.7,
       "starts": 49
     },
-    "543135": {
-      "name": "Nathan Eovaldi",
-      "rgs": 58.9,
-      "starts": 67
-    },
     "543243": {
       "name": "Sonny Gray",
       "rgs": 63.2,
       "starts": 75
-    },
-    "547179": {
-      "name": "Michael Lorenzen",
-      "rgs": 46.1,
-      "starts": 67
     },
     "571945": {
       "name": "Miles Mikolas",
@@ -40,6 +30,11 @@
       "rgs": 59.7,
       "starts": 56
     },
+    "605400": {
+      "name": "Aaron Nola",
+      "rgs": 41.9,
+      "starts": 67
+    },
     "607074": {
       "name": "Carlos Rod\u00f3n",
       "rgs": 57.7,
@@ -49,6 +44,26 @@
       "name": "Erick Fedde",
       "rgs": 46.6,
       "starts": 64
+    },
+    "607259": {
+      "name": "Nick Martinez",
+      "rgs": 53.7,
+      "starts": 58
+    },
+    "608379": {
+      "name": "Michael Wacha",
+      "rgs": 57.4,
+      "starts": 77
+    },
+    "615698": {
+      "name": "Cal Quantrill",
+      "rgs": 42.1,
+      "starts": 57
+    },
+    "622491": {
+      "name": "Luis Castillo",
+      "rgs": 55.1,
+      "starts": 75
     },
     "624133": {
       "name": "Ranger Suarez",
@@ -85,6 +100,11 @@
       "rgs": 39.5,
       "starts": 63
     },
+    "650911": {
+      "name": "Cristopher S\u00e1nchez",
+      "rgs": 63.1,
+      "starts": 81
+    },
     "656288": {
       "name": "Griffin Canning",
       "rgs": 45.1,
@@ -105,40 +125,45 @@
       "rgs": 46.5,
       "starts": 43
     },
+    "656605": {
+      "name": "Mitch Keller",
+      "rgs": 47.3,
+      "starts": 80
+    },
     "656849": {
       "name": "David Peterson",
       "rgs": 43.1,
       "starts": 60
+    },
+    "656876": {
+      "name": "Drew Rasmussen",
+      "rgs": 66.3,
+      "starts": 51
     },
     "657746": {
       "name": "Joe Ryan",
       "rgs": 52.8,
       "starts": 71
     },
-    "663436": {
-      "name": "Davis Martin",
-      "rgs": 53.0,
-      "starts": 51
+    "663372": {
+      "name": "Ryan Feltner",
+      "rgs": 52.0,
+      "starts": 47
     },
     "663554": {
       "name": "Casey Mize",
       "rgs": 62.3,
       "starts": 60
     },
-    "663568": {
-      "name": "Stephen Kolek",
-      "rgs": 47.6,
-      "starts": 28
-    },
     "663903": {
       "name": "Brady Singer",
       "rgs": 49.6,
       "starts": 80
     },
-    "664285": {
-      "name": "Framber Valdez",
-      "rgs": 52.4,
-      "starts": 76
+    "663969": {
+      "name": "Tyler Phillips",
+      "rgs": 47.7,
+      "starts": 14
     },
     "665871": {
       "name": "Javier Assad",
@@ -150,10 +175,20 @@
       "rgs": 51.8,
       "starts": 59
     },
+    "666200": {
+      "name": "Jes\u00fas Luzardo",
+      "rgs": 59.2,
+      "starts": 61
+    },
     "668909": {
       "name": "Gavin Williams",
       "rgs": 52.5,
       "starts": 64
+    },
+    "669302": {
+      "name": "Logan Gilbert",
+      "rgs": 63.0,
+      "starts": 75
     },
     "669432": {
       "name": "Trevor Rogers",
@@ -165,10 +200,25 @@
       "rgs": 48.0,
       "starts": 11
     },
+    "669461": {
+      "name": "Matthew Liberatore",
+      "rgs": 44.9,
+      "starts": 52
+    },
     "669467": {
       "name": "Andre Pallante",
       "rgs": 54.9,
       "starts": 67
+    },
+    "669923": {
+      "name": "George Kirby",
+      "rgs": 53.4,
+      "starts": 73
+    },
+    "672282": {
+      "name": "Reid Detmers",
+      "rgs": 59.7,
+      "starts": 34
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -179,11 +229,6 @@
       "name": "JP Sears",
       "rgs": 42.2,
       "starts": 61
-    },
-    "677944": {
-      "name": "Slade Cecconi",
-      "rgs": 56.2,
-      "starts": 53
     },
     "677958": {
       "name": "Kumar Rocker",
@@ -205,11 +250,6 @@
       "rgs": 53.5,
       "starts": 38
     },
-    "681190": {
-      "name": "Randy V\u00e1squez",
-      "rgs": 42.1,
-      "starts": 61
-    },
     "681293": {
       "name": "Spencer Arrighetti",
       "rgs": 44.3,
@@ -220,25 +260,35 @@
       "rgs": 55.0,
       "starts": 17
     },
-    "682243": {
-      "name": "Bryce Miller",
-      "rgs": 61.1,
-      "starts": 56
-    },
     "684007": {
       "name": "Shota Imanaga",
       "rgs": 50.0,
       "starts": 71
+    },
+    "685299": {
+      "name": "Tanner Gordon",
+      "rgs": 42.7,
+      "starts": 26
     },
     "686613": {
       "name": "Hunter Brown",
       "rgs": 58.0,
       "starts": 66
     },
-    "694462": {
-      "name": "Hurston Waldrep",
-      "rgs": 52.5,
-      "starts": 11
+    "690986": {
+      "name": "Kyle Harrison",
+      "rgs": 58.7,
+      "starts": 45
+    },
+    "691951": {
+      "name": "Sam Aldegheri",
+      "rgs": 43.8,
+      "starts": 10
+    },
+    "700241": {
+      "name": "Michael McGreevy",
+      "rgs": 53.4,
+      "starts": 36
     },
     "805673": {
       "name": "Zebby Matthews",
@@ -252,7 +302,7 @@
     }
   },
   "team_avg_rgs": {
-    "MIL": 70.6,
+    "MIL": 69.9,
     "PHI": 59.9,
     "NYY": 56.8,
     "ATL": 58.0,
@@ -261,19 +311,19 @@
     "TB": 59.4,
     "MIA": 56.3,
     "LAD": 61.2,
-    "CLE": 54.6,
+    "CLE": 54.4,
     "WSH": 56.1,
     "BOS": 56.3,
-    "CWS": 57.7,
     "ATH": 50.5,
+    "CWS": 57.0,
     "SF": 55.7,
-    "STL": 54.3,
-    "DET": 54.7,
+    "STL": 53.7,
+    "DET": 53.9,
     "KC": 54.0,
     "PIT": 56.2,
     "SEA": 56.6,
     "LAA": 56.6,
-    "TEX": 55.6,
+    "TEX": 55.5,
     "SD": 55.3,
     "MIN": 56.1,
     "BAL": 52.5,
@@ -281,7 +331,7 @@
     "TOR": 53.7,
     "CHC": 51.4,
     "HOU": 45.1,
-    "COL": 55.6
+    "COL": 55.5
   },
-  "updated": "2026-07-02"
+  "updated": "2026-07-03"
 }
