@@ -20,16 +20,6 @@
       "rgs": 49.7,
       "starts": 46
     },
-    "571945": {
-      "name": "Miles Mikolas",
-      "rgs": 43.5,
-      "starts": 70
-    },
-    "592332": {
-      "name": "Kevin Gausman",
-      "rgs": 47.2,
-      "starts": 81
-    },
     "594798": {
       "name": "Jacob deGrom",
       "rgs": 59.6,
@@ -45,19 +35,19 @@
       "rgs": 49.5,
       "starts": 68
     },
-    "607536": {
-      "name": "Kyle Freeland",
-      "rgs": 44.6,
-      "starts": 67
+    "607625": {
+      "name": "Seth Lugo",
+      "rgs": 44.9,
+      "starts": 76
     },
-    "621111": {
-      "name": "Walker Buehler",
-      "rgs": 47.2,
-      "starts": 57
+    "608379": {
+      "name": "Michael Wacha",
+      "rgs": 53.8,
+      "starts": 78
     },
-    "625643": {
-      "name": "Reynaldo L\u00f3pez",
-      "rgs": 53.1,
+    "608566": {
+      "name": "Germ\u00e1n M\u00e1rquez",
+      "rgs": 40.6,
       "starts": 33
     },
     "640455": {
@@ -65,25 +55,10 @@
       "rgs": 48.2,
       "starts": 49
     },
-    "642547": {
-      "name": "Freddy Peralta",
-      "rgs": 43.5,
-      "starts": 83
-    },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 55.0,
-      "starts": 14
-    },
     "650633": {
       "name": "Michael King",
       "rgs": 54.4,
       "starts": 63
-    },
-    "650911": {
-      "name": "Cristopher S\u00e1nchez",
-      "rgs": 63.1,
-      "starts": 81
     },
     "656288": {
       "name": "Griffin Canning",
@@ -94,6 +69,11 @@
       "name": "Dylan Cease",
       "rgs": 62.8,
       "starts": 81
+    },
+    "656550": {
+      "name": "Grant Holmes",
+      "rgs": 47.7,
+      "starts": 44
     },
     "656605": {
       "name": "Mitch Keller",
@@ -220,11 +200,6 @@
       "rgs": 48.5,
       "starts": 49
     },
-    "681347": {
-      "name": "Mike Burrows",
-      "rgs": 46.0,
-      "starts": 35
-    },
     "686790": {
       "name": "Trevor McDonald",
       "rgs": 54.8,
@@ -235,15 +210,15 @@
       "rgs": 55.2,
       "starts": 46
     },
-    "694297": {
-      "name": "Brandon Pfaadt",
-      "rgs": 49.9,
-      "starts": 69
+    "693821": {
+      "name": "Bryce Elder",
+      "rgs": 41.8,
+      "starts": 55
     },
-    "694738": {
-      "name": "Landen Roupp",
-      "rgs": 46.1,
-      "starts": 43
+    "694462": {
+      "name": "Hurston Waldrep",
+      "rgs": 52.0,
+      "starts": 12
     },
     "694973": {
       "name": "Paul Skenes",
@@ -258,8 +233,7 @@
   },
   "team_avg_rgs": {
     "MIL": 69.9,
-    "PHI": 55.7,
-    "NYY": 56.6,
+    "NYY": 58.7,
     "AZ": 50.4,
     "ATL": 57.4,
     "CIN": 54.9,
@@ -267,26 +241,27 @@
     "MIA": 56.8,
     "BOS": 56.6,
     "TB": 58.7,
-    "TOR": 57.4,
+    "PHI": 54.6,
     "CLE": 53.9,
     "WSH": 55.5,
     "ATH": 50.5,
     "CWS": 57.2,
-    "STL": 51.7,
+    "STL": 54.1,
     "SEA": 57.3,
     "DET": 54.2,
     "PIT": 55.8,
     "MIN": 58.8,
     "LAA": 56.0,
-    "SF": 54.6,
+    "SF": 54.9,
     "KC": 53.6,
     "TEX": 55.5,
     "SD": 55.8,
     "NYM": 53.7,
     "BAL": 52.7,
     "CHC": 53.3,
-    "COL": 55.9,
-    "HOU": 55.9
+    "TOR": 53.4,
+    "HOU": 43.5,
+    "COL": 55.5
   },
-  "updated": "2026-07-06"
+  "updated": "2026-07-07"
 }
