@@ -1,15 +1,5 @@
 {
   "pitchers": {
-    "519242": {
-      "name": "Chris Sale",
-      "rgs": 57.6,
-      "starts": 65
-    },
-    "543243": {
-      "name": "Sonny Gray",
-      "rgs": 63.0,
-      "starts": 76
-    },
     "547179": {
       "name": "Michael Lorenzen",
       "rgs": 46.8,
@@ -35,31 +25,6 @@
       "rgs": 47.2,
       "starts": 82
     },
-    "592662": {
-      "name": "Robbie Ray",
-      "rgs": 55.4,
-      "starts": 56
-    },
-    "593958": {
-      "name": "Eduardo Rodriguez",
-      "rgs": 59.3,
-      "starts": 57
-    },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 46.1,
-      "starts": 68
-    },
-    "607200": {
-      "name": "Erick Fedde",
-      "rgs": 46.6,
-      "starts": 64
-    },
-    "607259": {
-      "name": "Nick Martinez",
-      "rgs": 54.8,
-      "starts": 59
-    },
     "607536": {
       "name": "Kyle Freeland",
       "rgs": 42.1,
@@ -75,20 +40,10 @@
       "rgs": 44.9,
       "starts": 34
     },
-    "615698": {
-      "name": "Cal Quantrill",
-      "rgs": 44.5,
-      "starts": 58
-    },
     "621111": {
       "name": "Walker Buehler",
       "rgs": 43.6,
       "starts": 58
-    },
-    "622491": {
-      "name": "Luis Castillo",
-      "rgs": 56.1,
-      "starts": 76
     },
     "625643": {
       "name": "Reynaldo L\u00f3pez",
@@ -115,20 +70,25 @@
       "rgs": 50.1,
       "starts": 82
     },
-    "656427": {
-      "name": "Jack Flaherty",
-      "rgs": 57.9,
-      "starts": 76
-    },
     "657746": {
       "name": "Joe Ryan",
       "rgs": 61.4,
       "starts": 72
     },
+    "663542": {
+      "name": "Bryan Hudson",
+      "rgs": 50.9,
+      "starts": 5
+    },
     "663554": {
       "name": "Casey Mize",
       "rgs": 61.3,
       "starts": 61
+    },
+    "663903": {
+      "name": "Brady Singer",
+      "rgs": 54.2,
+      "starts": 82
     },
     "665871": {
       "name": "Javier Assad",
@@ -140,6 +100,11 @@
       "rgs": 53.3,
       "starts": 60
     },
+    "667755": {
+      "name": "Jos\u00e9 Soriano",
+      "rgs": 50.7,
+      "starts": 70
+    },
     "668678": {
       "name": "Zac Gallen",
       "rgs": 38.9,
@@ -147,8 +112,8 @@
     },
     "668881": {
       "name": "Hunter Greene",
-      "rgs": 53.4,
-      "starts": 46
+      "rgs": 59.3,
+      "starts": 47
     },
     "669302": {
       "name": "Logan Gilbert",
@@ -169,11 +134,6 @@
       "name": "Tarik Skubal",
       "rgs": 59.6,
       "starts": 74
-    },
-    "669456": {
-      "name": "Shane Bieber",
-      "rgs": 42.2,
-      "starts": 12
     },
     "669461": {
       "name": "Matthew Liberatore",
@@ -205,55 +165,15 @@
       "rgs": 51.8,
       "starts": 81
     },
-    "676664": {
-      "name": "JP Sears",
-      "rgs": 47.6,
-      "starts": 62
-    },
     "677958": {
       "name": "Kumar Rocker",
       "rgs": 49.4,
       "starts": 32
     },
-    "677960": {
-      "name": "Ryan Weathers",
-      "rgs": 48.8,
-      "starts": 41
-    },
     "680694": {
       "name": "Kyle Bradish",
       "rgs": 56.5,
       "starts": 32
-    },
-    "680732": {
-      "name": "Sean Burke",
-      "rgs": 55.7,
-      "starts": 39
-    },
-    "681517": {
-      "name": "Kyle Leahy",
-      "rgs": 57.3,
-      "starts": 18
-    },
-    "682052": {
-      "name": "Jacob Lopez",
-      "rgs": 38.2,
-      "starts": 28
-    },
-    "684007": {
-      "name": "Shota Imanaga",
-      "rgs": 50.5,
-      "starts": 72
-    },
-    "685299": {
-      "name": "Tanner Gordon",
-      "rgs": 40.2,
-      "starts": 27
-    },
-    "686613": {
-      "name": "Hunter Brown",
-      "rgs": 50.9,
-      "starts": 67
     },
     "686790": {
       "name": "Trevor McDonald",
@@ -265,11 +185,6 @@
       "rgs": 53.5,
       "starts": 70
     },
-    "694462": {
-      "name": "Hurston Waldrep",
-      "rgs": 43.8,
-      "starts": 13
-    },
     "694973": {
       "name": "Paul Skenes",
       "rgs": 52.1,
@@ -280,11 +195,6 @@
       "rgs": 44.0,
       "starts": 56
     },
-    "805673": {
-      "name": "Zebby Matthews",
-      "rgs": 49.9,
-      "starts": 35
-    },
     "808967": {
       "name": "Yoshinobu Yamamoto",
       "rgs": 67.0,
@@ -293,35 +203,35 @@
   },
   "team_avg_rgs": {
     "MIL": 69.8,
-    "NYY": 57.9,
-    "AZ": 48.5,
-    "ATL": 56.6,
+    "NYY": 58.8,
+    "ATL": 56.7,
+    "AZ": 50.2,
     "LAD": 62.1,
+    "BOS": 58.3,
     "CIN": 54.8,
     "TOR": 57.9,
-    "MIA": 56.6,
-    "TB": 57.7,
-    "PHI": 59.2,
-    "WSH": 58.5,
+    "MIA": 56.8,
+    "PHI": 55.1,
+    "TB": 57.5,
     "CLE": 54.1,
+    "WSH": 58.5,
     "MIN": 57.8,
     "STL": 54.2,
     "ATH": 49.8,
     "DET": 55.0,
-    "BOS": 55.9,
     "SEA": 57.0,
     "PIT": 55.5,
+    "SF": 54.7,
     "LAA": 55.5,
     "SD": 56.2,
-    "CWS": 56.5,
-    "SF": 54.8,
+    "CWS": 57.0,
     "TEX": 55.1,
-    "NYM": 53.7,
+    "NYM": 54.1,
     "BAL": 52.7,
     "KC": 52.2,
     "CHC": 51.1,
     "COL": 56.0,
     "HOU": 56.0
   },
-  "updated": "2026-07-10"
+  "updated": "2026-07-11"
 }
