@@ -1,9 +1,49 @@
 {
   "pitchers": {
+    "519242": {
+      "name": "Chris Sale",
+      "rgs": 58.1,
+      "starts": 66
+    },
+    "571510": {
+      "name": "Matthew Boyd",
+      "rgs": 53.0,
+      "starts": 48
+    },
+    "592332": {
+      "name": "Kevin Gausman",
+      "rgs": 49.7,
+      "starts": 83
+    },
     "592662": {
       "name": "Robbie Ray",
       "rgs": 54.5,
       "starts": 57
+    },
+    "605400": {
+      "name": "Aaron Nola",
+      "rgs": 48.5,
+      "starts": 69
+    },
+    "607067": {
+      "name": "Colin Rea",
+      "rgs": 48.1,
+      "starts": 69
+    },
+    "607200": {
+      "name": "Erick Fedde",
+      "rgs": 46.6,
+      "starts": 64
+    },
+    "607625": {
+      "name": "Seth Lugo",
+      "rgs": 42.3,
+      "starts": 78
+    },
+    "608566": {
+      "name": "Germ\u00e1n M\u00e1rquez",
+      "rgs": 43.2,
+      "starts": 35
     },
     "640455": {
       "name": "Sean Manaea",
@@ -20,10 +60,35 @@
       "rgs": 56.1,
       "starts": 16
     },
+    "650633": {
+      "name": "Michael King",
+      "rgs": 56.2,
+      "starts": 64
+    },
+    "656288": {
+      "name": "Griffin Canning",
+      "rgs": 46.8,
+      "starts": 57
+    },
+    "656302": {
+      "name": "Dylan Cease",
+      "rgs": 67.5,
+      "starts": 82
+    },
+    "656550": {
+      "name": "Grant Holmes",
+      "rgs": 51.6,
+      "starts": 45
+    },
     "657277": {
       "name": "Logan Webb",
       "rgs": 54.2,
       "starts": 83
+    },
+    "663436": {
+      "name": "Davis Martin",
+      "rgs": 46.7,
+      "starts": 53
     },
     "663554": {
       "name": "Casey Mize",
@@ -35,25 +100,65 @@
       "rgs": 54.2,
       "starts": 82
     },
+    "666200": {
+      "name": "Jes\u00fas Luzardo",
+      "rgs": 65.9,
+      "starts": 63
+    },
     "668881": {
       "name": "Hunter Greene",
       "rgs": 59.3,
       "starts": 47
+    },
+    "668909": {
+      "name": "Gavin Williams",
+      "rgs": 55.6,
+      "starts": 66
     },
     "669373": {
       "name": "Tarik Skubal",
       "rgs": 59.5,
       "starts": 75
     },
+    "669456": {
+      "name": "Shane Bieber",
+      "rgs": 42.7,
+      "starts": 13
+    },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 50.0,
       "starts": 74
     },
+    "676282": {
+      "name": "Joey Cantillo",
+      "rgs": 56.4,
+      "starts": 41
+    },
+    "676440": {
+      "name": "Tanner Bibee",
+      "rgs": 53.3,
+      "starts": 82
+    },
+    "680732": {
+      "name": "Sean Burke",
+      "rgs": 59.1,
+      "starts": 40
+    },
+    "684007": {
+      "name": "Shota Imanaga",
+      "rgs": 50.7,
+      "starts": 73
+    },
     "694738": {
       "name": "Landen Roupp",
       "rgs": 51.2,
       "starts": 44
+    },
+    "694973": {
+      "name": "Paul Skenes",
+      "rgs": 54.5,
+      "starts": 75
     }
   },
   "team_avg_rgs": {
@@ -88,5 +193,5 @@
     "COL": 55.9,
     "HOU": 55.9
   },
-  "updated": "2026-07-15"
+  "updated": "2026-07-16"
 }
