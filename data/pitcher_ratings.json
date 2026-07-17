@@ -1,9 +1,19 @@
 {
   "pitchers": {
+    "518876": {
+      "name": "Merrill Kelly",
+      "rgs": 46.8,
+      "starts": 61
+    },
     "519242": {
       "name": "Chris Sale",
       "rgs": 58.1,
       "starts": 66
+    },
+    "543243": {
+      "name": "Sonny Gray",
+      "rgs": 62.9,
+      "starts": 77
     },
     "571510": {
       "name": "Matthew Boyd",
@@ -20,10 +30,15 @@
       "rgs": 54.5,
       "starts": 57
     },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 48.5,
-      "starts": 69
+    "593958": {
+      "name": "Eduardo Rodriguez",
+      "rgs": 57.3,
+      "starts": 58
+    },
+    "605488": {
+      "name": "Jeffrey Springs",
+      "rgs": 34.6,
+      "starts": 56
     },
     "607067": {
       "name": "Colin Rea",
@@ -45,10 +60,25 @@
       "rgs": 43.2,
       "starts": 35
     },
+    "615698": {
+      "name": "Cal Quantrill",
+      "rgs": 46.9,
+      "starts": 59
+    },
     "640455": {
       "name": "Sean Manaea",
       "rgs": 51.7,
       "starts": 50
+    },
+    "641793": {
+      "name": "Zack Littell",
+      "rgs": 44.3,
+      "starts": 73
+    },
+    "641927": {
+      "name": "Bailey Ober",
+      "rgs": 47.4,
+      "starts": 71
     },
     "642547": {
       "name": "Freddy Peralta",
@@ -85,6 +115,11 @@
       "rgs": 54.2,
       "starts": 83
     },
+    "663372": {
+      "name": "Ryan Feltner",
+      "rgs": 49.1,
+      "starts": 49
+    },
     "663436": {
       "name": "Davis Martin",
       "rgs": 46.7,
@@ -100,10 +135,20 @@
       "rgs": 54.2,
       "starts": 82
     },
+    "665152": {
+      "name": "Dean Kremer",
+      "rgs": 52.0,
+      "starts": 57
+    },
     "666200": {
       "name": "Jes\u00fas Luzardo",
       "rgs": 65.9,
       "starts": 63
+    },
+    "667755": {
+      "name": "Jos\u00e9 Soriano",
+      "rgs": 50.0,
+      "starts": 71
     },
     "668881": {
       "name": "Hunter Greene",
@@ -115,10 +160,30 @@
       "rgs": 55.6,
       "starts": 66
     },
+    "669022": {
+      "name": "MacKenzie Gore",
+      "rgs": 50.3,
+      "starts": 82
+    },
+    "669302": {
+      "name": "Logan Gilbert",
+      "rgs": 63.7,
+      "starts": 77
+    },
+    "669372": {
+      "name": "J.T. Ginn",
+      "rgs": 47.6,
+      "starts": 40
+    },
     "669373": {
       "name": "Tarik Skubal",
       "rgs": 59.5,
       "starts": 75
+    },
+    "669432": {
+      "name": "Trevor Rogers",
+      "rgs": 57.9,
+      "starts": 60
     },
     "669456": {
       "name": "Shane Bieber",
@@ -130,6 +195,16 @@
       "rgs": 50.0,
       "starts": 74
     },
+    "671737": {
+      "name": "Taj Bradley",
+      "rgs": 58.0,
+      "starts": 70
+    },
+    "672282": {
+      "name": "Reid Detmers",
+      "rgs": 49.7,
+      "starts": 36
+    },
     "676282": {
       "name": "Joey Cantillo",
       "rgs": 56.4,
@@ -140,15 +215,65 @@
       "rgs": 53.3,
       "starts": 82
     },
+    "676974": {
+      "name": "Max Meyer",
+      "rgs": 58.4,
+      "starts": 42
+    },
+    "677960": {
+      "name": "Ryan Weathers",
+      "rgs": 51.5,
+      "starts": 42
+    },
+    "680694": {
+      "name": "Kyle Bradish",
+      "rgs": 59.5,
+      "starts": 33
+    },
     "680732": {
       "name": "Sean Burke",
       "rgs": 59.1,
       "starts": 40
     },
+    "681293": {
+      "name": "Spencer Arrighetti",
+      "rgs": 40.7,
+      "starts": 50
+    },
+    "682052": {
+      "name": "Jacob Lopez",
+      "rgs": 41.8,
+      "starts": 29
+    },
+    "682243": {
+      "name": "Bryce Miller",
+      "rgs": 58.6,
+      "starts": 58
+    },
     "684007": {
       "name": "Shota Imanaga",
       "rgs": 50.7,
       "starts": 73
+    },
+    "686613": {
+      "name": "Hunter Brown",
+      "rgs": 50.2,
+      "starts": 68
+    },
+    "688107": {
+      "name": "Robert Gasser",
+      "rgs": 47.8,
+      "starts": 16
+    },
+    "693433": {
+      "name": "Bryan Woo",
+      "rgs": 53.6,
+      "starts": 70
+    },
+    "694297": {
+      "name": "Brandon Pfaadt",
+      "rgs": 53.9,
+      "starts": 71
     },
     "694738": {
       "name": "Landen Roupp",
@@ -159,6 +284,16 @@
       "name": "Paul Skenes",
       "rgs": 54.5,
       "starts": 75
+    },
+    "805673": {
+      "name": "Zebby Matthews",
+      "rgs": 47.8,
+      "starts": 36
+    },
+    "808967": {
+      "name": "Yoshinobu Yamamoto",
+      "rgs": 61.7,
+      "starts": 65
     }
   },
   "team_avg_rgs": {
@@ -170,7 +305,7 @@
     "CIN": 54.4,
     "TOR": 57.9,
     "MIA": 56.8,
-    "PHI": 55.1,
+    "PHI": 54.9,
     "TB": 57.5,
     "LAD": 61.4,
     "CLE": 54.2,
@@ -190,8 +325,8 @@
     "ATH": 49.1,
     "KC": 52.2,
     "CHC": 53.2,
-    "COL": 55.9,
-    "HOU": 55.9
+    "COL": 55.8,
+    "HOU": 55.8
   },
-  "updated": "2026-07-16"
+  "updated": "2026-07-17"
 }

@@ -12994,5 +12994,14 @@
     "away_score": 4,
     "home": "SD",
     "away": "TOR"
+  },
+  {
+    "date": "2026-07-16",
+    "home_id": 143,
+    "away_id": 121,
+    "home_score": 1,
+    "away_score": 4,
+    "home": "PHI",
+    "away": "NYM"
   }
 ]
