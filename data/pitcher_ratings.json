@@ -1,15 +1,5 @@
 {
   "pitchers": {
-    "518876": {
-      "name": "Merrill Kelly",
-      "rgs": 46.8,
-      "starts": 61
-    },
-    "519242": {
-      "name": "Chris Sale",
-      "rgs": 58.1,
-      "starts": 66
-    },
     "543243": {
       "name": "Sonny Gray",
       "rgs": 62.9,
@@ -40,30 +30,15 @@
       "rgs": 34.6,
       "starts": 56
     },
-    "607067": {
-      "name": "Colin Rea",
-      "rgs": 48.1,
-      "starts": 69
-    },
     "607200": {
       "name": "Erick Fedde",
       "rgs": 46.6,
       "starts": 64
     },
-    "607625": {
-      "name": "Seth Lugo",
-      "rgs": 42.3,
-      "starts": 78
-    },
     "608566": {
       "name": "Germ\u00e1n M\u00e1rquez",
       "rgs": 43.2,
       "starts": 35
-    },
-    "615698": {
-      "name": "Cal Quantrill",
-      "rgs": 46.9,
-      "starts": 59
     },
     "640455": {
       "name": "Sean Manaea",
@@ -75,25 +50,10 @@
       "rgs": 44.3,
       "starts": 73
     },
-    "641927": {
-      "name": "Bailey Ober",
-      "rgs": 47.4,
-      "starts": 71
-    },
     "642547": {
       "name": "Freddy Peralta",
       "rgs": 45.7,
       "starts": 85
-    },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 56.1,
-      "starts": 16
-    },
-    "650633": {
-      "name": "Michael King",
-      "rgs": 56.2,
-      "starts": 64
     },
     "656288": {
       "name": "Griffin Canning",
@@ -129,16 +89,6 @@
       "name": "Casey Mize",
       "rgs": 60.0,
       "starts": 62
-    },
-    "663903": {
-      "name": "Brady Singer",
-      "rgs": 54.2,
-      "starts": 82
-    },
-    "665152": {
-      "name": "Dean Kremer",
-      "rgs": 52.0,
-      "starts": 57
     },
     "666200": {
       "name": "Jes\u00fas Luzardo",
@@ -190,25 +140,25 @@
       "rgs": 42.7,
       "starts": 13
     },
+    "669467": {
+      "name": "Andre Pallante",
+      "rgs": 51.2,
+      "starts": 69
+    },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 50.0,
       "starts": 74
     },
+    "671106": {
+      "name": "Logan Allen",
+      "rgs": 52.5,
+      "starts": 49
+    },
     "671737": {
       "name": "Taj Bradley",
       "rgs": 58.0,
       "starts": 70
-    },
-    "672282": {
-      "name": "Reid Detmers",
-      "rgs": 49.7,
-      "starts": 36
-    },
-    "676282": {
-      "name": "Joey Cantillo",
-      "rgs": 56.4,
-      "starts": 41
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -224,6 +174,11 @@
       "name": "Ryan Weathers",
       "rgs": 51.5,
       "starts": 42
+    },
+    "677976": {
+      "name": "Randy Dobnak",
+      "rgs": null,
+      "starts": 0
     },
     "680694": {
       "name": "Kyle Bradish",
@@ -244,11 +199,6 @@
       "name": "Jacob Lopez",
       "rgs": 41.8,
       "starts": 29
-    },
-    "682243": {
-      "name": "Bryce Miller",
-      "rgs": 58.6,
-      "starts": 58
     },
     "684007": {
       "name": "Shota Imanaga",
@@ -275,15 +225,15 @@
       "rgs": 53.9,
       "starts": 71
     },
-    "694738": {
-      "name": "Landen Roupp",
-      "rgs": 51.2,
-      "starts": 44
-    },
     "694973": {
       "name": "Paul Skenes",
       "rgs": 54.5,
       "starts": 75
+    },
+    "701542": {
+      "name": "Will Warren",
+      "rgs": 45.8,
+      "starts": 57
     },
     "805673": {
       "name": "Zebby Matthews",
@@ -299,34 +249,34 @@
   "team_avg_rgs": {
     "MIL": 69.8,
     "NYY": 56.3,
-    "ATL": 56.7,
-    "AZ": 50.2,
-    "BOS": 58.3,
-    "CIN": 54.4,
+    "ATL": 57.4,
+    "AZ": 48.6,
+    "CIN": 52.3,
     "TOR": 57.9,
-    "MIA": 56.8,
+    "MIA": 56.9,
     "PHI": 54.9,
     "TB": 57.5,
     "LAD": 61.4,
     "CLE": 54.2,
-    "WSH": 56.2,
+    "WSH": 56.4,
     "MIN": 57.8,
-    "STL": 54.2,
+    "STL": 54.3,
     "SEA": 56.9,
-    "DET": 55.0,
-    "SF": 54.7,
-    "SD": 56.2,
+    "DET": 55.6,
+    "SD": 56.1,
+    "SF": 55.0,
     "CWS": 57.0,
-    "LAA": 55.3,
+    "LAA": 55.8,
     "TEX": 55.1,
     "PIT": 55.3,
     "NYM": 53.9,
     "BAL": 53.2,
     "ATH": 49.1,
-    "KC": 52.2,
-    "CHC": 53.2,
-    "COL": 55.8,
-    "HOU": 55.8
+    "KC": 52.4,
+    "CHC": 51.3,
+    "BOS": 55.6,
+    "COL": 55.6,
+    "HOU": 55.6
   },
-  "updated": "2026-07-17"
+  "updated": "2026-07-18"
 }
