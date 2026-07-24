@@ -1,40 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "home_id": 144,
-    "away_id": 135,
-    "home": "ATL",
-    "away": "SD"
-  },
-  {
-    "date": "2026-07-23",
-    "home_id": 114,
-    "away_id": 142,
-    "home": "CLE",
-    "away": "MIN"
-  },
-  {
-    "date": "2026-07-23",
-    "home_id": 141,
-    "away_id": 139,
-    "home": "TOR",
-    "away": "TB"
-  },
-  {
-    "date": "2026-07-23",
-    "home_id": 138,
-    "away_id": 109,
-    "home": "STL",
-    "away": "AZ"
-  },
-  {
-    "date": "2026-07-23",
-    "home_id": 116,
-    "away_id": 118,
-    "home": "DET",
-    "away": "KC"
-  },
-  {
     "date": "2026-07-24",
     "home_id": 158,
     "away_id": 115,
