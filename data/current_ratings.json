@@ -1,37 +1,37 @@
 {
   "ratings": {
     "ATH": {
-      "elo": 1406.7,
+      "elo": 1405.6,
       "w": 45,
-      "l": 69,
-      "elo_7d_change": -12.5,
+      "l": 70,
+      "elo_7d_change": -12.6,
       "name": "Athletics",
       "division": "American League West",
       "league": "American League"
     },
     "PIT": {
-      "elo": 1483.9,
+      "elo": 1481.9,
       "w": 57,
-      "l": 59,
-      "elo_7d_change": -6.2,
+      "l": 60,
+      "elo_7d_change": -6.8,
       "name": "Pittsburgh Pirates",
       "division": "National League Central",
       "league": "National League"
     },
     "SD": {
-      "elo": 1507.4,
-      "w": 59,
+      "elo": 1511.0,
+      "w": 60,
       "l": 56,
-      "elo_7d_change": -0.2,
+      "elo_7d_change": 6.7,
       "name": "San Diego Padres",
       "division": "National League West",
       "league": "National League"
     },
     "SEA": {
-      "elo": 1480.3,
+      "elo": 1475.6,
       "w": 56,
-      "l": 59,
-      "elo_7d_change": -3.6,
+      "l": 60,
+      "elo_7d_change": -6.2,
       "name": "Seattle Mariners",
       "division": "American League West",
       "league": "American League"
@@ -40,7 +40,7 @@
       "elo": 1467.4,
       "w": 49,
       "l": 66,
-      "elo_7d_change": -3.8,
+      "elo_7d_change": -7.1,
       "name": "San Francisco Giants",
       "division": "National League West",
       "league": "National League"
@@ -49,7 +49,7 @@
       "elo": 1484.6,
       "w": 57,
       "l": 58,
-      "elo_7d_change": 2.0,
+      "elo_7d_change": 4.0,
       "name": "St. Louis Cardinals",
       "division": "National League Central",
       "league": "National League"
@@ -58,7 +58,7 @@
       "elo": 1517.4,
       "w": 68,
       "l": 46,
-      "elo_7d_change": -0.4,
+      "elo_7d_change": -1.6,
       "name": "Tampa Bay Rays",
       "division": "American League East",
       "league": "American League"
@@ -67,61 +67,61 @@
       "elo": 1478.9,
       "w": 57,
       "l": 58,
-      "elo_7d_change": -8.0,
+      "elo_7d_change": -6.8,
       "name": "Texas Rangers",
       "division": "American League West",
       "league": "American League"
     },
     "TOR": {
-      "elo": 1469.2,
+      "elo": 1468.3,
       "w": 54,
-      "l": 61,
-      "elo_7d_change": 3.1,
+      "l": 62,
+      "elo_7d_change": 2.2,
       "name": "Toronto Blue Jays",
       "division": "American League East",
       "league": "American League"
     },
     "MIN": {
-      "elo": 1482.3,
-      "w": 56,
+      "elo": 1483.7,
+      "w": 57,
       "l": 59,
-      "elo_7d_change": -5.0,
+      "elo_7d_change": -4.8,
       "name": "Minnesota Twins",
       "division": "American League Central",
       "league": "American League"
     },
     "PHI": {
-      "elo": 1513.0,
-      "w": 61,
+      "elo": 1515.6,
+      "w": 62,
       "l": 54,
-      "elo_7d_change": 6.8,
+      "elo_7d_change": 9.4,
       "name": "Philadelphia Phillies",
       "division": "National League East",
       "league": "National League"
     },
     "ATL": {
-      "elo": 1544.1,
-      "w": 69,
+      "elo": 1547.3,
+      "w": 70,
       "l": 46,
-      "elo_7d_change": 11.5,
+      "elo_7d_change": 13.7,
       "name": "Atlanta Braves",
       "division": "National League East",
       "league": "National League"
     },
     "CWS": {
-      "elo": 1481.5,
+      "elo": 1480.5,
       "w": 59,
-      "l": 54,
-      "elo_7d_change": 3.5,
+      "l": 55,
+      "elo_7d_change": 1.0,
       "name": "Chicago White Sox",
       "division": "American League Central",
       "league": "American League"
     },
     "MIA": {
-      "elo": 1476.9,
+      "elo": 1473.7,
       "w": 58,
-      "l": 57,
-      "elo_7d_change": 2.9,
+      "l": 58,
+      "elo_7d_change": 1.7,
       "name": "Miami Marlins",
       "division": "National League East",
       "league": "National League"
@@ -130,79 +130,79 @@
       "elo": 1526.8,
       "w": 63,
       "l": 51,
-      "elo_7d_change": -6.2,
+      "elo_7d_change": -4.6,
       "name": "New York Yankees",
       "division": "American League East",
       "league": "American League"
     },
     "MIL": {
-      "elo": 1547.9,
-      "w": 71,
+      "elo": 1549.9,
+      "w": 72,
       "l": 43,
-      "elo_7d_change": 1.7,
+      "elo_7d_change": 3.7,
       "name": "Milwaukee Brewers",
       "division": "National League Central",
       "league": "National League"
     },
     "LAA": {
-      "elo": 1432.2,
-      "w": 43,
+      "elo": 1435.8,
+      "w": 44,
       "l": 71,
-      "elo_7d_change": -3.8,
+      "elo_7d_change": -0.2,
       "name": "Los Angeles Angels",
       "division": "American League West",
       "league": "American League"
     },
     "AZ": {
-      "elo": 1515.9,
+      "elo": 1512.4,
       "w": 61,
-      "l": 54,
-      "elo_7d_change": 5.0,
+      "l": 55,
+      "elo_7d_change": 1.5,
       "name": "Arizona Diamondbacks",
       "division": "National League West",
       "league": "National League"
     },
     "BAL": {
-      "elo": 1502.0,
+      "elo": 1498.4,
       "w": 56,
-      "l": 58,
-      "elo_7d_change": -2.8,
+      "l": 59,
+      "elo_7d_change": -6.4,
       "name": "Baltimore Orioles",
       "division": "American League East",
       "league": "American League"
     },
     "BOS": {
-      "elo": 1544.6,
-      "w": 62,
+      "elo": 1545.7,
+      "w": 63,
       "l": 51,
-      "elo_7d_change": 17.3,
+      "elo_7d_change": 17.4,
       "name": "Boston Red Sox",
       "division": "American League East",
       "league": "American League"
     },
     "CHC": {
-      "elo": 1541.1,
-      "w": 66,
+      "elo": 1542.1,
+      "w": 67,
       "l": 49,
-      "elo_7d_change": 9.2,
+      "elo_7d_change": 8.2,
       "name": "Chicago Cubs",
       "division": "National League Central",
       "league": "National League"
     },
     "CIN": {
-      "elo": 1466.4,
-      "w": 55,
+      "elo": 1467.4,
+      "w": 56,
       "l": 58,
-      "elo_7d_change": 6.8,
+      "elo_7d_change": 6.3,
       "name": "Cincinnati Reds",
       "division": "National League Central",
       "league": "National League"
     },
     "CLE": {
-      "elo": 1489.8,
+      "elo": 1485.1,
       "w": 57,
-      "l": 58,
-      "elo_7d_change": -7.8,
+      "l": 59,
+      "elo_7d_change": -12.5,
       "name": "Cleveland Guardians",
       "division": "American League Central",
       "league": "American League"
@@ -217,10 +217,10 @@
       "league": "National League"
     },
     "DET": {
-      "elo": 1517.5,
-      "w": 55,
+      "elo": 1522.2,
+      "w": 56,
       "l": 59,
-      "elo_7d_change": 11.3,
+      "elo_7d_change": 16.0,
       "name": "Detroit Tigers",
       "division": "American League Central",
       "league": "American League"
@@ -235,10 +235,10 @@
       "league": "American League"
     },
     "KC": {
-      "elo": 1444.4,
+      "elo": 1443.1,
       "w": 48,
-      "l": 67,
-      "elo_7d_change": -5.8,
+      "l": 68,
+      "elo_7d_change": -5.9,
       "name": "Kansas City Royals",
       "division": "American League Central",
       "league": "American League"
@@ -247,25 +247,25 @@
       "elo": 1559.1,
       "w": 69,
       "l": 46,
-      "elo_7d_change": -16.3,
+      "elo_7d_change": -18.4,
       "name": "Los Angeles Dodgers",
       "division": "National League West",
       "league": "National League"
     },
     "WSH": {
-      "elo": 1475.6,
+      "elo": 1473.0,
       "w": 56,
-      "l": 60,
-      "elo_7d_change": -8.2,
+      "l": 61,
+      "elo_7d_change": -9.7,
       "name": "Washington Nationals",
       "division": "National League East",
       "league": "National League"
     },
     "NYM": {
-      "elo": 1469.2,
-      "w": 49,
+      "elo": 1473.9,
+      "w": 50,
       "l": 66,
-      "elo_7d_change": -1.2,
+      "elo_7d_change": 1.5,
       "name": "New York Mets",
       "division": "National League East",
       "league": "National League"
@@ -19191,7 +19191,128 @@
       "away_elo_pre": 1519.9,
       "home_elo_post": 1480.3,
       "away_elo_post": 1517.5
+    },
+    {
+      "date": "2026-08-06",
+      "home": "BAL",
+      "away": "LAA",
+      "home_score": 1,
+      "away_score": 4,
+      "home_elo_pre": 1502.0,
+      "away_elo_pre": 1432.2,
+      "home_elo_post": 1498.4,
+      "away_elo_post": 1435.8
+    },
+    {
+      "date": "2026-08-06",
+      "home": "CIN",
+      "away": "ATH",
+      "home_score": 6,
+      "away_score": 5,
+      "home_elo_pre": 1466.4,
+      "away_elo_pre": 1406.7,
+      "home_elo_post": 1467.4,
+      "away_elo_post": 1405.6
+    },
+    {
+      "date": "2026-08-06",
+      "home": "CLE",
+      "away": "NYM",
+      "home_score": 6,
+      "away_score": 13,
+      "home_elo_pre": 1489.8,
+      "away_elo_pre": 1469.2,
+      "home_elo_post": 1485.1,
+      "away_elo_post": 1473.9
+    },
+    {
+      "date": "2026-08-06",
+      "home": "MIL",
+      "away": "PIT",
+      "home_score": 5,
+      "away_score": 2,
+      "home_elo_pre": 1547.9,
+      "away_elo_pre": 1483.9,
+      "home_elo_post": 1549.9,
+      "away_elo_post": 1481.9
+    },
+    {
+      "date": "2026-08-06",
+      "home": "CHC",
+      "away": "TOR",
+      "home_score": 3,
+      "away_score": 2,
+      "home_elo_pre": 1541.1,
+      "away_elo_pre": 1469.2,
+      "home_elo_post": 1542.1,
+      "away_elo_post": 1468.3
+    },
+    {
+      "date": "2026-08-06",
+      "home": "SEA",
+      "away": "DET",
+      "home_score": 0,
+      "away_score": 11,
+      "home_elo_pre": 1480.3,
+      "away_elo_pre": 1517.5,
+      "home_elo_post": 1475.6,
+      "away_elo_post": 1522.2
+    },
+    {
+      "date": "2026-08-06",
+      "home": "PHI",
+      "away": "WSH",
+      "home_score": 7,
+      "away_score": 3,
+      "home_elo_pre": 1513.0,
+      "away_elo_pre": 1475.6,
+      "home_elo_post": 1515.6,
+      "away_elo_post": 1473.0
+    },
+    {
+      "date": "2026-08-06",
+      "home": "BOS",
+      "away": "CWS",
+      "home_score": 12,
+      "away_score": 11,
+      "home_elo_pre": 1544.6,
+      "away_elo_pre": 1481.5,
+      "home_elo_post": 1545.7,
+      "away_elo_post": 1480.5
+    },
+    {
+      "date": "2026-08-06",
+      "home": "ATL",
+      "away": "MIA",
+      "home_score": 11,
+      "away_score": 3,
+      "home_elo_pre": 1544.1,
+      "away_elo_pre": 1476.9,
+      "home_elo_post": 1547.3,
+      "away_elo_post": 1473.7
+    },
+    {
+      "date": "2026-08-06",
+      "home": "KC",
+      "away": "MIN",
+      "home_score": 3,
+      "away_score": 4,
+      "home_elo_pre": 1444.4,
+      "away_elo_pre": 1482.3,
+      "home_elo_post": 1443.1,
+      "away_elo_post": 1483.7
+    },
+    {
+      "date": "2026-08-06",
+      "home": "AZ",
+      "away": "SD",
+      "home_score": 1,
+      "away_score": 5,
+      "home_elo_pre": 1515.9,
+      "away_elo_pre": 1507.4,
+      "home_elo_post": 1512.4,
+      "away_elo_post": 1511.0
     }
   ],
-  "updated": "2026-08-06"
+  "updated": "2026-08-07"
 }
