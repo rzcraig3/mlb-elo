@@ -1,14 +1,9 @@
 {
   "pitchers": {
-    "453286": {
-      "name": "Max Scherzer",
-      "rgs": 42.3,
-      "starts": 34
-    },
-    "519242": {
-      "name": "Chris Sale",
-      "rgs": 66.3,
-      "starts": 69
+    "543243": {
+      "name": "Sonny Gray",
+      "rgs": 58.8,
+      "starts": 81
     },
     "547179": {
       "name": "Michael Lorenzen",
@@ -25,50 +20,20 @@
       "rgs": 52.4,
       "starts": 62
     },
-    "594798": {
-      "name": "Jacob deGrom",
-      "rgs": 49.9,
-      "starts": 54
-    },
-    "605280": {
-      "name": "Clay Holmes",
-      "rgs": 57.6,
-      "starts": 40
-    },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 46.5,
-      "starts": 73
-    },
     "605483": {
       "name": "Blake Snell",
       "rgs": 59.0,
       "starts": 32
     },
-    "607536": {
-      "name": "Kyle Freeland",
-      "rgs": 50.3,
-      "starts": 72
-    },
-    "607625": {
-      "name": "Seth Lugo",
-      "rgs": 48.8,
-      "starts": 82
+    "624133": {
+      "name": "Ranger Suarez",
+      "rgs": 53.3,
+      "starts": 73
     },
     "640455": {
       "name": "Sean Manaea",
       "rgs": 51.5,
       "starts": 54
-    },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 57.9,
-      "starts": 20
-    },
-    "650633": {
-      "name": "Michael King",
-      "rgs": 52.6,
-      "starts": 68
     },
     "656550": {
       "name": "Grant Holmes",
@@ -90,6 +55,11 @@
       "rgs": 53.6,
       "starts": 86
     },
+    "664299": {
+      "name": "Cristian Javier",
+      "rgs": 43.9,
+      "starts": 20
+    },
     "666157": {
       "name": "Nick Lodolo",
       "rgs": 52.2,
@@ -99,11 +69,6 @@
       "name": "Jes\u00fas Luzardo",
       "rgs": 64.6,
       "starts": 67
-    },
-    "668909": {
-      "name": "Gavin Williams",
-      "rgs": 65.7,
-      "starts": 70
     },
     "669372": {
       "name": "J.T. Ginn",
@@ -115,25 +80,15 @@
       "rgs": 64.2,
       "starts": 79
     },
-    "669461": {
-      "name": "Matthew Liberatore",
-      "rgs": 52.2,
-      "starts": 57
+    "669456": {
+      "name": "Shane Bieber",
+      "rgs": 48.9,
+      "starts": 17
     },
     "669467": {
       "name": "Andre Pallante",
       "rgs": 57.5,
       "starts": 73
-    },
-    "669923": {
-      "name": "George Kirby",
-      "rgs": 53.6,
-      "starts": 77
-    },
-    "671737": {
-      "name": "Taj Bradley",
-      "rgs": 55.8,
-      "starts": 74
     },
     "676106": {
       "name": "Emerson Hancock",
@@ -145,6 +100,11 @@
       "rgs": 50.4,
       "starts": 45
     },
+    "676440": {
+      "name": "Tanner Bibee",
+      "rgs": 56.0,
+      "starts": 86
+    },
     "677958": {
       "name": "Kumar Rocker",
       "rgs": 50.3,
@@ -155,30 +115,15 @@
       "rgs": 60.5,
       "starts": 4
     },
-    "680694": {
-      "name": "Kyle Bradish",
-      "rgs": 53.7,
-      "starts": 36
-    },
     "680736": {
       "name": "Justin Wrobleski",
       "rgs": 48.4,
       "starts": 26
     },
-    "688107": {
-      "name": "Robert Gasser",
-      "rgs": 54.6,
-      "starts": 19
-    },
-    "694297": {
-      "name": "Brandon Pfaadt",
-      "rgs": 59.1,
-      "starts": 75
-    },
-    "694738": {
-      "name": "Landen Roupp",
-      "rgs": 49.6,
-      "starts": 48
+    "681517": {
+      "name": "Kyle Leahy",
+      "rgs": 58.4,
+      "starts": 23
     },
     "700241": {
       "name": "Michael McGreevy",
@@ -189,11 +134,6 @@
       "name": "Cade Povich",
       "rgs": 49.0,
       "starts": 40
-    },
-    "808967": {
-      "name": "Yoshinobu Yamamoto",
-      "rgs": 63.0,
-      "starts": 68
     }
   },
   "team_avg_rgs": {
@@ -201,32 +141,32 @@
     "ATL": 58.3,
     "NYY": 59.1,
     "TOR": 60.1,
-    "CIN": 55.2,
-    "CLE": 56.0,
+    "CLE": 56.1,
+    "CIN": 54.9,
     "PHI": 55.1,
+    "LAD": 60.2,
     "TB": 54.8,
     "AZ": 51.3,
-    "LAD": 60.0,
     "BOS": 57.4,
-    "CWS": 56.5,
-    "SD": 54.6,
+    "CWS": 54.8,
+    "SD": 54.8,
     "DET": 54.6,
-    "SEA": 56.2,
-    "KC": 53.1,
+    "SEA": 56.1,
+    "KC": 53.2,
     "NYM": 57.4,
+    "MIA": 56.2,
     "WSH": 54.3,
     "STL": 53.8,
-    "CHC": 52.9,
+    "CHC": 52.8,
     "MIN": 55.6,
-    "MIA": 55.3,
-    "SF": 55.3,
-    "BAL": 53.8,
+    "BAL": 54.1,
+    "SF": 55.4,
+    "TEX": 54.2,
     "PIT": 56.1,
     "LAA": 56.2,
-    "TEX": 53.3,
-    "ATH": 56.1,
-    "COL": 56.1,
-    "HOU": 56.1
+    "ATH": 56.2,
+    "COL": 56.2,
+    "HOU": 56.2
   },
-  "updated": "2026-08-08"
+  "updated": "2026-08-09"
 }
