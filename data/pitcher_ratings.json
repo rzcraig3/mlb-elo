@@ -15,11 +15,6 @@
       "rgs": 55.7,
       "starts": 54
     },
-    "543243": {
-      "name": "Sonny Gray",
-      "rgs": 58.8,
-      "starts": 81
-    },
     "554430": {
       "name": "Zack Wheeler",
       "rgs": 54.5,
@@ -34,11 +29,6 @@
       "name": "Robbie Ray",
       "rgs": 52.6,
       "starts": 61
-    },
-    "592791": {
-      "name": "Jameson Taillon",
-      "rgs": 39.5,
-      "starts": 67
     },
     "605400": {
       "name": "Aaron Nola",
@@ -80,6 +70,11 @@
       "rgs": 53.3,
       "starts": 73
     },
+    "640455": {
+      "name": "Sean Manaea",
+      "rgs": 56.5,
+      "starts": 55
+    },
     "641816": {
       "name": "Tyler Mahle",
       "rgs": 57.1,
@@ -89,16 +84,6 @@
       "name": "Bailey Ober",
       "rgs": 49.7,
       "starts": 75
-    },
-    "642547": {
-      "name": "Freddy Peralta",
-      "rgs": 38.1,
-      "starts": 88
-    },
-    "647336": {
-      "name": "Michael Soroka",
-      "rgs": 60.0,
-      "starts": 41
     },
     "650911": {
       "name": "Cristopher S\u00e1nchez",
@@ -125,11 +110,6 @@
       "rgs": 40.4,
       "starts": 53
     },
-    "663554": {
-      "name": "Casey Mize",
-      "rgs": 50.7,
-      "starts": 65
-    },
     "663738": {
       "name": "Daniel Lynch IV",
       "rgs": 43.6,
@@ -145,11 +125,6 @@
       "rgs": 53.6,
       "starts": 82
     },
-    "665152": {
-      "name": "Dean Kremer",
-      "rgs": 45.8,
-      "starts": 61
-    },
     "666157": {
       "name": "Nick Lodolo",
       "rgs": 52.2,
@@ -159,11 +134,6 @@
       "name": "Jos\u00e9 Soriano",
       "rgs": 55.5,
       "starts": 74
-    },
-    "669022": {
-      "name": "MacKenzie Gore",
-      "rgs": 54.8,
-      "starts": 86
     },
     "669302": {
       "name": "Logan Gilbert",
@@ -175,35 +145,20 @@
       "rgs": 60.2,
       "starts": 68
     },
-    "669373": {
-      "name": "Tarik Skubal",
-      "rgs": 64.2,
-      "starts": 79
-    },
-    "669432": {
-      "name": "Trevor Rogers",
-      "rgs": 60.8,
-      "starts": 64
+    "669461": {
+      "name": "Matthew Liberatore",
+      "rgs": 48.1,
+      "starts": 58
     },
     "669467": {
       "name": "Andre Pallante",
       "rgs": 57.5,
       "starts": 73
     },
-    "669713": {
-      "name": "Hayden Wesneski",
-      "rgs": 51.9,
-      "starts": 15
-    },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 52.7,
       "starts": 78
-    },
-    "672282": {
-      "name": "Reid Detmers",
-      "rgs": 53.3,
-      "starts": 40
     },
     "672456": {
       "name": "Keider Montero",
@@ -235,11 +190,6 @@
       "rgs": 58.4,
       "starts": 23
     },
-    "682052": {
-      "name": "Jacob Lopez",
-      "rgs": 51.8,
-      "starts": 33
-    },
     "682243": {
       "name": "Bryce Miller",
       "rgs": 51.5,
@@ -265,11 +215,6 @@
       "rgs": 54.4,
       "starts": 74
     },
-    "693821": {
-      "name": "Bryce Elder",
-      "rgs": 52.4,
-      "starts": 60
-    },
     "694973": {
       "name": "Paul Skenes",
       "rgs": 51.0,
@@ -288,7 +233,7 @@
   },
   "team_avg_rgs": {
     "MIL": 69.1,
-    "ATL": 58.3,
+    "ATL": 57.4,
     "NYY": 59.4,
     "TOR": 60.1,
     "CLE": 56.0,
@@ -297,13 +242,13 @@
     "LAD": 59.5,
     "TB": 54.8,
     "AZ": 51.7,
-    "BOS": 57.4,
+    "BOS": 57.2,
     "CWS": 56.2,
     "SD": 54.8,
     "SEA": 56.1,
     "DET": 54.6,
     "ATH": 55.4,
-    "KC": 53.2,
+    "KC": 53.1,
     "NYM": 57.4,
     "MIA": 56.2,
     "WSH": 54.3,
@@ -311,12 +256,12 @@
     "CHC": 52.8,
     "STL": 53.6,
     "MIN": 55.6,
-    "BAL": 54.1,
-    "TEX": 54.2,
+    "BAL": 53.8,
     "PIT": 56.1,
-    "LAA": 56.2,
-    "COL": 56.1,
-    "HOU": 56.1
+    "LAA": 56.5,
+    "TEX": 53.5,
+    "COL": 56.0,
+    "HOU": 56.0
   },
-  "updated": "2026-08-10"
+  "updated": "2026-08-11"
 }
