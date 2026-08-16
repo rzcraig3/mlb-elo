@@ -1,30 +1,5 @@
 {
   "pitchers": {
-    "543243": {
-      "name": "Sonny Gray",
-      "rgs": 57.9,
-      "starts": 82
-    },
-    "547179": {
-      "name": "Michael Lorenzen",
-      "rgs": 37.2,
-      "starts": 74
-    },
-    "571510": {
-      "name": "Matthew Boyd",
-      "rgs": 55.5,
-      "starts": 53
-    },
-    "593958": {
-      "name": "Eduardo Rodriguez",
-      "rgs": 55.5,
-      "starts": 63
-    },
-    "640455": {
-      "name": "Sean Manaea",
-      "rgs": 56.5,
-      "starts": 55
-    },
     "642547": {
       "name": "Freddy Peralta",
       "rgs": 40.9,
@@ -40,16 +15,6 @@
       "rgs": 65.6,
       "starts": 87
     },
-    "656550": {
-      "name": "Grant Holmes",
-      "rgs": 54.5,
-      "starts": 50
-    },
-    "657277": {
-      "name": "Logan Webb",
-      "rgs": 61.6,
-      "starts": 88
-    },
     "663554": {
       "name": "Casey Mize",
       "rgs": 51.8,
@@ -59,11 +24,6 @@
       "name": "Jake Irvin",
       "rgs": 46.9,
       "starts": 80
-    },
-    "663903": {
-      "name": "Brady Singer",
-      "rgs": 52.2,
-      "starts": 87
     },
     "665152": {
       "name": "Dean Kremer",
@@ -80,20 +40,10 @@
       "rgs": 49.0,
       "starts": 62
     },
-    "666200": {
-      "name": "Jes\u00fas Luzardo",
-      "rgs": 66.7,
-      "starts": 68
-    },
-    "669022": {
-      "name": "MacKenzie Gore",
-      "rgs": 56.1,
-      "starts": 87
-    },
-    "669372": {
-      "name": "J.T. Ginn",
-      "rgs": 54.9,
-      "starts": 43
+    "669199": {
+      "name": "Lake Bachar",
+      "rgs": 52.3,
+      "starts": 5
     },
     "669373": {
       "name": "Tarik Skubal",
@@ -105,25 +55,10 @@
       "rgs": 58.1,
       "starts": 65
     },
-    "669713": {
-      "name": "Hayden Wesneski",
-      "rgs": 51.9,
-      "starts": 16
-    },
-    "672282": {
-      "name": "Reid Detmers",
-      "rgs": 55.3,
-      "starts": 41
-    },
-    "676106": {
-      "name": "Emerson Hancock",
-      "rgs": 51.5,
-      "starts": 50
-    },
-    "676282": {
-      "name": "Joey Cantillo",
-      "rgs": 49.5,
-      "starts": 46
+    "671096": {
+      "name": "Andrew Abbott",
+      "rgs": 49.1,
+      "starts": 79
     },
     "676440": {
       "name": "Tanner Bibee",
@@ -135,25 +70,10 @@
       "rgs": 58.6,
       "starts": 47
     },
-    "677976": {
-      "name": "Randy Dobnak",
-      "rgs": 54.3,
-      "starts": 5
-    },
-    "680694": {
-      "name": "Kyle Bradish",
-      "rgs": 56.0,
-      "starts": 37
-    },
     "680732": {
       "name": "Sean Burke",
       "rgs": 64.4,
       "starts": 45
-    },
-    "680736": {
-      "name": "Justin Wrobleski",
-      "rgs": 45.6,
-      "starts": 27
     },
     "682052": {
       "name": "Jacob Lopez",
@@ -184,44 +104,39 @@
       "name": "Paul Skenes",
       "rgs": 51.8,
       "starts": 80
-    },
-    "700241": {
-      "name": "Michael McGreevy",
-      "rgs": 46.8,
-      "starts": 42
     }
   },
   "team_avg_rgs": {
-    "MIL": 61.5,
+    "MIL": 68.9,
     "ATL": 57.7,
-    "NYY": 59.4,
+    "NYY": 59.5,
     "TOR": 59.7,
-    "CIN": 55.0,
-    "PHI": 55.6,
-    "CLE": 56.8,
-    "LAD": 63.0,
-    "AZ": 51.2,
+    "CIN": 52.7,
+    "PHI": 55.7,
+    "CLE": 55.8,
+    "LAD": 59.5,
+    "BOS": 57.9,
+    "AZ": 51.4,
     "TB": 54.9,
-    "BOS": 57.2,
     "CWS": 56.2,
     "DET": 54.5,
     "SD": 54.5,
-    "SEA": 56.1,
+    "SEA": 56.2,
     "WSH": 55.6,
     "NYM": 57.7,
     "MIA": 56.5,
-    "STL": 53.8,
+    "STL": 54.0,
     "KC": 53.0,
-    "SF": 55.5,
+    "SF": 55.9,
+    "ATH": 55.2,
     "MIN": 54.9,
-    "BAL": 53.5,
+    "BAL": 53.4,
     "CHC": 53.4,
+    "LAA": 57.8,
     "PIT": 56.7,
-    "LAA": 56.5,
-    "TEX": 53.5,
-    "ATH": 56.1,
-    "COL": 56.1,
-    "HOU": 56.1
+    "TEX": 53.3,
+    "COL": 56.2,
+    "HOU": 56.2
   },
-  "updated": "2026-08-15"
+  "updated": "2026-08-16"
 }
