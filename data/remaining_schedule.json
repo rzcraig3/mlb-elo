@@ -1,68 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "home_id": 113,
-    "away_id": 138,
-    "home": "CIN",
-    "away": "STL"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 114,
-    "away_id": 137,
-    "home": "CLE",
-    "away": "SF"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 139,
-    "away_id": 141,
-    "home": "TB",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 118,
-    "away_id": 133,
-    "home": "KC",
-    "away": "ATH"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 145,
-    "away_id": 144,
-    "home": "CWS",
-    "away": "ATL"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 158,
-    "away_id": 136,
-    "home": "MIL",
-    "away": "SEA"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 110,
-    "away_id": 147,
-    "home": "BAL",
-    "away": "NYY"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 140,
-    "away_id": 120,
-    "home": "TEX",
-    "away": "WSH"
-  },
-  {
-    "date": "2026-08-20",
-    "home_id": 117,
-    "away_id": 108,
-    "home": "HOU",
-    "away": "LAA"
-  },
-  {
     "date": "2026-08-21",
     "home_id": 158,
     "away_id": 144,
@@ -2899,6 +2836,13 @@
   },
   {
     "date": "2026-09-20",
+    "home_id": 121,
+    "away_id": 143,
+    "home": "NYM",
+    "away": "PHI"
+  },
+  {
+    "date": "2026-09-20",
     "home_id": 134,
     "away_id": 118,
     "home": "PIT",
@@ -2924,13 +2868,6 @@
     "away_id": 111,
     "home": "TB",
     "away": "BOS"
-  },
-  {
-    "date": "2026-09-20",
-    "home_id": 121,
-    "away_id": 143,
-    "home": "NYM",
-    "away": "PHI"
   },
   {
     "date": "2026-09-20",
