@@ -18097,5 +18097,140 @@
     "away_score": 1,
     "home": "SF",
     "away": "AZ"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 112,
+    "away_id": 113,
+    "home_score": 8,
+    "away_score": 10,
+    "home": "CHC",
+    "away": "CIN"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 116,
+    "away_id": 119,
+    "home_score": 1,
+    "away_score": 2,
+    "home": "DET",
+    "away": "LAD"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 120,
+    "away_id": 146,
+    "home_score": 9,
+    "away_score": 2,
+    "home": "WSH",
+    "away": "MIA"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 114,
+    "away_id": 118,
+    "home_score": 0,
+    "away_score": 3,
+    "home": "CLE",
+    "away": "KC"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 121,
+    "away_id": 117,
+    "home_score": 1,
+    "away_score": 3,
+    "home": "NYM",
+    "away": "HOU"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 139,
+    "away_id": 135,
+    "home_score": 9,
+    "away_score": 4,
+    "home": "TB",
+    "away": "SD"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 141,
+    "away_id": 136,
+    "home_score": 8,
+    "away_score": 1,
+    "home": "TOR",
+    "away": "SEA"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 144,
+    "away_id": 115,
+    "home_score": 6,
+    "away_score": 4,
+    "home": "ATL",
+    "away": "COL"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 147,
+    "away_id": 111,
+    "home_score": 1,
+    "away_score": 0,
+    "home": "NYY",
+    "away": "BOS"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 158,
+    "away_id": 140,
+    "home_score": 6,
+    "away_score": 1,
+    "home": "MIL",
+    "away": "TEX"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 142,
+    "away_id": 145,
+    "home_score": 4,
+    "away_score": 7,
+    "home": "MIN",
+    "away": "CWS"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 138,
+    "away_id": 134,
+    "home_score": 4,
+    "away_score": 1,
+    "home": "STL",
+    "away": "PIT"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 108,
+    "away_id": 143,
+    "home_score": 3,
+    "away_score": 5,
+    "home": "LAA",
+    "away": "PHI"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 133,
+    "away_id": 110,
+    "home_score": 3,
+    "away_score": 4,
+    "home": "ATH",
+    "away": "BAL"
+  },
+  {
+    "date": "2026-08-28",
+    "home_id": 137,
+    "away_id": 109,
+    "home_score": 6,
+    "away_score": 10,
+    "home": "SF",
+    "away": "AZ"
   }
 ]
