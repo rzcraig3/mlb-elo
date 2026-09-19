@@ -1,108 +1,10 @@
 [
   {
-    "date": "2026-09-18",
-    "home_id": 113,
-    "away_id": 112,
-    "home": "CIN",
-    "away": "CHC"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 134,
-    "away_id": 118,
-    "home": "PIT",
-    "away": "KC"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 110,
-    "away_id": 158,
-    "home": "BAL",
-    "away": "MIL"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 114,
-    "away_id": 133,
-    "home": "CLE",
-    "away": "ATH"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 139,
-    "away_id": 111,
-    "home": "TB",
-    "away": "BOS"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 121,
-    "away_id": 143,
-    "home": "NYM",
-    "away": "PHI"
-  },
-  {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "home_id": 145,
     "away_id": 116,
     "home": "CWS",
     "away": "DET"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 140,
-    "away_id": 141,
-    "home": "TEX",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 115,
-    "away_id": 136,
-    "home": "COL",
-    "away": "SEA"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 117,
-    "away_id": 144,
-    "home": "HOU",
-    "away": "ATL"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 138,
-    "away_id": 120,
-    "home": "STL",
-    "away": "WSH"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 108,
-    "away_id": 142,
-    "home": "LAA",
-    "away": "MIN"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 135,
-    "away_id": 146,
-    "home": "SD",
-    "away": "MIA"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 109,
-    "away_id": 147,
-    "home": "AZ",
-    "away": "NYY"
-  },
-  {
-    "date": "2026-09-18",
-    "home_id": 119,
-    "away_id": 137,
-    "home": "LAD",
-    "away": "SF"
   },
   {
     "date": "2026-09-19",
@@ -159,13 +61,6 @@
     "away_id": 144,
     "home": "HOU",
     "away": "ATL"
-  },
-  {
-    "date": "2026-09-19",
-    "home_id": 145,
-    "away_id": 116,
-    "home": "CWS",
-    "away": "DET"
   },
   {
     "date": "2026-09-19",
