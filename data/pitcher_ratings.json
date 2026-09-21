@@ -5,70 +5,160 @@
       "rgs": 50.4,
       "starts": 42
     },
-    "527048": {
-      "name": "Mart\u00edn P\u00e9rez",
-      "rgs": 53.2,
-      "starts": 61
+    "518876": {
+      "name": "Merrill Kelly",
+      "rgs": 50.5,
+      "starts": 73
     },
-    "594798": {
-      "name": "Jacob deGrom",
-      "rgs": 61.5,
-      "starts": 62
+    "519242": {
+      "name": "Chris Sale",
+      "rgs": 66.8,
+      "starts": 75
     },
-    "608379": {
-      "name": "Michael Wacha",
-      "rgs": 56.5,
+    "543243": {
+      "name": "Sonny Gray",
+      "rgs": 58.3,
+      "starts": 88
+    },
+    "554430": {
+      "name": "Zack Wheeler",
+      "rgs": 58.8,
+      "starts": 82
+    },
+    "579328": {
+      "name": "Yusei Kikuchi",
+      "rgs": 49.5,
+      "starts": 77
+    },
+    "592662": {
+      "name": "Robbie Ray",
+      "rgs": 49.1,
+      "starts": 68
+    },
+    "593958": {
+      "name": "Eduardo Rodriguez",
+      "rgs": 51.3,
+      "starts": 70
+    },
+    "601713": {
+      "name": "Nick Pivetta",
+      "rgs": 57.9,
+      "starts": 64
+    },
+    "605135": {
+      "name": "Chris Bassitt",
+      "rgs": 52.1,
+      "starts": 79
+    },
+    "605400": {
+      "name": "Aaron Nola",
+      "rgs": 58.9,
+      "starts": 81
+    },
+    "605488": {
+      "name": "Jeffrey Springs",
+      "rgs": 43.2,
+      "starts": 65
+    },
+    "607074": {
+      "name": "Carlos Rod\u00f3n",
+      "rgs": 59.4,
+      "starts": 80
+    },
+    "607200": {
+      "name": "Erick Fedde",
+      "rgs": 54.1,
+      "starts": 70
+    },
+    "607259": {
+      "name": "Nick Martinez",
+      "rgs": 56.4,
+      "starts": 71
+    },
+    "607536": {
+      "name": "Kyle Freeland",
+      "rgs": 46.0,
+      "starts": 76
+    },
+    "607625": {
+      "name": "Seth Lugo",
+      "rgs": 40.3,
       "starts": 90
     },
-    "621111": {
-      "name": "Walker Buehler",
-      "rgs": 49.6,
-      "starts": 70
+    "608331": {
+      "name": "Max Fried",
+      "rgs": 61.1,
+      "starts": 80
+    },
+    "624133": {
+      "name": "Ranger Suarez",
+      "rgs": 56.5,
+      "starts": 80
     },
     "640455": {
       "name": "Sean Manaea",
       "rgs": 48.4,
       "starts": 61
     },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 56.8,
-      "starts": 23
+    "641816": {
+      "name": "Tyler Mahle",
+      "rgs": 63.3,
+      "starts": 45
     },
-    "650911": {
-      "name": "Cristopher S\u00e1nchez",
-      "rgs": 51.8,
+    "647336": {
+      "name": "Michael Soroka",
+      "rgs": 55.3,
+      "starts": 45
+    },
+    "650633": {
+      "name": "Michael King",
+      "rgs": 58.8,
+      "starts": 76
+    },
+    "656876": {
+      "name": "Drew Rasmussen",
+      "rgs": 63.1,
+      "starts": 64
+    },
+    "663738": {
+      "name": "Daniel Lynch IV",
+      "rgs": 50.6,
+      "starts": 13
+    },
+    "663903": {
+      "name": "Brady Singer",
+      "rgs": 32.0,
       "starts": 94
     },
-    "663436": {
-      "name": "Davis Martin",
-      "rgs": 46.8,
-      "starts": 61
+    "663969": {
+      "name": "Tyler Phillips",
+      "rgs": 52.7,
+      "starts": 27
     },
-    "663623": {
-      "name": "Jake Irvin",
-      "rgs": 46.9,
-      "starts": 85
+    "664285": {
+      "name": "Framber Valdez",
+      "rgs": 54.4,
+      "starts": 89
     },
-    "665152": {
-      "name": "Dean Kremer",
-      "rgs": 50.9,
-      "starts": 68
+    "664299": {
+      "name": "Cristian Javier",
+      "rgs": 51.1,
+      "starts": 26
     },
-    "668909": {
-      "name": "Gavin Williams",
-      "rgs": 58.4,
-      "starts": 77
+    "666157": {
+      "name": "Nick Lodolo",
+      "rgs": 47.0,
+      "starts": 69
     },
-    "669199": {
-      "name": "Lake Bachar",
-      "rgs": 50.9,
-      "starts": 11
+    "669302": {
+      "name": "Logan Gilbert",
+      "rgs": 52.6,
+      "starts": 88
     },
-    "669203": {
-      "name": "Corbin Burnes",
-      "rgs": 56.0,
-      "starts": 45
+    "669358": {
+      "name": "Shane Baz",
+      "rgs": 49.8,
+      "starts": 75
     },
     "669461": {
       "name": "Matthew Liberatore",
@@ -80,37 +170,72 @@
       "rgs": 51.5,
       "starts": 78
     },
+    "669620": {
+      "name": "Brady Basso",
+      "rgs": 45.3,
+      "starts": 11
+    },
+    "669923": {
+      "name": "George Kirby",
+      "rgs": 46.3,
+      "starts": 85
+    },
     "671096": {
       "name": "Andrew Abbott",
       "rgs": 41.6,
       "starts": 85
+    },
+    "671737": {
+      "name": "Taj Bradley",
+      "rgs": 58.8,
+      "starts": 82
+    },
+    "676083": {
+      "name": "Janson Junk",
+      "rgs": 46.8,
+      "starts": 39
+    },
+    "677976": {
+      "name": "Randy Dobnak",
+      "rgs": 49.6,
+      "starts": 12
     },
     "681517": {
       "name": "Kyle Leahy",
       "rgs": 48.8,
       "starts": 30
     },
-    "686613": {
-      "name": "Hunter Brown",
-      "rgs": 57.2,
-      "starts": 79
+    "683627": {
+      "name": "Anthony Molina",
+      "rgs": 47.8,
+      "starts": 6
     },
-    "701542": {
-      "name": "Will Warren",
-      "rgs": 55.2,
-      "starts": 66
+    "694973": {
+      "name": "Paul Skenes",
+      "rgs": 52.2,
+      "starts": 86
+    },
+    "695549": {
+      "name": "Jackson Jobe",
+      "rgs": 54.5,
+      "starts": 18
+    },
+    "805673": {
+      "name": "Zebby Matthews",
+      "rgs": 53.7,
+      "starts": 47
     }
   },
   "team_avg_rgs": {
-    "MIL": 67.4,
+    "MIL": 67.3,
     "NYY": 64.9,
     "ATL": 64.1,
     "TOR": 58.7,
     "LAD": 64.0,
-    "CLE": 56.0,
+    "CLE": 56.2,
     "TB": 56.0,
     "BOS": 57.6,
-    "PHI": 56.7,
+    "PHI": 56.8,
     "AZ": 51.6,
     "WSH": 57.7,
     "SD": 54.7,
@@ -123,15 +248,15 @@
     "CHC": 53.2,
     "MIN": 55.4,
     "STL": 52.3,
-    "MIA": 54.1,
-    "SF": 54.3,
+    "TEX": 54.1,
+    "MIA": 53.8,
     "DET": 51.9,
-    "BAL": 52.7,
-    "TEX": 51.6,
+    "BAL": 53.7,
+    "SF": 54.7,
     "CIN": 48.3,
-    "ATH": 56.4,
-    "COL": 56.4,
-    "HOU": 56.4
+    "ATH": 56.5,
+    "COL": 56.5,
+    "HOU": 56.5
   },
-  "updated": "2026-09-20"
+  "updated": "2026-09-21"
 }
