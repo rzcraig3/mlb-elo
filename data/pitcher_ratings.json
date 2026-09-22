@@ -150,15 +150,15 @@
       "rgs": 47.0,
       "starts": 69
     },
+    "669022": {
+      "name": "MacKenzie Gore",
+      "rgs": 45.2,
+      "starts": 94
+    },
     "669302": {
       "name": "Logan Gilbert",
       "rgs": 52.6,
       "starts": 88
-    },
-    "669358": {
-      "name": "Shane Baz",
-      "rgs": 49.8,
-      "starts": 75
     },
     "669461": {
       "name": "Matthew Liberatore",
@@ -219,11 +219,6 @@
       "name": "Jackson Jobe",
       "rgs": 54.5,
       "starts": 18
-    },
-    "805673": {
-      "name": "Zebby Matthews",
-      "rgs": 53.7,
-      "starts": 47
     }
   },
   "team_avg_rgs": {
@@ -258,5 +253,5 @@
     "COL": 56.5,
     "HOU": 56.5
   },
-  "updated": "2026-09-21"
+  "updated": "2026-09-22"
 }

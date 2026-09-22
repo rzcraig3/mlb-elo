@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "home_id": 110,
-    "away_id": 141,
-    "home": "BAL",
-    "away": "TOR"
-  },
-  {
-    "date": "2026-09-21",
-    "home_id": 116,
-    "away_id": 120,
-    "home": "DET",
-    "away": "WSH"
-  },
-  {
-    "date": "2026-09-21",
-    "home_id": 137,
-    "away_id": 142,
-    "home": "SF",
-    "away": "MIN"
-  },
-  {
     "date": "2026-09-22",
     "home_id": 147,
     "away_id": 139,

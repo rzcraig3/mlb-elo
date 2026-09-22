@@ -1,22 +1,4 @@
 {
-  "2026-09-21|BAL|TOR": {
-    "home_pitcher_id": 669358,
-    "home_pitcher": "Shane Baz",
-    "away_pitcher_id": 702056,
-    "away_pitcher": "Trey Yesavage"
-  },
-  "2026-09-21|DET|WSH": {
-    "home_pitcher_id": 689981,
-    "home_pitcher": "River Ryan",
-    "away_pitcher_id": 687792,
-    "away_pitcher": "DJ Herz"
-  },
-  "2026-09-21|SF|MIN": {
-    "home_pitcher_id": 694918,
-    "home_pitcher": "Blade Tidwell",
-    "away_pitcher_id": 805673,
-    "away_pitcher": "Zebby Matthews"
-  },
   "2026-09-22|NYY|TB": {
     "home_pitcher_id": 608331,
     "home_pitcher": "Max Fried",
@@ -72,8 +54,8 @@
     "away_pitcher": "Janson Junk"
   },
   "2026-09-22|TEX|NYM": {
-    "home_pitcher_id": null,
-    "home_pitcher": null,
+    "home_pitcher_id": 669022,
+    "home_pitcher": "MacKenzie Gore",
     "away_pitcher_id": 640455,
     "away_pitcher": "Sean Manaea"
   },
