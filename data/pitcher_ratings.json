@@ -5,35 +5,15 @@
       "rgs": 50.6,
       "starts": 47
     },
-    "453286": {
-      "name": "Max Scherzer",
-      "rgs": 50.4,
-      "starts": 42
+    "571510": {
+      "name": "Matthew Boyd",
+      "rgs": 53.6,
+      "starts": 60
     },
-    "518876": {
-      "name": "Merrill Kelly",
-      "rgs": 50.5,
-      "starts": 73
-    },
-    "519242": {
-      "name": "Chris Sale",
-      "rgs": 66.8,
-      "starts": 75
-    },
-    "543243": {
-      "name": "Sonny Gray",
-      "rgs": 58.3,
-      "starts": 88
-    },
-    "592332": {
-      "name": "Kevin Gausman",
-      "rgs": 49.8,
-      "starts": 94
-    },
-    "592662": {
-      "name": "Robbie Ray",
-      "rgs": 49.1,
-      "starts": 68
+    "579328": {
+      "name": "Yusei Kikuchi",
+      "rgs": 49.9,
+      "starts": 78
     },
     "593958": {
       "name": "Eduardo Rodriguez",
@@ -45,30 +25,10 @@
       "rgs": 57.9,
       "starts": 64
     },
-    "605135": {
-      "name": "Chris Bassitt",
-      "rgs": 52.1,
-      "starts": 79
-    },
-    "605400": {
-      "name": "Aaron Nola",
-      "rgs": 58.9,
-      "starts": 81
-    },
-    "605488": {
-      "name": "Jeffrey Springs",
-      "rgs": 43.2,
-      "starts": 65
-    },
     "607192": {
       "name": "Tyler Glasnow",
       "rgs": 57.7,
       "starts": 52
-    },
-    "607625": {
-      "name": "Seth Lugo",
-      "rgs": 40.3,
-      "starts": 90
     },
     "624133": {
       "name": "Ranger Suarez",
@@ -80,15 +40,35 @@
       "rgs": 63.3,
       "starts": 45
     },
+    "641927": {
+      "name": "Bailey Ober",
+      "rgs": 49.7,
+      "starts": 81
+    },
     "642547": {
       "name": "Freddy Peralta",
       "rgs": 59.2,
       "starts": 96
     },
-    "663542": {
-      "name": "Bryan Hudson",
-      "rgs": 48.9,
-      "starts": 8
+    "643377": {
+      "name": "Griffin Jax",
+      "rgs": 58.4,
+      "starts": 24
+    },
+    "650911": {
+      "name": "Cristopher S\u00e1nchez",
+      "rgs": 53.4,
+      "starts": 95
+    },
+    "657746": {
+      "name": "Joe Ryan",
+      "rgs": 45.9,
+      "starts": 79
+    },
+    "663623": {
+      "name": "Jake Irvin",
+      "rgs": 50.2,
+      "starts": 86
     },
     "663903": {
       "name": "Brady Singer",
@@ -100,40 +80,35 @@
       "rgs": 52.7,
       "starts": 27
     },
-    "663992": {
-      "name": "Richard Lovelady",
-      "rgs": 49.4,
-      "starts": 5
-    },
-    "664285": {
-      "name": "Framber Valdez",
-      "rgs": 54.4,
-      "starts": 89
+    "665152": {
+      "name": "Dean Kremer",
+      "rgs": 55.6,
+      "starts": 69
     },
     "666157": {
       "name": "Nick Lodolo",
       "rgs": 47.0,
       "starts": 69
     },
-    "669199": {
-      "name": "Lake Bachar",
-      "rgs": 49.4,
-      "starts": 12
+    "669302": {
+      "name": "Logan Gilbert",
+      "rgs": 47.8,
+      "starts": 89
     },
-    "669461": {
-      "name": "Matthew Liberatore",
-      "rgs": 46.8,
-      "starts": 65
+    "669467": {
+      "name": "Andre Pallante",
+      "rgs": 53.9,
+      "starts": 79
     },
-    "669923": {
-      "name": "George Kirby",
-      "rgs": 46.3,
-      "starts": 85
+    "672282": {
+      "name": "Reid Detmers",
+      "rgs": 60.8,
+      "starts": 48
     },
-    "671096": {
-      "name": "Andrew Abbott",
-      "rgs": 41.6,
-      "starts": 85
+    "677958": {
+      "name": "Kumar Rocker",
+      "rgs": 50.9,
+      "starts": 43
     },
     "677976": {
       "name": "Randy Dobnak",
@@ -144,6 +119,26 @@
       "name": "Kyle Leahy",
       "rgs": 48.8,
       "starts": 30
+    },
+    "682243": {
+      "name": "Bryce Miller",
+      "rgs": 48.6,
+      "starts": 69
+    },
+    "685299": {
+      "name": "Tanner Gordon",
+      "rgs": 37.8,
+      "starts": 34
+    },
+    "688107": {
+      "name": "Robert Gasser",
+      "rgs": 56.7,
+      "starts": 26
+    },
+    "693433": {
+      "name": "Bryan Woo",
+      "rgs": 58.8,
+      "starts": 81
     },
     "694973": {
       "name": "Paul Skenes",
@@ -159,44 +154,39 @@
       "name": "Michael McGreevy",
       "rgs": 50.3,
       "starts": 49
-    },
-    "808967": {
-      "name": "Yoshinobu Yamamoto",
-      "rgs": 68.1,
-      "starts": 75
     }
   },
   "team_avg_rgs": {
     "MIL": 67.3,
     "NYY": 64.9,
-    "ATL": 64.1,
+    "ATL": 64.3,
     "TOR": 58.7,
-    "LAD": 64.0,
+    "LAD": 63.7,
     "CLE": 56.2,
     "TB": 56.2,
-    "BOS": 57.6,
-    "PHI": 56.8,
-    "AZ": 56.0,
+    "BOS": 57.9,
+    "PHI": 56.7,
+    "AZ": 51.7,
     "WSH": 57.7,
-    "NYM": 57.5,
-    "SD": 54.5,
-    "KC": 53.0,
+    "NYM": 57.9,
+    "SD": 54.3,
+    "KC": 52.8,
     "CWS": 57.6,
     "LAA": 58.7,
-    "STL": 53.2,
     "PIT": 56.6,
     "MIN": 55.7,
     "CHC": 53.4,
-    "SEA": 54.7,
+    "SEA": 54.5,
+    "STL": 52.3,
     "TEX": 54.1,
     "MIA": 53.8,
-    "DET": 51.9,
+    "DET": 52.1,
     "BAL": 53.7,
     "SF": 54.7,
-    "CIN": 48.3,
-    "ATH": 56.7,
-    "COL": 56.7,
-    "HOU": 56.7
+    "CIN": 48.6,
+    "ATH": 56.5,
+    "COL": 56.5,
+    "HOU": 56.5
   },
-  "updated": "2026-09-23"
+  "updated": "2026-09-24"
 }

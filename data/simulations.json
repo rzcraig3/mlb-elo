@@ -1,40 +1,39 @@
 {
   "teams": {
     "ATH": {
-      "elo": 1402.3,
-      "w": 62,
+      "elo": 1405.6,
+      "w": 63,
       "l": 95,
-      "elo_7d_change": -5.9,
+      "elo_7d_change": -1.8,
       "name": "Athletics",
       "division": "American League West",
       "league": "American League",
-      "projected_wins": 64.1,
+      "projected_wins": 64.7,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 62,
+        "lo": 63,
         "bins": [
-          616,
-          2290,
-          3384,
-          2558,
-          999,
-          153
+          1151,
+          3272,
+          3449,
+          1753,
+          375
         ]
       }
     },
     "PIT": {
-      "elo": 1495.8,
+      "elo": 1492.1,
       "w": 80,
-      "l": 77,
-      "elo_7d_change": 8.7,
+      "l": 78,
+      "elo_7d_change": 6.2,
       "name": "Pittsburgh Pirates",
       "division": "National League Central",
       "league": "National League",
-      "projected_wins": 82.5,
+      "projected_wins": 81.9,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -43,76 +42,73 @@
       "win_dist": {
         "lo": 80,
         "bins": [
-          347,
-          1590,
-          3090,
-          3096,
-          1544,
-          333
+          772,
+          2679,
+          3778,
+          2228,
+          543
         ]
       }
     },
     "SD": {
-      "elo": 1532.7,
-      "w": 87,
+      "elo": 1536.6,
+      "w": 88,
       "l": 70,
-      "elo_7d_change": 8.7,
+      "elo_7d_change": 9.8,
       "name": "San Diego Padres",
       "division": "National League West",
       "league": "National League",
-      "projected_wins": 89.5,
-      "make_playoffs_pct": 99.0,
+      "projected_wins": 90.1,
+      "make_playoffs_pct": 100.0,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 20.1,
-      "win_pennant_pct": 10.9,
+      "make_lcs_pct": 22.7,
+      "win_pennant_pct": 11.7,
       "win_ws_pct": 4.9,
       "win_dist": {
-        "lo": 87,
+        "lo": 88,
         "bins": [
-          285,
-          1541,
-          3135,
-          3144,
-          1588,
-          307
+          473,
+          2107,
+          3710,
+          2903,
+          807
         ]
       }
     },
     "SEA": {
-      "elo": 1458.5,
-      "w": 73,
+      "elo": 1460.0,
+      "w": 74,
       "l": 84,
-      "elo_7d_change": -0.6,
+      "elo_7d_change": -2.8,
       "name": "Seattle Mariners",
       "division": "American League West",
       "league": "American League",
-      "projected_wins": 75.8,
+      "projected_wins": 76.3,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 73,
+        "lo": 74,
         "bins": [
-          188,
-          1135,
-          2695,
-          3251,
-          2178,
-          553
+          328,
+          1759,
+          3482,
+          3196,
+          1235
         ]
       }
     },
     "SF": {
-      "elo": 1457.9,
+      "elo": 1455.6,
       "w": 66,
-      "l": 92,
-      "elo_7d_change": -3.4,
+      "l": 93,
+      "elo_7d_change": -7.3,
       "name": "San Francisco Giants",
       "division": "National League West",
       "league": "National League",
-      "projected_wins": 67.6,
+      "projected_wins": 67.1,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -121,308 +117,295 @@
       "win_dist": {
         "lo": 66,
         "bins": [
-          1225,
-          3313,
-          3599,
-          1588,
-          275
+          2503,
+          4296,
+          2650,
+          551
         ]
       }
     },
     "STL": {
-      "elo": 1476.9,
-      "w": 76,
+      "elo": 1480.5,
+      "w": 77,
       "l": 81,
-      "elo_7d_change": -9.5,
+      "elo_7d_change": -4.3,
       "name": "St. Louis Cardinals",
       "division": "National League Central",
       "league": "National League",
-      "projected_wins": 77.9,
+      "projected_wins": 78.5,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 76,
+        "lo": 77,
         "bins": [
-          942,
-          2728,
-          3391,
-          2167,
-          695,
-          77
+          1505,
+          3646,
+          3305,
+          1338,
+          206
         ]
       }
     },
     "TB": {
-      "elo": 1538.2,
+      "elo": 1534.4,
       "w": 96,
-      "l": 61,
-      "elo_7d_change": 7.3,
+      "l": 62,
+      "elo_7d_change": 2.7,
       "name": "Tampa Bay Rays",
       "division": "American League East",
       "league": "American League",
-      "projected_wins": 98.4,
+      "projected_wins": 97.9,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
-      "make_lcs_pct": 58.4,
-      "win_pennant_pct": 33.1,
-      "win_ws_pct": 18.7,
+      "make_lcs_pct": 58.7,
+      "win_pennant_pct": 33.6,
+      "win_ws_pct": 19.0,
       "win_dist": {
         "lo": 96,
         "bins": [
-          419,
-          1861,
-          3246,
-          2903,
-          1320,
-          251
+          793,
+          2709,
+          3710,
+          2239,
+          549
         ]
       }
     },
     "TEX": {
-      "elo": 1478.1,
+      "elo": 1474.4,
       "w": 78,
-      "l": 79,
-      "elo_7d_change": 2.4,
+      "l": 80,
+      "elo_7d_change": -4.9,
       "name": "Texas Rangers",
       "division": "American League West",
       "league": "American League",
-      "projected_wins": 80.5,
-      "make_playoffs_pct": 41.7,
-      "win_division_pct": 41.1,
-      "make_lcs_pct": 7.4,
-      "win_pennant_pct": 4.2,
-      "win_ws_pct": 2.5,
+      "projected_wins": 79.9,
+      "make_playoffs_pct": 40.6,
+      "win_division_pct": 40.3,
+      "make_lcs_pct": 6.7,
+      "win_pennant_pct": 3.5,
+      "win_ws_pct": 1.9,
       "win_dist": {
         "lo": 78,
         "bins": [
-          347,
-          1596,
-          3097,
-          3044,
-          1599,
-          317
+          742,
+          2641,
+          3680,
+          2328,
+          609
         ]
       }
     },
     "TOR": {
-      "elo": 1487.2,
+      "elo": 1483.3,
       "w": 77,
-      "l": 80,
-      "elo_7d_change": -1.1,
+      "l": 82,
+      "elo_7d_change": -8.2,
       "name": "Toronto Blue Jays",
       "division": "American League East",
       "league": "American League",
-      "projected_wins": 79.7,
-      "make_playoffs_pct": 0.7,
+      "projected_wins": 78.8,
+      "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 0.1,
+      "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
         "lo": 77,
         "bins": [
-          221,
-          1197,
-          2851,
-          3348,
-          1927,
-          456
+          719,
+          3024,
+          4187,
+          2070
         ]
       }
     },
     "MIN": {
-      "elo": 1464.8,
-      "w": 74,
+      "elo": 1467.1,
+      "w": 75,
       "l": 84,
-      "elo_7d_change": 4.8,
+      "elo_7d_change": 5.4,
       "name": "Minnesota Twins",
       "division": "American League Central",
       "league": "American League",
-      "projected_wins": 76.0,
+      "projected_wins": 76.6,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 74,
+        "lo": 75,
         "bins": [
-          632,
-          2492,
-          3658,
-          2532,
-          686
+          1152,
+          3487,
+          3859,
+          1502
         ]
       }
     },
     "PHI": {
-      "elo": 1531.3,
+      "elo": 1528.6,
       "w": 87,
-      "l": 70,
-      "elo_7d_change": 3.1,
+      "l": 71,
+      "elo_7d_change": -2.0,
       "name": "Philadelphia Phillies",
       "division": "National League East",
       "league": "National League",
-      "projected_wins": 89.5,
-      "make_playoffs_pct": 99.9,
-      "win_division_pct": 0.1,
-      "make_lcs_pct": 19.8,
-      "win_pennant_pct": 10.7,
-      "win_ws_pct": 4.4,
+      "projected_wins": 89.0,
+      "make_playoffs_pct": 99.7,
+      "win_division_pct": 0.0,
+      "make_lcs_pct": 19.1,
+      "win_pennant_pct": 10.4,
+      "win_ws_pct": 4.5,
       "win_dist": {
         "lo": 87,
         "bins": [
-          322,
-          1493,
-          3040,
-          3065,
-          1730,
-          350
+          587,
+          2423,
+          3726,
+          2565,
+          699
         ]
       }
     },
     "ATL": {
-      "elo": 1533.5,
-      "w": 92,
+      "elo": 1534.4,
+      "w": 93,
       "l": 66,
-      "elo_7d_change": 0.1,
+      "elo_7d_change": 4.0,
       "name": "Atlanta Braves",
       "division": "National League East",
       "league": "National League",
-      "projected_wins": 94.9,
+      "projected_wins": 95.3,
       "make_playoffs_pct": 100.0,
-      "win_division_pct": 99.9,
-      "make_lcs_pct": 23.9,
-      "win_pennant_pct": 10.0,
-      "win_ws_pct": 4.1,
+      "win_division_pct": 100.0,
+      "make_lcs_pct": 23.5,
+      "win_pennant_pct": 9.7,
+      "win_ws_pct": 4.2,
       "win_dist": {
-        "lo": 92,
+        "lo": 93,
         "bins": [
-          128,
-          866,
-          2333,
-          3444,
-          2522,
-          707
+          371,
+          1863,
+          3545,
+          3118,
+          1103
         ]
       }
     },
     "CWS": {
-      "elo": 1486.1,
+      "elo": 1484.7,
       "w": 81,
-      "l": 76,
-      "elo_7d_change": 6.3,
+      "l": 77,
+      "elo_7d_change": 7.3,
       "name": "Chicago White Sox",
       "division": "American League Central",
       "league": "American League",
-      "projected_wins": 84.0,
-      "make_playoffs_pct": 99.1,
-      "win_division_pct": 39.7,
-      "make_lcs_pct": 19.0,
-      "win_pennant_pct": 9.1,
-      "win_ws_pct": 4.8,
+      "projected_wins": 83.5,
+      "make_playoffs_pct": 99.8,
+      "win_division_pct": 35.7,
+      "make_lcs_pct": 19.1,
+      "win_pennant_pct": 9.3,
+      "win_ws_pct": 5.0,
       "win_dist": {
         "lo": 81,
         "bins": [
-          114,
-          769,
-          2328,
-          3475,
-          2543,
-          771
+          233,
+          1397,
+          3292,
+          3631,
+          1447
         ]
       }
     },
     "MIA": {
-      "elo": 1478.6,
-      "w": 77,
+      "elo": 1480.4,
+      "w": 78,
       "l": 80,
-      "elo_7d_change": 0.2,
+      "elo_7d_change": 0.4,
       "name": "Miami Marlins",
       "division": "National League East",
       "league": "National League",
-      "projected_wins": 79.1,
+      "projected_wins": 79.8,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 77,
+        "lo": 78,
         "bins": [
-          638,
-          2376,
-          3338,
-          2527,
-          972,
-          149
+          1027,
+          3041,
+          3528,
+          1985,
+          419
         ]
       }
     },
     "NYY": {
-      "elo": 1542.7,
-      "w": 89,
+      "elo": 1546.5,
+      "w": 90,
       "l": 67,
-      "elo_7d_change": -5.8,
+      "elo_7d_change": -0.3,
       "name": "New York Yankees",
       "division": "American League East",
       "league": "American League",
-      "projected_wins": 91.9,
+      "projected_wins": 92.4,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 57.8,
-      "win_pennant_pct": 25.5,
-      "win_ws_pct": 14.4,
+      "make_lcs_pct": 58.3,
+      "win_pennant_pct": 26.0,
+      "win_ws_pct": 15.2,
       "win_dist": {
-        "lo": 89,
+        "lo": 90,
         "bins": [
-          138,
-          907,
-          2509,
-          3420,
-          2378,
-          648
+          266,
+          1689,
+          3547,
+          3262,
+          1236
         ]
       }
     },
     "MIL": {
-      "elo": 1563.3,
-      "w": 98,
+      "elo": 1566.0,
+      "w": 99,
       "l": 59,
-      "elo_7d_change": 0.2,
+      "elo_7d_change": 1.8,
       "name": "Milwaukee Brewers",
       "division": "National League Central",
       "league": "National League",
-      "projected_wins": 101.0,
+      "projected_wins": 101.5,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
-      "make_lcs_pct": 58.7,
-      "win_pennant_pct": 30.1,
-      "win_ws_pct": 13.3,
+      "make_lcs_pct": 58.2,
+      "win_pennant_pct": 32.6,
+      "win_ws_pct": 14.1,
       "win_dist": {
-        "lo": 98,
+        "lo": 99,
         "bins": [
-          103,
-          808,
-          2386,
-          3393,
-          2527,
-          783
+          247,
+          1422,
+          3329,
+          3573,
+          1429
         ]
       }
     },
     "LAA": {
-      "elo": 1432.2,
+      "elo": 1428.9,
       "w": 60,
-      "l": 97,
-      "elo_7d_change": -10.2,
+      "l": 98,
+      "elo_7d_change": -9.9,
       "name": "Los Angeles Angels",
       "division": "American League West",
       "league": "American League",
-      "projected_wins": 62.2,
+      "projected_wins": 61.7,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -431,128 +414,122 @@
       "win_dist": {
         "lo": 60,
         "bins": [
-          602,
-          2129,
-          3379,
-          2599,
-          1106,
-          185
+          1235,
+          3196,
+          3482,
+          1759,
+          328
         ]
       }
     },
     "AZ": {
-      "elo": 1507.6,
-      "w": 83,
+      "elo": 1509.2,
+      "w": 84,
       "l": 74,
-      "elo_7d_change": 3.2,
+      "elo_7d_change": 6.4,
       "name": "Arizona Diamondbacks",
       "division": "National League West",
       "league": "National League",
-      "projected_wins": 85.5,
-      "make_playoffs_pct": 1.8,
+      "projected_wins": 85.9,
+      "make_playoffs_pct": 3.0,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 0.2,
-      "win_pennant_pct": 0.2,
+      "make_lcs_pct": 0.5,
+      "win_pennant_pct": 0.3,
       "win_ws_pct": 0.1,
       "win_dist": {
-        "lo": 83,
+        "lo": 84,
         "bins": [
-          302,
-          1517,
-          3058,
-          3129,
-          1668,
-          326
+          743,
+          2769,
+          3732,
+          2271,
+          485
         ]
       }
     },
     "BAL": {
-      "elo": 1495.5,
-      "w": 76,
+      "elo": 1499.5,
+      "w": 78,
       "l": 81,
-      "elo_7d_change": 0.6,
+      "elo_7d_change": 0.5,
       "name": "Baltimore Orioles",
       "division": "American League East",
       "league": "American League",
-      "projected_wins": 78.3,
+      "projected_wins": 79.2,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 76,
+        "lo": 78,
         "bins": [
-          446,
-          2007,
-          3400,
-          2792,
-          1160,
-          195
+          2193,
+          4280,
+          2907,
+          620
         ]
       }
     },
     "BOS": {
-      "elo": 1525.4,
-      "w": 84,
+      "elo": 1526.6,
+      "w": 85,
       "l": 73,
-      "elo_7d_change": -5.9,
+      "elo_7d_change": -1.1,
       "name": "Boston Red Sox",
       "division": "American League East",
       "league": "American League",
-      "projected_wins": 86.7,
+      "projected_wins": 87.1,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 24.8,
-      "win_pennant_pct": 11.3,
-      "win_ws_pct": 6.6,
+      "win_pennant_pct": 10.3,
+      "win_ws_pct": 5.8,
       "win_dist": {
-        "lo": 84,
+        "lo": 85,
         "bins": [
-          225,
-          1227,
-          2816,
-          3245,
-          2017,
-          470
+          483,
+          2158,
+          3637,
+          2877,
+          845
         ]
       }
     },
     "CHC": {
-      "elo": 1534.9,
+      "elo": 1533.2,
       "w": 87,
-      "l": 70,
-      "elo_7d_change": 0.8,
+      "l": 71,
+      "elo_7d_change": -3.9,
       "name": "Chicago Cubs",
       "division": "National League Central",
       "league": "National League",
-      "projected_wins": 89.7,
-      "make_playoffs_pct": 99.3,
+      "projected_wins": 89.0,
+      "make_playoffs_pct": 97.3,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 19.6,
-      "win_pennant_pct": 9.6,
-      "win_ws_pct": 4.2,
+      "make_lcs_pct": 18.4,
+      "win_pennant_pct": 9.5,
+      "win_ws_pct": 4.1,
       "win_dist": {
         "lo": 87,
         "bins": [
-          205,
-          1312,
-          2890,
-          3328,
-          1820,
-          445
+          590,
+          2442,
+          3705,
+          2604,
+          659
         ]
       }
     },
     "CIN": {
-      "elo": 1446.6,
+      "elo": 1445.7,
       "w": 73,
-      "l": 84,
-      "elo_7d_change": 3.2,
+      "l": 85,
+      "elo_7d_change": -2.0,
       "name": "Cincinnati Reds",
       "division": "National League Central",
       "league": "National League",
-      "projected_wins": 74.9,
+      "projected_wins": 74.6,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -561,50 +538,48 @@
       "win_dist": {
         "lo": 73,
         "bins": [
-          955,
-          2691,
-          3490,
-          2109,
-          666,
-          89
+          1317,
+          3514,
+          3381,
+          1550,
+          238
         ]
       }
     },
     "CLE": {
-      "elo": 1500.6,
+      "elo": 1499.4,
       "w": 82,
-      "l": 75,
-      "elo_7d_change": 9.0,
+      "l": 76,
+      "elo_7d_change": 5.3,
       "name": "Cleveland Guardians",
       "division": "American League Central",
       "league": "American League",
-      "projected_wins": 84.5,
-      "make_playoffs_pct": 99.6,
-      "win_division_pct": 60.3,
-      "make_lcs_pct": 21.8,
-      "win_pennant_pct": 10.8,
-      "win_ws_pct": 6.2,
+      "projected_wins": 84.0,
+      "make_playoffs_pct": 100.0,
+      "win_division_pct": 64.3,
+      "make_lcs_pct": 22.1,
+      "win_pennant_pct": 11.5,
+      "win_ws_pct": 6.6,
       "win_dist": {
         "lo": 82,
         "bins": [
-          357,
-          1637,
-          3214,
-          2988,
-          1517,
-          287
+          610,
+          2405,
+          3739,
+          2570,
+          676
         ]
       }
     },
     "COL": {
-      "elo": 1401.2,
+      "elo": 1399.6,
       "w": 57,
-      "l": 100,
-      "elo_7d_change": -8.3,
+      "l": 101,
+      "elo_7d_change": -7.1,
       "name": "Colorado Rockies",
       "division": "National League West",
       "league": "National League",
-      "projected_wins": 58.8,
+      "projected_wins": 58.4,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -613,24 +588,23 @@
       "win_dist": {
         "lo": 57,
         "bins": [
-          1099,
-          2948,
-          3372,
-          1954,
-          543,
-          84
+          1736,
+          3810,
+          3103,
+          1178,
+          173
         ]
       }
     },
     "DET": {
-      "elo": 1502.4,
+      "elo": 1499.8,
       "w": 74,
-      "l": 84,
-      "elo_7d_change": -8.4,
+      "l": 85,
+      "elo_7d_change": -7.7,
       "name": "Detroit Tigers",
       "division": "American League Central",
       "league": "American League",
-      "projected_wins": 76.2,
+      "projected_wins": 75.6,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
@@ -639,144 +613,138 @@
       "win_dist": {
         "lo": 74,
         "bins": [
-          430,
-          1994,
-          3598,
-          3006,
-          972
+          969,
+          3348,
+          3972,
+          1711
         ]
       }
     },
     "HOU": {
-      "elo": 1487.2,
+      "elo": 1485.8,
       "w": 78,
-      "l": 79,
-      "elo_7d_change": -3.9,
+      "l": 80,
+      "elo_7d_change": -2.0,
       "name": "Houston Astros",
       "division": "American League West",
       "league": "American League",
-      "projected_wins": 80.9,
-      "make_playoffs_pct": 58.9,
-      "win_division_pct": 58.9,
-      "make_lcs_pct": 10.8,
-      "win_pennant_pct": 6.0,
-      "win_ws_pct": 3.3,
+      "projected_wins": 80.3,
+      "make_playoffs_pct": 59.7,
+      "win_division_pct": 59.7,
+      "make_lcs_pct": 10.4,
+      "win_pennant_pct": 5.8,
+      "win_ws_pct": 3.0,
       "win_dist": {
         "lo": 78,
         "bins": [
-          155,
-          993,
-          2472,
-          3376,
-          2366,
-          638
+          375,
+          1753,
+          3449,
+          3272,
+          1151
         ]
       }
     },
     "KC": {
-      "elo": 1452.8,
-      "w": 67,
+      "elo": 1454.2,
+      "w": 68,
       "l": 90,
-      "elo_7d_change": -6.7,
+      "elo_7d_change": -8.6,
       "name": "Kansas City Royals",
       "division": "American League Central",
       "league": "American League",
-      "projected_wins": 69.4,
+      "projected_wins": 69.9,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 67,
+        "lo": 68,
         "bins": [
-          410,
-          1853,
-          3182,
-          2910,
-          1370,
-          275
+          798,
+          2785,
+          3623,
+          2276,
+          518
         ]
       }
     },
     "LAD": {
-      "elo": 1574.2,
+      "elo": 1570.3,
       "w": 97,
-      "l": 60,
-      "elo_7d_change": 7.9,
+      "l": 61,
+      "elo_7d_change": 8.4,
       "name": "Los Angeles Dodgers",
       "division": "National League West",
       "league": "National League",
-      "projected_wins": 100.1,
+      "projected_wins": 99.4,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
-      "make_lcs_pct": 57.7,
-      "win_pennant_pct": 28.5,
-      "win_ws_pct": 12.4,
+      "make_lcs_pct": 57.6,
+      "win_pennant_pct": 25.8,
+      "win_ws_pct": 11.6,
       "win_dist": {
         "lo": 97,
         "bins": [
-          96,
-          690,
-          2143,
-          3400,
-          2755,
-          916
+          238,
+          1471,
+          3308,
+          3526,
+          1457
         ]
       }
     },
     "WSH": {
-      "elo": 1471.1,
-      "w": 74,
+      "elo": 1473.7,
+      "w": 75,
       "l": 84,
-      "elo_7d_change": 2.7,
+      "elo_7d_change": 7.7,
       "name": "Washington Nationals",
       "division": "National League East",
       "league": "National League",
-      "projected_wins": 76.0,
+      "projected_wins": 76.5,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 74,
+        "lo": 75,
         "bins": [
-          686,
-          2601,
-          3766,
-          2329,
-          618
+          1225,
+          3715,
+          3706,
+          1354
         ]
       }
     },
     "NYM": {
-      "elo": 1488.4,
-      "w": 72,
+      "elo": 1492.1,
+      "w": 73,
       "l": 85,
-      "elo_7d_change": 0.5,
+      "elo_7d_change": 8.3,
       "name": "New York Mets",
       "division": "National League East",
       "league": "National League",
-      "projected_wins": 74.4,
+      "projected_wins": 75.0,
       "make_playoffs_pct": 0.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 0.0,
       "win_pennant_pct": 0.0,
       "win_ws_pct": 0.0,
       "win_dist": {
-        "lo": 72,
+        "lo": 73,
         "bins": [
-          397,
-          1708,
-          3150,
-          2986,
-          1471,
-          288
+          686,
+          2584,
+          3693,
+          2439,
+          598
         ]
       }
     }
   },
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "simulations": 10000
 }
