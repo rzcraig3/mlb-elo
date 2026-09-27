@@ -1,24 +1,9 @@
 {
   "pitchers": {
-    "434378": {
-      "name": "Justin Verlander",
-      "rgs": 50.6,
-      "starts": 47
-    },
-    "489446": {
-      "name": "Kirby Yates",
-      "rgs": null,
-      "starts": 0
-    },
-    "500779": {
-      "name": "Jose Quintana",
-      "rgs": 43.1,
-      "starts": 65
-    },
-    "543135": {
-      "name": "Nathan Eovaldi",
-      "rgs": 51.9,
-      "starts": 73
+    "453286": {
+      "name": "Max Scherzer",
+      "rgs": 49.7,
+      "starts": 43
     },
     "554430": {
       "name": "Zack Wheeler",
@@ -30,11 +15,6 @@
       "rgs": 49.9,
       "starts": 78
     },
-    "605483": {
-      "name": "Blake Snell",
-      "rgs": 62.3,
-      "starts": 39
-    },
     "607259": {
       "name": "Nick Martinez",
       "rgs": 57.0,
@@ -45,45 +25,15 @@
       "rgs": 42.4,
       "starts": 77
     },
-    "608379": {
-      "name": "Michael Wacha",
-      "rgs": 55.6,
-      "starts": 91
-    },
-    "608718": {
-      "name": "Brent Suter",
-      "rgs": 47.7,
-      "starts": 9
-    },
-    "621111": {
-      "name": "Walker Buehler",
-      "rgs": 51.8,
-      "starts": 71
-    },
     "640455": {
       "name": "Sean Manaea",
       "rgs": 52.2,
       "starts": 62
     },
-    "641927": {
-      "name": "Bailey Ober",
-      "rgs": 49.7,
-      "starts": 81
-    },
-    "643377": {
-      "name": "Griffin Jax",
-      "rgs": 58.4,
-      "starts": 24
-    },
     "647336": {
       "name": "Michael Soroka",
       "rgs": 59.2,
       "starts": 46
-    },
-    "663436": {
-      "name": "Davis Martin",
-      "rgs": 50.0,
-      "starts": 62
     },
     "663738": {
       "name": "Daniel Lynch IV",
@@ -94,6 +44,11 @@
       "name": "Dean Kremer",
       "rgs": 55.6,
       "starts": 69
+    },
+    "669022": {
+      "name": "MacKenzie Gore",
+      "rgs": 48.0,
+      "starts": 95
     },
     "669302": {
       "name": "Logan Gilbert",
@@ -110,20 +65,25 @@
       "rgs": 53.9,
       "starts": 79
     },
-    "669713": {
-      "name": "Hayden Wesneski",
-      "rgs": 54.3,
-      "starts": 23
-    },
     "676083": {
       "name": "Janson Junk",
       "rgs": 51.5,
       "starts": 40
     },
-    "676440": {
-      "name": "Tanner Bibee",
-      "rgs": 45.3,
-      "starts": 94
+    "681190": {
+      "name": "Randy V\u00e1squez",
+      "rgs": 55.6,
+      "starts": 68
+    },
+    "684007": {
+      "name": "Shota Imanaga",
+      "rgs": 57.7,
+      "starts": 85
+    },
+    "686751": {
+      "name": "Seth Johnson",
+      "rgs": 4.9,
+      "starts": 1
     }
   },
   "team_avg_rgs": {
@@ -135,7 +95,7 @@
     "CLE": 56.0,
     "TB": 56.3,
     "BOS": 57.9,
-    "PHI": 56.8,
+    "PHI": 56.5,
     "AZ": 51.6,
     "WSH": 57.7,
     "NYM": 57.9,
@@ -152,11 +112,11 @@
     "BAL": 53.7,
     "DET": 52.1,
     "TEX": 53.7,
-    "SF": 54.7,
     "CIN": 48.6,
     "ATH": 56.5,
+    "SF": 56.5,
     "COL": 56.5,
     "HOU": 56.5
   },
-  "updated": "2026-09-26"
+  "updated": "2026-09-27"
 }
