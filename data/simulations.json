@@ -1,7 +1,7 @@
 {
   "teams": {
     "ATH": {
-      "elo": 1396.9,
+      "elo": 1397.0,
       "w": 64,
       "l": 98,
       "elo_7d_change": 0.0,
@@ -22,7 +22,7 @@
       }
     },
     "PIT": {
-      "elo": 1497.5,
+      "elo": 1497.6,
       "w": 82,
       "l": 80,
       "elo_7d_change": 0.0,
@@ -53,7 +53,7 @@
       "projected_wins": 91.0,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 0.0,
-      "make_lcs_pct": 22.0,
+      "make_lcs_pct": 21.9,
       "win_pennant_pct": 11.1,
       "win_ws_pct": 4.7,
       "win_dist": {
@@ -85,7 +85,7 @@
       }
     },
     "SF": {
-      "elo": 1451.2,
+      "elo": 1451.3,
       "w": 66,
       "l": 96,
       "elo_7d_change": 0.0,
@@ -223,7 +223,7 @@
       "win_division_pct": 0.0,
       "make_lcs_pct": 17.9,
       "win_pennant_pct": 9.8,
-      "win_ws_pct": 4.0,
+      "win_ws_pct": 4.1,
       "win_dist": {
         "lo": 88,
         "bins": [
@@ -232,7 +232,7 @@
       }
     },
     "ATL": {
-      "elo": 1529.8,
+      "elo": 1529.9,
       "w": 94,
       "l": 69,
       "elo_7d_change": 0.0,
@@ -253,7 +253,7 @@
       }
     },
     "CWS": {
-      "elo": 1495.5,
+      "elo": 1495.6,
       "w": 84,
       "l": 78,
       "elo_7d_change": 0.0,
@@ -274,7 +274,7 @@
       }
     },
     "MIA": {
-      "elo": 1486.4,
+      "elo": 1486.5,
       "w": 80,
       "l": 82,
       "elo_7d_change": 0.0,
@@ -307,7 +307,7 @@
       "win_division_pct": 0.0,
       "make_lcs_pct": 56.7,
       "win_pennant_pct": 25.0,
-      "win_ws_pct": 14.2,
+      "win_ws_pct": 14.1,
       "win_dist": {
         "lo": 92,
         "bins": [
@@ -316,7 +316,7 @@
       }
     },
     "MIL": {
-      "elo": 1578.0,
+      "elo": 1578.1,
       "w": 103,
       "l": 59,
       "elo_7d_change": 0.0,
@@ -358,7 +358,7 @@
       }
     },
     "AZ": {
-      "elo": 1511.0,
+      "elo": 1511.1,
       "w": 86,
       "l": 76,
       "elo_7d_change": 0.0,
@@ -400,7 +400,7 @@
       }
     },
     "BOS": {
-      "elo": 1527.3,
+      "elo": 1527.4,
       "w": 87,
       "l": 75,
       "elo_7d_change": 0.0,
@@ -474,7 +474,7 @@
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
       "make_lcs_pct": 23.9,
-      "win_pennant_pct": 12.2,
+      "win_pennant_pct": 12.3,
       "win_ws_pct": 6.6,
       "win_dist": {
         "lo": 85,
@@ -484,7 +484,7 @@
       }
     },
     "COL": {
-      "elo": 1398.7,
+      "elo": 1398.8,
       "w": 58,
       "l": 104,
       "elo_7d_change": 0.0,
@@ -526,7 +526,7 @@
       }
     },
     "HOU": {
-      "elo": 1492.3,
+      "elo": 1492.4,
       "w": 81,
       "l": 81,
       "elo_7d_change": 0.0,
@@ -568,7 +568,7 @@
       }
     },
     "LAD": {
-      "elo": 1571.2,
+      "elo": 1571.3,
       "w": 100,
       "l": 62,
       "elo_7d_change": 0.0,
@@ -610,7 +610,7 @@
       }
     },
     "NYM": {
-      "elo": 1492.0,
+      "elo": 1492.1,
       "w": 74,
       "l": 88,
       "elo_7d_change": 0.0,
@@ -631,6 +631,6 @@
       }
     }
   },
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "simulations": 10000
 }
