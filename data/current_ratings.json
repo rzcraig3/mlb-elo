@@ -199,7 +199,7 @@
       "league": "National League"
     },
     "CLE": {
-      "elo": 1505.2,
+      "elo": 1505.3,
       "w": 85,
       "l": 77,
       "elo_7d_change": 0.0,
@@ -489,7 +489,7 @@
       "away_score": 5,
       "home_elo_pre": 1491.1,
       "away_elo_pre": 1503.7,
-      "home_elo_post": 1492.4,
+      "home_elo_post": 1492.5,
       "away_elo_post": 1502.3
     },
     {
@@ -751,7 +751,7 @@
       "away": "TB",
       "home_score": 7,
       "away_score": 11,
-      "home_elo_pre": 1492.4,
+      "home_elo_pre": 1492.5,
       "away_elo_pre": 1502.3,
       "home_elo_post": 1489.1,
       "away_elo_post": 1505.7
@@ -1039,7 +1039,7 @@
       "away_score": 0,
       "home_elo_pre": 1486.8,
       "away_elo_pre": 1495.0,
-      "home_elo_post": 1489.4,
+      "home_elo_post": 1489.5,
       "away_elo_post": 1492.4
     },
     {
@@ -1169,9 +1169,9 @@
       "away": "NYM",
       "home_score": 2,
       "away_score": 1,
-      "home_elo_pre": 1489.4,
+      "home_elo_pre": 1489.5,
       "away_elo_pre": 1492.4,
-      "home_elo_post": 1490.7,
+      "home_elo_post": 1490.8,
       "away_elo_post": 1491.1
     },
     {
@@ -1313,9 +1313,9 @@
       "home_score": 4,
       "away_score": 0,
       "home_elo_pre": 1499.5,
-      "away_elo_pre": 1490.7,
+      "away_elo_pre": 1490.8,
       "home_elo_post": 1502.4,
-      "away_elo_post": 1487.8
+      "away_elo_post": 1487.9
     },
     {
       "date": "2026-04-03",
@@ -1456,7 +1456,7 @@
       "home_score": 11,
       "away_score": 6,
       "home_elo_pre": 1502.4,
-      "away_elo_pre": 1487.8,
+      "away_elo_pre": 1487.9,
       "home_elo_post": 1505.6,
       "away_elo_post": 1484.7
     },
@@ -2513,7 +2513,7 @@
       "away_score": 1,
       "home_elo_pre": 1495.6,
       "away_elo_pre": 1461.2,
-      "home_elo_post": 1498.5,
+      "home_elo_post": 1498.6,
       "away_elo_post": 1458.2
     },
     {
@@ -2720,7 +2720,7 @@
       "away": "MIA",
       "home_score": 8,
       "away_score": 2,
-      "home_elo_pre": 1498.5,
+      "home_elo_pre": 1498.6,
       "away_elo_pre": 1458.2,
       "home_elo_post": 1501.7,
       "away_elo_post": 1455.1
@@ -2865,7 +2865,7 @@
       "away_score": 7,
       "home_elo_pre": 1512.6,
       "away_elo_pre": 1509.3,
-      "home_elo_post": 1516.1,
+      "home_elo_post": 1516.2,
       "away_elo_post": 1505.7
     },
     {
@@ -2965,7 +2965,7 @@
       "home_elo_pre": 1484.9,
       "away_elo_pre": 1467.3,
       "home_elo_post": 1483.3,
-      "away_elo_post": 1468.8
+      "away_elo_post": 1468.9
     },
     {
       "date": "2026-04-14",
@@ -2984,7 +2984,7 @@
       "away": "CHC",
       "home_score": 4,
       "away_score": 10,
-      "home_elo_pre": 1516.1,
+      "home_elo_pre": 1516.2,
       "away_elo_pre": 1505.7,
       "home_elo_post": 1511.9,
       "away_elo_post": 1510.0
@@ -3118,7 +3118,7 @@
       "away_score": 3,
       "home_elo_pre": 1480.3,
       "away_elo_pre": 1513.6,
-      "home_elo_post": 1482.5,
+      "home_elo_post": 1482.6,
       "away_elo_post": 1511.3
     },
     {
@@ -3150,7 +3150,7 @@
       "home_score": 2,
       "away_score": 0,
       "home_elo_pre": 1483.3,
-      "away_elo_pre": 1468.8,
+      "away_elo_pre": 1468.9,
       "home_elo_post": 1485.3,
       "away_elo_post": 1466.9
     },
@@ -3469,7 +3469,7 @@
       "home_score": 4,
       "away_score": 9,
       "home_elo_pre": 1490.5,
-      "away_elo_pre": 1482.5,
+      "away_elo_pre": 1482.6,
       "home_elo_post": 1486.6,
       "away_elo_post": 1486.5
     },
@@ -3591,7 +3591,7 @@
       "away_score": 7,
       "home_elo_pre": 1464.6,
       "away_elo_pre": 1470.0,
-      "home_elo_post": 1463.1,
+      "home_elo_post": 1463.2,
       "away_elo_post": 1471.5
     },
     {
@@ -3710,7 +3710,7 @@
       "away": "SF",
       "home_score": 3,
       "away_score": 0,
-      "home_elo_pre": 1463.1,
+      "home_elo_pre": 1463.2,
       "away_elo_pre": 1471.5,
       "home_elo_post": 1465.8,
       "away_elo_post": 1468.8
@@ -3768,7 +3768,7 @@
       "home_elo_pre": 1484.3,
       "away_elo_pre": 1488.8,
       "home_elo_post": 1481.9,
-      "away_elo_post": 1491.1
+      "away_elo_post": 1491.2
     },
     {
       "date": "2026-04-19",
@@ -3909,9 +3909,9 @@
       "home_score": 5,
       "away_score": 3,
       "home_elo_pre": 1456.0,
-      "away_elo_pre": 1491.1,
+      "away_elo_pre": 1491.2,
       "home_elo_post": 1458.3,
-      "away_elo_post": 1488.8
+      "away_elo_post": 1488.9
     },
     {
       "date": "2026-04-20",
@@ -4008,7 +4008,7 @@
       "home_score": 3,
       "away_score": 5,
       "home_elo_pre": 1458.3,
-      "away_elo_pre": 1488.8,
+      "away_elo_pre": 1488.9,
       "home_elo_post": 1456.2,
       "away_elo_post": 1491.0
     },
@@ -4317,7 +4317,7 @@
       "away_score": 7,
       "home_elo_pre": 1466.4,
       "away_elo_pre": 1552.0,
-      "home_elo_post": 1463.5,
+      "home_elo_post": 1463.6,
       "away_elo_post": 1554.8
     },
     {
@@ -4492,9 +4492,9 @@
       "home_score": 5,
       "away_score": 4,
       "home_elo_pre": 1439.3,
-      "away_elo_pre": 1463.5,
+      "away_elo_pre": 1463.6,
       "home_elo_post": 1440.7,
-      "away_elo_post": 1462.1
+      "away_elo_post": 1462.2
     },
     {
       "date": "2026-04-24",
@@ -4624,7 +4624,7 @@
       "home_score": 3,
       "away_score": 6,
       "home_elo_pre": 1440.7,
-      "away_elo_pre": 1462.1,
+      "away_elo_pre": 1462.2,
       "home_elo_post": 1438.0,
       "away_elo_post": 1464.9
     },
@@ -5450,7 +5450,7 @@
       "away_score": 6,
       "home_elo_pre": 1469.2,
       "away_elo_pre": 1524.0,
-      "home_elo_post": 1466.0,
+      "home_elo_post": 1466.1,
       "away_elo_post": 1527.2
     },
     {
@@ -5635,7 +5635,7 @@
       "away": "MIL",
       "home_score": 1,
       "away_score": 4,
-      "home_elo_pre": 1466.0,
+      "home_elo_pre": 1466.1,
       "away_elo_pre": 1527.2,
       "home_elo_post": 1463.6,
       "away_elo_post": 1529.6
@@ -6462,7 +6462,7 @@
       "away_score": 10,
       "home_elo_pre": 1464.8,
       "away_elo_pre": 1481.1,
-      "home_elo_post": 1459.9,
+      "home_elo_post": 1460.0,
       "away_elo_post": 1486.0
     },
     {
@@ -6595,7 +6595,7 @@
       "home_elo_pre": 1521.5,
       "away_elo_pre": 1498.8,
       "home_elo_post": 1517.0,
-      "away_elo_post": 1503.2
+      "away_elo_post": 1503.3
     },
     {
       "date": "2026-05-08",
@@ -6647,7 +6647,7 @@
       "away": "HOU",
       "home_score": 3,
       "away_score": 1,
-      "home_elo_pre": 1459.9,
+      "home_elo_pre": 1460.0,
       "away_elo_pre": 1486.0,
       "home_elo_post": 1462.2,
       "away_elo_post": 1483.7
@@ -6747,7 +6747,7 @@
       "home_score": 4,
       "away_score": 2,
       "home_elo_pre": 1517.0,
-      "away_elo_pre": 1503.2,
+      "away_elo_pre": 1503.3,
       "home_elo_post": 1519.0,
       "away_elo_post": 1501.3
     },
@@ -7156,7 +7156,7 @@
       "home_elo_pre": 1459.9,
       "away_elo_pre": 1500.1,
       "home_elo_post": 1457.8,
-      "away_elo_post": 1502.1
+      "away_elo_post": 1502.2
     },
     {
       "date": "2026-05-12",
@@ -7319,7 +7319,7 @@
       "home_score": 6,
       "away_score": 2,
       "home_elo_pre": 1457.8,
-      "away_elo_pre": 1502.1,
+      "away_elo_pre": 1502.2,
       "home_elo_post": 1461.3,
       "away_elo_post": 1498.7
     },
@@ -9070,7 +9070,7 @@
       "home_elo_pre": 1525.0,
       "away_elo_pre": 1472.9,
       "home_elo_post": 1519.6,
-      "away_elo_post": 1478.3
+      "away_elo_post": 1478.4
     },
     {
       "date": "2026-05-25",
@@ -9134,7 +9134,7 @@
       "home_score": 3,
       "away_score": 6,
       "home_elo_pre": 1519.6,
-      "away_elo_pre": 1478.3,
+      "away_elo_pre": 1478.4,
       "home_elo_post": 1516.2,
       "away_elo_post": 1481.7
     },
@@ -9235,7 +9235,7 @@
       "home_elo_pre": 1547.8,
       "away_elo_pre": 1494.3,
       "home_elo_post": 1550.8,
-      "away_elo_post": 1491.3
+      "away_elo_post": 1491.4
     },
     {
       "date": "2026-05-26",
@@ -9321,7 +9321,7 @@
       "home_score": 2,
       "away_score": 1,
       "home_elo_pre": 1550.8,
-      "away_elo_pre": 1491.3,
+      "away_elo_pre": 1491.4,
       "home_elo_post": 1551.8,
       "away_elo_post": 1490.3
     },
@@ -9554,7 +9554,7 @@
       "home_elo_pre": 1481.5,
       "away_elo_pre": 1484.2,
       "home_elo_post": 1482.9,
-      "away_elo_post": 1482.8
+      "away_elo_post": 1482.9
     },
     {
       "date": "2026-05-29",
@@ -9739,7 +9739,7 @@
       "home_score": 10,
       "away_score": 9,
       "home_elo_pre": 1482.9,
-      "away_elo_pre": 1482.8,
+      "away_elo_pre": 1482.9,
       "home_elo_post": 1484.1,
       "away_elo_post": 1481.6
     },
@@ -9872,7 +9872,7 @@
       "away_score": 2,
       "home_elo_pre": 1482.3,
       "away_elo_pre": 1513.8,
-      "home_elo_post": 1484.5,
+      "home_elo_post": 1484.6,
       "away_elo_post": 1511.6
     },
     {
@@ -9972,7 +9972,7 @@
       "home_elo_pre": 1423.3,
       "away_elo_pre": 1451.5,
       "home_elo_post": 1418.1,
-      "away_elo_post": 1456.6
+      "away_elo_post": 1456.7
     },
     {
       "date": "2026-05-31",
@@ -10035,9 +10035,9 @@
       "away": "MIA",
       "home_score": 3,
       "away_score": 7,
-      "home_elo_pre": 1484.5,
+      "home_elo_pre": 1484.6,
       "away_elo_pre": 1451.5,
-      "home_elo_post": 1480.7,
+      "home_elo_post": 1480.8,
       "away_elo_post": 1455.3
     },
     {
@@ -10069,7 +10069,7 @@
       "home_score": 16,
       "away_score": 2,
       "home_elo_pre": 1550.1,
-      "away_elo_pre": 1456.6,
+      "away_elo_pre": 1456.7,
       "home_elo_post": 1553.6,
       "away_elo_post": 1453.1
     },
@@ -10156,7 +10156,7 @@
       "away": "MIA",
       "home_score": 3,
       "away_score": 7,
-      "home_elo_pre": 1480.7,
+      "home_elo_pre": 1480.8,
       "away_elo_pre": 1455.3,
       "home_elo_post": 1477.0,
       "away_elo_post": 1459.0
@@ -11314,7 +11314,7 @@
       "home_elo_pre": 1460.1,
       "away_elo_pre": 1485.9,
       "home_elo_post": 1461.5,
-      "away_elo_post": 1484.4
+      "away_elo_post": 1484.5
     },
     {
       "date": "2026-06-10",
@@ -11542,7 +11542,7 @@
       "away": "SEA",
       "home_score": 2,
       "away_score": 10,
-      "home_elo_pre": 1484.4,
+      "home_elo_pre": 1484.5,
       "away_elo_pre": 1498.6,
       "home_elo_post": 1480.0,
       "away_elo_post": 1503.1
@@ -12215,7 +12215,7 @@
       "away_score": 5,
       "home_elo_pre": 1503.5,
       "away_elo_pre": 1418.1,
-      "home_elo_post": 1499.7,
+      "home_elo_post": 1499.8,
       "away_elo_post": 1421.9
     },
     {
@@ -12422,7 +12422,7 @@
       "away": "COL",
       "home_score": 8,
       "away_score": 6,
-      "home_elo_pre": 1499.7,
+      "home_elo_pre": 1499.8,
       "away_elo_pre": 1421.9,
       "home_elo_post": 1501.3,
       "away_elo_post": 1420.4
@@ -12744,7 +12744,7 @@
       "home_elo_pre": 1509.1,
       "away_elo_pre": 1486.2,
       "home_elo_post": 1507.5,
-      "away_elo_post": 1487.7
+      "away_elo_post": 1487.8
     },
     {
       "date": "2026-06-20",
@@ -12820,7 +12820,7 @@
       "away_score": 3,
       "home_elo_pre": 1586.9,
       "away_elo_pre": 1491.6,
-      "home_elo_post": 1584.9,
+      "home_elo_post": 1585.0,
       "away_elo_post": 1493.5
     },
     {
@@ -12842,7 +12842,7 @@
       "away_score": 16,
       "home_elo_pre": 1502.5,
       "away_elo_pre": 1477.7,
-      "home_elo_post": 1497.4,
+      "home_elo_post": 1497.5,
       "away_elo_post": 1482.7
     },
     {
@@ -12874,9 +12874,9 @@
       "home_score": 4,
       "away_score": 3,
       "home_elo_pre": 1507.5,
-      "away_elo_pre": 1487.7,
+      "away_elo_pre": 1487.8,
       "home_elo_post": 1508.7,
-      "away_elo_post": 1486.5
+      "away_elo_post": 1486.6
     },
     {
       "date": "2026-06-21",
@@ -12950,7 +12950,7 @@
       "away": "MIN",
       "home_score": 2,
       "away_score": 4,
-      "home_elo_pre": 1497.4,
+      "home_elo_pre": 1497.5,
       "away_elo_pre": 1482.7,
       "home_elo_post": 1495.0,
       "away_elo_post": 1485.2
@@ -12972,7 +12972,7 @@
       "away": "BAL",
       "home_score": 1,
       "away_score": 12,
-      "home_elo_pre": 1584.9,
+      "home_elo_pre": 1585.0,
       "away_elo_pre": 1493.5,
       "home_elo_post": 1578.1,
       "away_elo_post": 1500.4
@@ -13038,7 +13038,7 @@
       "away": "PHI",
       "home_score": 4,
       "away_score": 1,
-      "home_elo_pre": 1486.5,
+      "home_elo_pre": 1486.6,
       "away_elo_pre": 1519.8,
       "home_elo_post": 1489.4,
       "away_elo_post": 1516.9
@@ -13095,7 +13095,7 @@
       "away_score": 2,
       "home_elo_pre": 1498.1,
       "away_elo_pre": 1495.0,
-      "home_elo_post": 1499.3,
+      "home_elo_post": 1499.4,
       "away_elo_post": 1493.7
     },
     {
@@ -13140,7 +13140,7 @@
       "home_elo_pre": 1488.6,
       "away_elo_pre": 1478.9,
       "home_elo_post": 1486.2,
-      "away_elo_post": 1481.3
+      "away_elo_post": 1481.4
     },
     {
       "date": "2026-06-23",
@@ -13247,7 +13247,7 @@
       "away": "AZ",
       "home_score": 3,
       "away_score": 4,
-      "home_elo_pre": 1499.3,
+      "home_elo_pre": 1499.4,
       "away_elo_pre": 1493.7,
       "home_elo_post": 1497.8,
       "away_elo_post": 1495.2
@@ -13271,7 +13271,7 @@
       "away_score": 1,
       "home_elo_pre": 1453.2,
       "away_elo_pre": 1503.7,
-      "home_elo_post": 1456.7,
+      "home_elo_post": 1456.8,
       "away_elo_post": 1500.1
     },
     {
@@ -13357,7 +13357,7 @@
       "away": "BAL",
       "home_score": 7,
       "away_score": 6,
-      "home_elo_pre": 1456.7,
+      "home_elo_pre": 1456.8,
       "away_elo_pre": 1500.1,
       "home_elo_post": 1458.2,
       "away_elo_post": 1498.6
@@ -13413,7 +13413,7 @@
       "home_score": 1,
       "away_score": 3,
       "home_elo_pre": 1486.2,
-      "away_elo_pre": 1481.3,
+      "away_elo_pre": 1481.4,
       "home_elo_post": 1483.8,
       "away_elo_post": 1483.7
     },
@@ -14108,7 +14108,7 @@
       "home_elo_pre": 1502.0,
       "away_elo_pre": 1483.4,
       "home_elo_post": 1504.4,
-      "away_elo_post": 1480.9
+      "away_elo_post": 1481.0
     },
     {
       "date": "2026-06-29",
@@ -14260,7 +14260,7 @@
       "home_score": 1,
       "away_score": 8,
       "home_elo_pre": 1504.4,
-      "away_elo_pre": 1480.9,
+      "away_elo_pre": 1481.0,
       "home_elo_post": 1499.7,
       "away_elo_post": 1485.7
     },
@@ -15108,7 +15108,7 @@
       "away_score": 5,
       "home_elo_pre": 1521.3,
       "away_elo_pre": 1522.3,
-      "home_elo_post": 1517.8,
+      "home_elo_post": 1517.9,
       "away_elo_post": 1525.7
     },
     {
@@ -15249,7 +15249,7 @@
       "away": "NYY",
       "home_score": 6,
       "away_score": 4,
-      "home_elo_pre": 1517.8,
+      "home_elo_pre": 1517.9,
       "away_elo_pre": 1525.7,
       "home_elo_post": 1520.0,
       "away_elo_post": 1523.6
@@ -15427,7 +15427,7 @@
       "away_score": 2,
       "home_elo_pre": 1483.4,
       "away_elo_pre": 1486.8,
-      "home_elo_post": 1487.0,
+      "home_elo_post": 1487.1,
       "away_elo_post": 1483.1
     },
     {
@@ -15678,7 +15678,7 @@
       "away": "NYY",
       "home_score": 3,
       "away_score": 5,
-      "home_elo_pre": 1487.0,
+      "home_elo_pre": 1487.1,
       "away_elo_pre": 1525.7,
       "home_elo_post": 1485.0,
       "away_elo_post": 1527.8
@@ -16131,7 +16131,7 @@
       "away_score": 1,
       "home_elo_pre": 1462.6,
       "away_elo_pre": 1429.4,
-      "home_elo_post": 1464.4,
+      "home_elo_post": 1464.5,
       "away_elo_post": 1427.6
     },
     {
@@ -16317,7 +16317,7 @@
       "home_score": 0,
       "away_score": 7,
       "home_elo_pre": 1490.0,
-      "away_elo_pre": 1464.4,
+      "away_elo_pre": 1464.5,
       "home_elo_post": 1485.2,
       "away_elo_post": 1469.3
     },
@@ -16362,7 +16362,7 @@
       "away_score": 1,
       "home_elo_pre": 1512.5,
       "away_elo_pre": 1460.3,
-      "home_elo_post": 1515.2,
+      "home_elo_post": 1515.3,
       "away_elo_post": 1457.5
     },
     {
@@ -16473,7 +16473,7 @@
       "home_elo_pre": 1416.5,
       "away_elo_pre": 1486.2,
       "home_elo_post": 1422.8,
-      "away_elo_post": 1479.8
+      "away_elo_post": 1479.9
     },
     {
       "date": "2026-07-18",
@@ -16536,7 +16536,7 @@
       "away": "NYM",
       "home_score": 1,
       "away_score": 6,
-      "home_elo_pre": 1515.2,
+      "home_elo_pre": 1515.3,
       "away_elo_pre": 1457.5,
       "home_elo_post": 1510.7,
       "away_elo_post": 1462.0
@@ -16625,7 +16625,7 @@
       "home_score": 2,
       "away_score": 5,
       "home_elo_pre": 1422.8,
-      "away_elo_pre": 1479.8,
+      "away_elo_pre": 1479.9,
       "home_elo_post": 1420.3,
       "away_elo_post": 1482.3
     },
@@ -16879,7 +16879,7 @@
       "away_score": 2,
       "home_elo_pre": 1443.1,
       "away_elo_pre": 1464.2,
-      "home_elo_post": 1444.4,
+      "home_elo_post": 1444.5,
       "away_elo_post": 1462.8
     },
     {
@@ -17020,7 +17020,7 @@
       "away": "SF",
       "home_score": 5,
       "away_score": 4,
-      "home_elo_pre": 1444.4,
+      "home_elo_pre": 1444.5,
       "away_elo_pre": 1462.8,
       "home_elo_post": 1445.8,
       "away_elo_post": 1461.5
@@ -17275,7 +17275,7 @@
       "away_score": 7,
       "home_elo_pre": 1505.8,
       "away_elo_pre": 1535.8,
-      "home_elo_post": 1504.4,
+      "home_elo_post": 1504.5,
       "away_elo_post": 1537.1
     },
     {
@@ -17471,7 +17471,7 @@
       "away": "ATL",
       "home_score": 3,
       "away_score": 2,
-      "home_elo_pre": 1504.4,
+      "home_elo_pre": 1504.5,
       "away_elo_pre": 1537.1,
       "home_elo_post": 1505.9,
       "away_elo_post": 1535.7
@@ -17902,7 +17902,7 @@
       "away_score": 6,
       "home_elo_pre": 1489.5,
       "away_elo_pre": 1466.7,
-      "home_elo_post": 1491.3,
+      "home_elo_post": 1491.4,
       "away_elo_post": 1464.8
     },
     {
@@ -17924,7 +17924,7 @@
       "away_score": 3,
       "home_elo_pre": 1488.3,
       "away_elo_pre": 1532.4,
-      "home_elo_post": 1487.0,
+      "home_elo_post": 1487.1,
       "away_elo_post": 1533.7
     },
     {
@@ -18021,7 +18021,7 @@
       "away": "TOR",
       "home_score": 2,
       "away_score": 5,
-      "home_elo_pre": 1491.3,
+      "home_elo_pre": 1491.4,
       "away_elo_pre": 1464.8,
       "home_elo_post": 1488.1,
       "away_elo_post": 1468.1
@@ -18120,7 +18120,7 @@
       "away": "NYY",
       "home_score": 6,
       "away_score": 5,
-      "home_elo_pre": 1487.0,
+      "home_elo_pre": 1487.1,
       "away_elo_pre": 1533.7,
       "home_elo_post": 1488.6,
       "away_elo_post": 1532.2
@@ -18342,7 +18342,7 @@
       "away_score": 6,
       "home_elo_pre": 1523.5,
       "away_elo_pre": 1490.1,
-      "home_elo_post": 1519.2,
+      "home_elo_post": 1519.3,
       "away_elo_post": 1494.3
     },
     {
@@ -18472,7 +18472,7 @@
       "away": "CWS",
       "home_score": 1,
       "away_score": 0,
-      "home_elo_pre": 1519.2,
+      "home_elo_pre": 1519.3,
       "away_elo_pre": 1494.3,
       "home_elo_post": 1520.4,
       "away_elo_post": 1493.1
@@ -18805,7 +18805,7 @@
       "home_elo_pre": 1552.9,
       "away_elo_pre": 1490.6,
       "home_elo_post": 1551.2,
-      "away_elo_post": 1492.3
+      "away_elo_post": 1492.4
     },
     {
       "date": "2026-08-03",
@@ -18816,7 +18816,7 @@
       "home_elo_pre": 1536.0,
       "away_elo_pre": 1564.9,
       "home_elo_post": 1539.6,
-      "away_elo_post": 1561.2
+      "away_elo_post": 1561.3
     },
     {
       "date": "2026-08-03",
@@ -18904,7 +18904,7 @@
       "home_elo_pre": 1514.1,
       "away_elo_pre": 1477.8,
       "home_elo_post": 1517.0,
-      "away_elo_post": 1474.8
+      "away_elo_post": 1474.9
     },
     {
       "date": "2026-08-04",
@@ -18925,7 +18925,7 @@
       "away_score": 2,
       "home_elo_pre": 1541.1,
       "away_elo_pre": 1498.2,
-      "home_elo_post": 1545.1,
+      "home_elo_post": 1545.2,
       "away_elo_post": 1494.1
     },
     {
@@ -18957,7 +18957,7 @@
       "home_score": 4,
       "away_score": 2,
       "home_elo_pre": 1551.2,
-      "away_elo_pre": 1492.3,
+      "away_elo_pre": 1492.4,
       "home_elo_post": 1552.8,
       "away_elo_post": 1490.7
     },
@@ -18968,7 +18968,7 @@
       "home_score": 5,
       "away_score": 1,
       "home_elo_pre": 1539.6,
-      "away_elo_pre": 1561.2,
+      "away_elo_pre": 1561.3,
       "home_elo_post": 1542.9,
       "away_elo_post": 1558.0
     },
@@ -19090,7 +19090,7 @@
       "away_score": 6,
       "home_elo_pre": 1490.4,
       "away_elo_pre": 1469.3,
-      "home_elo_post": 1488.8,
+      "home_elo_post": 1488.9,
       "away_elo_post": 1470.8
     },
     {
@@ -19111,7 +19111,7 @@
       "home_score": 4,
       "away_score": 10,
       "home_elo_pre": 1517.0,
-      "away_elo_pre": 1474.8,
+      "away_elo_pre": 1474.9,
       "home_elo_post": 1512.3,
       "away_elo_post": 1479.6
     },
@@ -19132,7 +19132,7 @@
       "away": "CWS",
       "home_score": 4,
       "away_score": 0,
-      "home_elo_pre": 1545.1,
+      "home_elo_pre": 1545.2,
       "away_elo_pre": 1494.1,
       "home_elo_post": 1547.6,
       "away_elo_post": 1491.7
@@ -19220,7 +19220,7 @@
       "away": "NYM",
       "home_score": 6,
       "away_score": 13,
-      "home_elo_pre": 1488.8,
+      "home_elo_pre": 1488.9,
       "away_elo_pre": 1470.8,
       "home_elo_post": 1484.2,
       "away_elo_post": 1475.5
@@ -20026,7 +20026,7 @@
       "home_elo_pre": 1428.2,
       "away_elo_pre": 1480.6,
       "home_elo_post": 1429.7,
-      "away_elo_post": 1479.0
+      "away_elo_post": 1479.1
     },
     {
       "date": "2026-08-11",
@@ -20244,7 +20244,7 @@
       "home_score": 5,
       "away_score": 2,
       "home_elo_pre": 1429.7,
-      "away_elo_pre": 1479.0,
+      "away_elo_pre": 1479.1,
       "home_elo_post": 1432.8,
       "away_elo_post": 1476.0
     },
@@ -20312,7 +20312,7 @@
       "home_elo_pre": 1480.5,
       "away_elo_pre": 1551.8,
       "home_elo_post": 1485.3,
-      "away_elo_post": 1546.9
+      "away_elo_post": 1547.0
     },
     {
       "date": "2026-08-13",
@@ -20353,7 +20353,7 @@
       "away": "STL",
       "home_score": 3,
       "away_score": 0,
-      "home_elo_pre": 1546.9,
+      "home_elo_pre": 1547.0,
       "away_elo_pre": 1490.2,
       "home_elo_post": 1549.0,
       "away_elo_post": 1488.1
@@ -21268,7 +21268,7 @@
       "away_score": 2,
       "home_elo_pre": 1492.4,
       "away_elo_pre": 1436.9,
-      "home_elo_post": 1493.4,
+      "home_elo_post": 1493.5,
       "away_elo_post": 1435.9
     },
     {
@@ -21376,7 +21376,7 @@
       "away": "LAA",
       "home_score": 3,
       "away_score": 18,
-      "home_elo_pre": 1493.4,
+      "home_elo_pre": 1493.5,
       "away_elo_pre": 1435.9,
       "home_elo_post": 1486.4,
       "away_elo_post": 1442.9
@@ -21510,7 +21510,7 @@
       "away_score": 0,
       "home_elo_pre": 1512.8,
       "away_elo_pre": 1451.5,
-      "home_elo_post": 1516.2,
+      "home_elo_post": 1516.3,
       "away_elo_post": 1448.1
     },
     {
@@ -21684,7 +21684,7 @@
       "away": "CIN",
       "home_score": 5,
       "away_score": 11,
-      "home_elo_pre": 1516.2,
+      "home_elo_pre": 1516.3,
       "away_elo_pre": 1448.1,
       "home_elo_post": 1511.2,
       "away_elo_post": 1453.2
@@ -22302,7 +22302,7 @@
       "away_score": 8,
       "home_elo_pre": 1487.2,
       "away_elo_pre": 1500.7,
-      "home_elo_post": 1485.7,
+      "home_elo_post": 1485.8,
       "away_elo_post": 1502.1
     },
     {
@@ -22333,7 +22333,7 @@
       "away": "BAL",
       "home_score": 7,
       "away_score": 5,
-      "home_elo_pre": 1485.7,
+      "home_elo_pre": 1485.8,
       "away_elo_pre": 1502.1,
       "home_elo_post": 1487.9,
       "away_elo_post": 1500.0
@@ -22368,7 +22368,7 @@
       "away_score": 8,
       "home_elo_pre": 1483.7,
       "away_elo_pre": 1559.7,
-      "home_elo_post": 1480.4,
+      "home_elo_post": 1480.5,
       "away_elo_post": 1562.9
     },
     {
@@ -22443,7 +22443,7 @@
       "away": "HOU",
       "home_score": 1,
       "away_score": 3,
-      "home_elo_pre": 1480.4,
+      "home_elo_pre": 1480.5,
       "away_elo_pre": 1488.5,
       "home_elo_post": 1478.2,
       "away_elo_post": 1490.8
@@ -22479,7 +22479,7 @@
       "home_elo_pre": 1537.2,
       "away_elo_pre": 1418.3,
       "home_elo_post": 1538.5,
-      "away_elo_post": 1417.0
+      "away_elo_post": 1417.1
     },
     {
       "date": "2026-08-28",
@@ -22621,7 +22621,7 @@
       "away_score": 5,
       "home_elo_pre": 1538.1,
       "away_elo_pre": 1450.8,
-      "home_elo_post": 1541.5,
+      "home_elo_post": 1541.6,
       "away_elo_post": 1447.4
     },
     {
@@ -22708,7 +22708,7 @@
       "home_score": 2,
       "away_score": 1,
       "home_elo_pre": 1538.5,
-      "away_elo_pre": 1417.0,
+      "away_elo_pre": 1417.1,
       "home_elo_post": 1539.3,
       "away_elo_post": 1416.3
     },
@@ -22894,7 +22894,7 @@
       "away": "CIN",
       "home_score": 5,
       "away_score": 7,
-      "home_elo_pre": 1541.5,
+      "home_elo_pre": 1541.6,
       "away_elo_pre": 1447.4,
       "home_elo_post": 1538.5,
       "away_elo_post": 1450.4
@@ -23094,7 +23094,7 @@
       "away_score": 5,
       "home_elo_pre": 1474.7,
       "away_elo_pre": 1535.7,
-      "home_elo_post": 1478.3,
+      "home_elo_post": 1478.4,
       "away_elo_post": 1532.1
     },
     {
@@ -23213,7 +23213,7 @@
       "away": "ATL",
       "home_score": 0,
       "away_score": 9,
-      "home_elo_pre": 1478.3,
+      "home_elo_pre": 1478.4,
       "away_elo_pre": 1532.1,
       "home_elo_post": 1474.2,
       "away_elo_post": 1536.2
@@ -24030,7 +24030,7 @@
       "home_elo_pre": 1557.5,
       "away_elo_pre": 1538.3,
       "home_elo_post": 1558.7,
-      "away_elo_post": 1537.0
+      "away_elo_post": 1537.1
     },
     {
       "date": "2026-09-07",
@@ -24128,7 +24128,7 @@
       "away_score": 7,
       "home_elo_pre": 1484.4,
       "away_elo_pre": 1487.2,
-      "home_elo_post": 1482.0,
+      "home_elo_post": 1482.1,
       "away_elo_post": 1489.5
     },
     {
@@ -24193,7 +24193,7 @@
       "home_score": 4,
       "away_score": 3,
       "home_elo_pre": 1558.7,
-      "away_elo_pre": 1537.0,
+      "away_elo_pre": 1537.1,
       "home_elo_post": 1559.9,
       "away_elo_post": 1535.9
     },
@@ -24239,7 +24239,7 @@
       "home_elo_pre": 1460.1,
       "away_elo_pre": 1490.3,
       "home_elo_post": 1461.6,
-      "away_elo_post": 1488.8
+      "away_elo_post": 1488.9
     },
     {
       "date": "2026-09-08",
@@ -24250,7 +24250,7 @@
       "home_elo_pre": 1558.2,
       "away_elo_pre": 1456.2,
       "home_elo_post": 1559.1,
-      "away_elo_post": 1455.3
+      "away_elo_post": 1455.4
     },
     {
       "date": "2026-09-09",
@@ -24281,7 +24281,7 @@
       "home_score": 7,
       "away_score": 6,
       "home_elo_pre": 1461.6,
-      "away_elo_pre": 1488.8,
+      "away_elo_pre": 1488.9,
       "home_elo_post": 1463.0,
       "away_elo_post": 1487.4
     },
@@ -24335,7 +24335,7 @@
       "away": "NYM",
       "home_score": 14,
       "away_score": 15,
-      "home_elo_pre": 1482.0,
+      "home_elo_pre": 1482.1,
       "away_elo_pre": 1489.5,
       "home_elo_post": 1480.6,
       "away_elo_post": 1491.0
@@ -24413,7 +24413,7 @@
       "home_score": 14,
       "away_score": 1,
       "home_elo_pre": 1559.1,
-      "away_elo_pre": 1455.3,
+      "away_elo_pre": 1455.4,
       "home_elo_post": 1562.4,
       "away_elo_post": 1452.1
     },
@@ -24689,7 +24689,7 @@
       "away_score": 5,
       "home_elo_pre": 1466.2,
       "away_elo_pre": 1441.5,
-      "home_elo_post": 1467.3,
+      "home_elo_post": 1467.4,
       "away_elo_post": 1440.3
     },
     {
@@ -24819,7 +24819,7 @@
       "away": "LAA",
       "home_score": 6,
       "away_score": 5,
-      "home_elo_pre": 1467.3,
+      "home_elo_pre": 1467.4,
       "away_elo_pre": 1440.3,
       "home_elo_post": 1468.5,
       "away_elo_post": 1439.1
@@ -24866,7 +24866,7 @@
       "home_elo_pre": 1529.6,
       "away_elo_pre": 1491.9,
       "home_elo_post": 1533.5,
-      "away_elo_post": 1488.0
+      "away_elo_post": 1488.1
     },
     {
       "date": "2026-09-13",
@@ -25204,7 +25204,7 @@
       "away": "KC",
       "home_score": 4,
       "away_score": 2,
-      "home_elo_pre": 1488.0,
+      "home_elo_pre": 1488.1,
       "away_elo_pre": 1461.7,
       "home_elo_post": 1489.9,
       "away_elo_post": 1459.9
@@ -25602,7 +25602,7 @@
       "away_score": 5,
       "home_elo_pre": 1405.2,
       "away_elo_pre": 1461.8,
-      "home_elo_post": 1403.9,
+      "home_elo_post": 1404.0,
       "away_elo_post": 1463.0
     },
     {
@@ -25787,7 +25787,7 @@
       "away": "SEA",
       "home_score": 5,
       "away_score": 3,
-      "home_elo_pre": 1403.9,
+      "home_elo_pre": 1404.0,
       "away_elo_pre": 1463.0,
       "home_elo_post": 1406.4,
       "away_elo_post": 1460.5
@@ -25921,8 +25921,8 @@
       "away_score": 3,
       "home_elo_pre": 1477.6,
       "away_elo_pre": 1477.2,
-      "home_elo_post": 1479.6,
-      "away_elo_post": 1475.1
+      "home_elo_post": 1479.7,
+      "away_elo_post": 1475.2
     },
     {
       "date": "2026-09-20",
@@ -26019,7 +26019,7 @@
       "home_score": 9,
       "away_score": 2,
       "home_elo_pre": 1502.3,
-      "away_elo_pre": 1475.1,
+      "away_elo_pre": 1475.2,
       "home_elo_post": 1505.8,
       "away_elo_post": 1471.6
     },
@@ -26074,7 +26074,7 @@
       "home_score": 2,
       "away_score": 0,
       "home_elo_pre": 1498.3,
-      "away_elo_pre": 1479.6,
+      "away_elo_pre": 1479.7,
       "home_elo_post": 1500.2,
       "away_elo_post": 1477.7
     },
@@ -26912,7 +26912,7 @@
       "home_elo_pre": 1444.6,
       "away_elo_pre": 1506.8,
       "home_elo_post": 1446.1,
-      "away_elo_post": 1505.2
+      "away_elo_post": 1505.3
     },
     {
       "date": "2026-09-27",
@@ -26992,5 +26992,5 @@
       "away_elo_post": 1475.9
     }
   ],
-  "updated": "2026-10-09"
+  "updated": "2026-10-10"
 }

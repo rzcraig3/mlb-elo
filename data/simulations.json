@@ -264,7 +264,7 @@
       "make_playoffs_pct": 100.0,
       "win_division_pct": 0.0,
       "make_lcs_pct": 18.5,
-      "win_pennant_pct": 9.2,
+      "win_pennant_pct": 9.3,
       "win_ws_pct": 5.1,
       "win_dist": {
         "lo": 84,
@@ -327,7 +327,7 @@
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
       "make_lcs_pct": 59.3,
-      "win_pennant_pct": 34.9,
+      "win_pennant_pct": 35.0,
       "win_ws_pct": 16.0,
       "win_dist": {
         "lo": 103,
@@ -463,7 +463,7 @@
       }
     },
     "CLE": {
-      "elo": 1505.2,
+      "elo": 1505.3,
       "w": 85,
       "l": 77,
       "elo_7d_change": 0.0,
@@ -578,7 +578,7 @@
       "projected_wins": 100.0,
       "make_playoffs_pct": 100.0,
       "win_division_pct": 100.0,
-      "make_lcs_pct": 59.2,
+      "make_lcs_pct": 59.1,
       "win_pennant_pct": 25.4,
       "win_ws_pct": 11.2,
       "win_dist": {
@@ -631,6 +631,6 @@
       }
     }
   },
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "simulations": 10000
 }
